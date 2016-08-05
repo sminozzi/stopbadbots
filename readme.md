@@ -97,9 +97,6 @@ Where is the demo video?
 
 
 
-### Screenshots 
-1. Control Panel
-2. Default Bot Table
 
 ### Changelog 
 1.4 2016-08-05 -  Add Screen Options at bots table and readme.txt message was tested with WordPress 4.6. 
