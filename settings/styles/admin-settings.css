@@ -1,0 +1,74 @@
+/* Form
+------------------------------*/
+.form-table {
+	width:80%;
+}
+p.submit {
+	float:right;
+}
+form.reset-form {
+	margin-top:24px;
+}
+.radio-options label {
+	margin-right:10px;
+}
+.radio-options label input {
+	margin-left:5px;
+}
+textarea {
+	width:100%;
+}
+
+/* MultiField
+------------------------------*/
+.multi-field-wrapper {
+	padding-top: 30px;
+	background-color: #aab2b5;
+}
+
+.multi-field-wrapper li {
+	padding:10px;
+	position:relative;
+	margin-bottom:0;
+	background-color: #ececec;
+	border-bottom: 1px solid #dfdfdf;
+	border-top: 1px solid #f9f9f9;
+}
+
+.multi-field-wrapper .field,
+.single-fieldgroup .field {
+	margin-bottom:10px;
+}
+
+.multi-field-wrapper label {
+	color:#21759b;
+}
+
+.multi-field-wrapper .handle {
+	display:block;
+	background-image:url(../images/handle.png);
+	background-color:#dddddd;
+	height:100%;
+	width:36px;
+	position:absolute;
+	top:0;
+	right:0;
+}
+
+.multi-field-wrapper .remove-button {
+	display:block;
+	background-color: #21759b;
+	color: #ccc;
+	border-radius: 10px;
+	width:20px;
+	height:20px;
+	text-align: center;
+	text-transform:lowercase;
+	position:absolute;
+	top:10px;
+	right:50px;
+}
+
+.multi-field-wrapper .remove-button.disabled {
+	display:none;
+}
