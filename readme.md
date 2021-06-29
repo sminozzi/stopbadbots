@@ -44,6 +44,12 @@ The easiest way to block bad bots. Blocks more than 1000 bad bots with one click
 
 Demo Video: http://stopbadbots.com/demo-video/
 
+Block visitors from China, Cuba and North Korea
+
+If you are getting a lot of spam and malicious traffic from China, Cuba and North Korea, with our plugin
+you can block them without worry about install (and mantain) huge databases of IP address.
+Just let our plugin take care that (Premium).
+
 
 ### Installation 
 
