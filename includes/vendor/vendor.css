@@ -1,0 +1,114 @@
+/*
+#TB_ajaxContent, #TB_window  {
+   max-height: 150px !important;
+   width: 800px  !important;
+}
+*/
+
+/* wpmemory-scan-id */
+.bill_TB_window {
+	/* background: red !important; */
+	min-height: 320px !important;
+}
+.bill-navitem {
+	display: inline-block;
+	/* float:left; */
+	width: 30%;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+  }
+  .bill-navpanel{
+	/* text-align: center; */
+	display: flex;
+    justify-content: center;
+	align-items: center;
+	background: white;
+	max-width: 100%
+  }
+#bill-parent {
+	/*
+	border: 1px solid black;
+	margin: 1rem;
+	padding: 2rem 2rem;
+	*/
+	text-align: center;
+  }
+  .bill-child-cols {
+	display: inline-block;
+	/*
+	border: 1px solid red;
+	*/
+	padding: 0px;
+	vertical-align: middle;
+  }
+#TB_overlay {
+	background: rgb(238, 235, 235) !important;
+	opacity: 1;
+	filter: alpha(opacity=100);
+	position: relative;
+}
+#TB_window {
+	/* position: relative; */
+	background-color: #fff;
+	/* background-color: yellow; */
+	/* top: 20%; */
+	left: 50%;
+ 	height: 320px !important; /* 290 */
+	 width: 430px !important;
+}
+#TB_ajaxContent.TB_modal, .thickbox-loading{
+    max-height: 320px !important; /* era 300 */
+	text-align:center;
+   /* background: yellow; */
+}
+/*
+#TB_overlay {
+	background: #000;
+	opacity: 0.7;
+	filter: alpha(opacity=70);
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 100050; 
+}
+#TB_window {
+	position: fixed;
+	background-color: #fff;
+	z-index: 100050; 
+	visibility: hidden;
+	text-align: left;
+	top: 50%;
+	left: 50%;
+	-webkit-box-shadow: 0 3px 6px rgba( 0, 0, 0, 0.3 );
+	box-shadow: 0 3px 6px rgba( 0, 0, 0, 0.3 );
+}
+*/
+.wpmemory-scan-container {
+    background: white;
+    padding: 15px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+#wpmemory_scan_msg {
+	padding-left: 0px;
+}
+.spinner {
+	/* background: url(images/spinner.gif) no-repeat; */
+	background-size: 30px 30px;
+	/* display: inline-block; */
+	visibility: hidden;
+	float: right;
+	vertical-align: middle;
+	opacity: .7;
+	width: 30px !important;
+	height: 30px !important;
+	margin: 4px 10px 0;
+}
+/*
+#wpmemory-pause-button{
+ margin-left: 20px;
+}
+*/

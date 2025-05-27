@@ -1,0 +1,429 @@
+.jqplot-axis {
+  font-size: 8px !important;
+  color:red;
+}
+
+
+
+#stopbadbots-containerright-dashboard h2 {
+  border-bottom: 5px solid #ccc;
+  padding-bottom: 5px;
+  text-shadow: 5px 5px 10px #888;
+}
+#stopbadbots-containerright-dashboard
+{
+float: right;
+/* background: lightgreen; */
+/* width: 300px; */
+/* max-width: 29%; */
+/* margin-top: 17px; */
+padding: 0px; 
+}
+#stopbadbots-containerright-dashboard ul { 
+  /* max-width: 300px; */
+  padding: 5px 10px 15px 30px;
+  margin-left: 5px;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  list-style: disc;
+  -moz-box-shadow: 5px 5px 15px #aaa;
+  -webkit-box-shadow: 5px 5px 15px #aaa;
+  box-shadow: 5px 5px 15px #aaa; 
+}
+#stopbadbots-containerright-dashboard img { 
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+
+#stopbadbots-dashboard-left{
+  float:left;
+  max-width: 74%;
+  min-width: 74%;
+}
+
+#stopbadbots-dashboard-right{
+  float:right;
+  max-width: 25%;
+  /* background: yellow; */
+  margin-right: 1%;
+}
+
+#bill_admin_logo
+{
+	
+	max-height:45px; 
+ 	
+}
+
+#pluginfix-wpconfig
+{
+	margin: .5em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+}
+.stopbadbots_flags
+{
+  border: 1px solid #C8C5C5;  
+}
+table.greyGridTable {
+  border: 2px solid #FFFFFF;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.greyGridTable td, table.greyGridTable th {
+  border: 1px solid #FFFFFF;
+  padding: 3px 4px;
+}
+table.greyGridTable tbody td {
+  font-size: 13px;
+}
+table.greyGridTable td:nth-child(even) {
+  background: #EBEBEB;
+}
+table.greyGridTable thead {
+  background: #FFFFFF;
+  border-bottom: 4px solid lightgray; /* #333333; */
+}
+table.greyGridTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #333333;
+  text-align: center;
+  border-left: 2px solid lightgray; /* #333333; */
+}
+table.greyGridTable thead th:first-child {
+  border-left: none;
+}
+table.greyGridTable tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  color: #333333;
+  border-top: 4px solid #333333;
+}
+table.greyGridTable tfoot td {
+  font-size: 14px;
+}
+.bill-dashboard-titles{
+    margin-top: -40px;
+    margin-left: 60px;
+    font-size: 16pt;
+    color: #0546AE;
+    margin-bottom:  20px;
+    font-weight: bold;
+}
+.button-primary, .button-Secondary, .button-secondary{
+    margin-top: 5px !important;
+}
+#memory-tab{
+    font-size: 20px;
+    padding: 20px;
+    line-height: 22px;  
+     overflow:auto;
+     height: auto; 
+}
+#freebies-tab{
+    font-size: 20px;
+    padding: 20px;
+    line-height: 22px;  
+    height: 330px;
+    margin-top: 20px;  
+}
+.freebies-tab-link{
+    font-size: 26px;
+    height: 30px; 
+    margin-top: -0px !important;
+    margin-left: 20px;
+    top: -5px;
+    position: relative;
+}
+.freebies-tab-icon
+{  
+  margin-top:0px;
+  padding-top: 0px;
+  max-width: 30px;
+}
+.freebies-row
+{  
+  height: 50px;
+  vertical-align: top !important;
+  width: 100%;
+  margin: 0 auto;
+  text-align: left;
+  padding: 0px;
+}
+#stopbadbots-not-activated{
+    display: none;
+    width: 400px;
+    height: 200px;    
+}
+   #stopbadbots-update-theme{
+    padding: 20px;
+    font-size: 14px;
+   }
+#stopbadbots-theme-help-wrapper{
+      margin-top: 0px;
+      max-width: 100%;
+      width: 100%;
+      min-height: 100%;
+      padding: 0px;  /* 20px  0px  0px; */
+      margin: -0px 0px 20px 0px;
+} 
+.bill-feedback-stopbadbots, .bill-support-stopbadbots, .bill-desactivate-stopbadbots {
+    display: none;
+	margin: .5em;
+    max-width:650px;
+    margin-right: 2em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    font-size: 14px;
+}
+#stopbadbots-logo {
+     padding-top:0px;
+     margin-left: 0px;
+   }
+
+#stopbadbots-nocloud {
+    padding-top:0px;
+    float:right;
+    margin-top: -100px;
+    display:block;
+  }
+
+
+   #stopbadbots-status-box{
+     margin-top: 20px;
+     min-height: 220px;
+     /* height:220px; */
+     max-width: 100%;
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     margin-bottom: 30px;
+     padding: 0px;
+     margin-right: 15px;
+    /*  margin:0px; */
+   }
+   #connect_status {
+     float:left;
+   }
+   #stopbadbots-help-status{
+    height: 42px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+   }
+   #stopbadbots-connect-tip{
+    margin-top: -20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    vertical-align: middle ;
+    padding: 20px;
+   }
+   .stopbadbots_status_row{
+     float: left;
+     margin-left: 5px;
+     font-size: 22px;
+       position: relative;
+    top: 25%;
+    margin-top:  0;
+   }
+   #stopbadbots-btn-connect-now{
+     float: left;
+     margin-left: 35px !important;
+   }
+   #stopbadbots-steps3{
+     margin-top: 10px;
+     min-height: 230px;
+     max-width: 100%;
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     margin-bottom: 10px;
+     margin-right: 15px;
+   }
+   #stopbadbots-services3{
+     margin-top: 15px;
+     min-height: 130px;
+     max-width: 100%;
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     margin-right: 15px;
+   } 
+  .stopbadbots-help-container1 {
+    display: flex;
+    font-size: 14px;
+}
+.stopbadbots-help-column {
+    -webkit-flex: 1;
+    flex: 1;
+    padding:15px;
+    box-sizing: border-box;
+    text-align:left;
+    max-width: 33% !important;
+    overflow: hidden;
+    font-size: 16px;
+}
+.stopbadbots-help-2column {
+    -webkit-flex: 1;
+    flex: 1;
+    padding:10px;
+    box-sizing: border-box;
+    text-align:left;
+    max-width: 48% !important;
+    /* overflow: hidden; */
+    font-size: 16px;
+}
+.stopbadbots-help-column-1 {
+    order: 1;
+        padding:10px;
+}
+.stopbadbots-help-column-2 {
+    order: 2;
+        padding:10px;
+}
+.stopbadbots-help-column-3 {
+    order: 3;
+        padding:10px;
+}
+.stopbadbots-block-title
+{
+  font-size:25px;
+  max-width:100% !important;
+  margin:0 auto;
+  text-align: center;
+  padding: 10px;
+  background-Color: #5b9dd9; /*#A5A5A5;  #0546AE; */
+  color:white;
+}
+h3
+{
+  Color: #0546AE;
+}
+#stopbadbots-imagewait
+{
+  padding-left: 20px;
+}
+#stopbadbots-faq-page
+{
+     margin-top: 20px;
+    /*  min-height: 430px; */
+     max-width: 100%;
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     margin-bottom: 15px;
+     margin-right: 15px;
+     font-size: 18px;
+     line-height: 20px;
+     padding: 0px;
+}
+#stopbadbots-memory-page
+{
+     margin-top: 20px;
+    /*  min-height: 430px; */
+     max-width: 100%;
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     margin-bottom: 15px;
+     margin-right: 15px;
+     font-size: 18px;
+     line-height: 20px;
+     padding: 0px;
+     overflow:auto;
+     height: auto;
+}
+#stopbadbots-freebies-page
+{
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     font-size: 18px;
+     line-height: 20px;
+     padding: 0px;
+     margin: 20px;
+     max-width: 100%;
+     text-align: center;
+}
+.bill-fix-stopbadbots-wrap
+{
+	margin: .5em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+}
+.bill-faq-stopbadbots
+{
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+@media screen and (max-width: 1100px) {
+ #stopbadbots-logo-image {
+   max-width: 200px;
+   } 
+    #stopbadbots_help_title
+    {
+      margin:0 auto;
+    }
+}
+@media screen and (max-width: 800px) {
+    .stopbadbots-help-container1 {
+        display: block;
+        max-height: 100%;
+        height:100%
+    }
+
+    #stopbadbots-nocloud {
+      display:none;
+    }
+
+    .stopbadbots-help-column, .stopbadbots-help-2column  {
+        min-width: 100% !important;
+    }
+    .stopbadbots-help-column-1 {
+      min-width:100%;
+    }
+    .stopbadbots-help-column-2 {
+      min-width:100%;
+    }
+    .stopbadbots-help-column-3 {
+      min-width:100%;
+    }
+}
+/* Tablets and iPads */
+@media (max-width: 767px) {
+  #stopbadbots-containerright-dashboard {
+      display: none !important;
+  }
+  #stopbadbots-dashboard-left{
+    float:left;
+    max-width: 100%;
+    min-width: 100%;
+  }
+}

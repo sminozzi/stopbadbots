@@ -1,0 +1,101 @@
+.bill-vote {
+	overflow: auto;
+	color: #111;
+}
+
+.bill-vote-wrap {
+	margin: .5em;
+    max-width:650px;
+    margin-right: 2em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    font-size: 14px;
+
+}
+.ACTIVATED_BOATDEALERPLUGIN,
+ .ACTIVATED_ANTIHACKERPLUGIN,
+ .ACTIVATED_REPORTATTACKS,
+ .ACTIVATED_STOPBADBOTS,
+ .BOATDEALERPLUGIN-wrap-vote,
+ .ANTIHACKERPLUGIN-wrap-vote,
+ .REPORTATTACKS-wrap-vote,
+ .STOPBADBOTS-wrap-vote
+  {
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    margin: 0px auto;
+    max-width: 750px;
+    text-align:center !important;
+    margin: 1em auto;
+
+}
+
+.boat_dealer_plugin-wrap-deactivate,
+.report_attacks-wrap-deactivate,
+.anti_hacker-wrap-deactivate,
+.stop_bad_bots-wrap-deactivate,
+.restore-classic-more-wrap-deactivate,
+#bill-wrap-install-modal
+  {
+	padding: 20px;
+	margin: 2em;
+    margin-right: 2em;
+
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    width: 450px;
+
+}
+.bill-vote-clear {
+	height: 0;
+	clear: both;
+}
+.bill-vote-gravatar {
+	float: left;
+	width: 90px;
+}
+.bill-vote-gravatar img {
+	margin: 10px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+.bill-vote-message {
+	overflow: auto;
+	margin-left: 90px;
+	padding: 0 2em;
+	background: #fff;
+	border-left: 1px solid #ddd;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.bill-vote-message p {
+	margin: 1.5em 0;
+	line-height: 1.5;
+    font-size: 14px;
+}
+.bill-vote-message a.button,
+.bill-vote-message span 
+{ 
+    margin-right: 0.5em; 
+    margin-top: 0.5em;
+}

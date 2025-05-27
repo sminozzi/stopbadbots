@@ -1,0 +1,217 @@
+.bill-activate-modal-wpmemory
+{
+  background: #f5591bc7;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 0 10px #173859;
+  -moz-box-shadow: 0 0 10px #173859;
+  box-shadow: 0 0 10px #173859;
+  margin: 0px auto;
+  max-width: 850px;
+  text-align:center !important;
+  margin: 1em auto;
+  margin-top: 10px;
+  height: auto;
+  padding:15px;
+
+}
+
+
+.wptools-wrap-deactivate, .wp-memory-wrap-deactivate, .bill-feedback-last {
+	overflow: auto;
+    /* width: 100%; */
+    /* margin: auto; */
+	/* max-width: 1000px;
+	width: 1000px; */
+	/* margin-left: 90px; */
+	padding: 0 2em;
+	background: rgb(228, 226, 226);
+	border-left: 1px solid #ddd;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+    text-align:left;
+	width: 800px;
+	max-width: 800px;
+	margin-left: 0px;
+
+		position: fixed;
+		top: 50;
+		left: 50%;
+		transform: translateX(-50%);
+		z-index: 1000; /* Ensure the modal is on top of other elements */
+		-webkit-box-shadow: 0 0 10px #173859;
+		-moz-box-shadow: 0 0 10px #173859;
+		box-shadow: 0 0 10px #173859;
+		margin-top:40px;
+
+	  
+	  
+}
+.bill-feedback-last {
+	overflow: auto;
+	color: #111;
+}
+
+
+.bill-feedback-last-wrap {
+	margin: .5em;
+    max-width:650px;
+    margin-right: 2em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    font-size: 14px;
+
+}
+
+.wp_memory-wrap-feedback-last {
+
+	margin: .5em;
+    max-width:650px;
+    margin-right: 2em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    font-size: 14px;
+	height: 200px;
+	max-height: 200px;
+
+
+
+}
+.ACTIVATED_BOATDEALERPLUGIN,
+ .ACTIVATED_ANTIHACKERPLUGIN,
+ .ACTIVATED_REPORTATTACKS,
+ .ACTIVATED_STOPBADBOTS,
+ .BOATDEALERPLUGIN-wrap-feedback-last,
+ .ANTIHACKERPLUGIN-wrap-feedback-last,
+ .REPORTATTACKS-wrap-feedback-last,
+ .STOPBADBOTS-wrap-feedback-last 
+  {
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    margin: 0px auto;
+    max-width: 650px;
+    text-align:center !important;
+    margin: 1em auto;
+
+}
+
+.boat_dealer_plugin-wrap-deactivate,
+.report_attacks-wrap-deactivate,
+.anti_hacker-wrap-deactivate,
+.stop_bad_bots-wrap-deactivate,
+.wp_memory-wrap-deactivate,
+.bill-minozzi-wrap-deactivate
+  {
+	margin: .5em;
+    margin-right: 2em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    width: 800px;
+
+}
+.bill-feedback-last-clear {
+	height: 0;
+	clear: both;
+}
+.bill-feedback-last-gravatar {
+	float: left;
+	width: 90px;
+}
+.bill-feedback-last-gravatar img {
+	margin: 10px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+.bill-feedback-last-message {
+	/*
+	overflow: auto;
+	margin-left: 90px;
+	padding: 0 2em;
+	background: #fff;
+	border-left: 1px solid #ddd;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	*/
+
+
+	margin: .5em;
+    margin-right: 2em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    width: 750px;
+	padding: 0 2em;
+
+
+}
+.bill-feedback-last-message {
+	margin: 1.5em 0;
+	line-height: 1.5;
+    font-size: 14px;
+	padding-left: 90px;
+}
+.bill-feedback-last-message a.button,
+.bill-feedback-last-message span 
+{ 
+    margin-right: 0.5em; 
+    margin-top: 0.5em;
+}
+    .bill-minozzi-button-group {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        max-width: 100%;
+        justify-content: center; /* Centraliza horizontalmente */
+        align-items: center; /* Centraliza verticalmente */
+        margin: 0 auto; /* Centraliza o container pai na página */
+        width: fit-content; /* Ajusta a largura conforme o conteúdo dos botões */
+    }
+    .bill-minozzi-button-group .button {
+        height: 40px;
+        line-height: 40px; /* Garante que o texto fique centralizado verticalmente */
+        padding: 0 20px; /* Ajusta o preenchimento horizontal conforme necessário */
+        white-space: nowrap;
+        overflow: hidden; /* Garante que o texto não transborde */
+        display: inline-flex;
+        align-items: center; /* Centraliza o texto verticalmente */
+    }
+	.bill-minozzi-button-group .button-secondary,
+    .bill-minozzi-button-group .button {
+        /* Normaliza os estilos */
+		margin-top: 5px;
+    }
+

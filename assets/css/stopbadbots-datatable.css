@@ -1,0 +1,65 @@
+#dataTableVisitorsSBB {
+
+    margin-right:20px !important;
+    max-width:100% ;
+    border: 0px;
+    padding-top:5px;
+  
+  } 
+  #stopbadbots-twrap{
+    clear: both;
+    margin: 0 auto;
+    width: 100%;
+    text-align:center;
+  }
+  
+  #stopbadbots_help_title
+  {
+    font-size:26px;
+    max-width:100% !important;
+    margin:0 auto;
+    text-align: center;
+    /* padding: 20px; */
+    Color: gray; /* #0546AE; */
+    margin-top: -40px;
+    font-weight:bold;
+    margin-bottom:0px;
+  }
+  #stopbadbots_help_subtitle
+  {
+    font-size:20px;
+    max-width:100% !important;
+    margin:0 auto;
+    text-align: center;
+    /* padding: 20px; */
+    Color: gray; /* #0546AE; */
+    font-weight:bold;
+    margin-bottom:0px;
+  }
+  #stopbadbots_table_upgrade_button{
+      margin: 0px;
+  }
+  
+  #stopbadbots_reload_button
+  {
+    font-size:18px;
+    max-width:100% !important;
+    margin:0 auto;
+    text-align: center;
+    /* padding: 20px; */
+    Color: gray; /* #0546AE; */
+    /* font-weight:bold; */
+    margin-bottom:0px;
+  }
+
+  #reloadButton {
+
+    background: #e5e1e1;
+    margin-top:10px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+    z-index: 9999;
+    position: relative;
+  
+  }

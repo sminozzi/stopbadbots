@@ -1,0 +1,5067 @@
+_zbot,_zbot,C
+---,---,C
+!Susie,!Susie,C
+.whoisde.de,.whoisde.de,C
+0.9xpre12,0.9xpre12,C
+007AC9,007AC9,C
+007Bot,007Bot,C
+01NET.COM,01NET.COM,C
+1001FirmsBot,1001FirmsBot,C
+13tabs,13tabs.com,C
+15miles,15miles.com,C
+173.212soso,173.212soso,
+192.comAgent,192.comAgent,
+1cupis,1cupis.ru,C
+1M7bot,1M7bot,C
+1noonbot,1noonbot,C
+1on1searchbot,1on1searchbot,
+1plusx,1plusx.com,C
+1scienceBot,1scienceBot,C
+2.xpre7,2.xpre7,C
+200PleaseBot,200PleaseBot,C
+2ansanbot,2ansanbot,C
+2Bone,2Bone,C
+2gisbot,2gisbot,C
+2ip.io,2ip.io,C
+2ip.ru,2ip.ru,C
+2locosbot,2locosbot,C
+360Spider,360Spider,C
+3d_search,3d_search,
+3de_search2,3de_search2,
+3g bot,3g bot,
+3gse,3gse,C
+3W1bot,3W1bot,C
+3w24.com,3w24.com,C
+404 Checker,404 Checker,C
+404check,404check,C
+404checker,404checker,C
+404enemy,404enemy.com,C
+440network,440network.com,C
+4algeria,4algeria.com,C
+4SeoHuntBot,4SeoHuntBot,C
+50.nu,50.nu,
+5Bot,+5Bot/1.0,C
+7ooo.ru,7ooo.ru,C
+7Siters,7Siters,C
+80legs,80legs,C
+A1 sitemap generator,A1 sitemap generator,C
+A1 website download,A1 website download,
+a3logics,a3logics,
+A6-Indexer,A6-Indexer,C
+A8bot,A8bot,C
+a8muf.co.uk,a8muf.co.uk,C
+aaathats3as,aaathats3as.com,C
+aabot,aabot,C
+AASA-Bot,AASA-Bot,C
+Aasp,Aasp,C
+Abacho,Abacho,C
+Abachobot,Abachobot,C
+abajournal,abajournal.com,C
+abby,abby,C
+ABCdatos,ABCdatos BotLink,C
+ablida,ablida,C
+Abolimba,Abolimba.de,C
+Abonti,Abonti,C
+abonti.com,abonti.com,C
+abot.com,abot.com,C
+abot.news,abot.news,C
+Abotemailsearch,Abotemailsearch,
+Aboundex,Aboundex,C
+Aboundexbot,Aboundex Bot,C
+aboutthedomain,aboutthedomain,C
+AboutUsBot,AboutUsBot,C
+Abrave Spider,Abrave Spider,
+AbuseIPDB_Bot,AbuseIPDB_Bot,C
+acastBot,acastBot,C
+Accelobot,Accelobot,C
+Accmonitor compliance server,Accmonitor compliance server,
+Accoon,Accoon,C
+Accoona-AI-Agent,Accoona-AI-Agent,C
+accoonabot,accoonabot,C
+Achulkov.net page walker,Achulkov.net page walker,
+ackerm,ackerm.com,C
+Acme.spider,Acme.spider,
+AcoiRobot,AcoiRobot,
+acontbot,acontbot,
+Acoon,Acoon,C
+AcoonBot,AcoonBot/4.10.6,C
+Acquia-crawler,Acquia-crawler,
+acrylicapps,acrylicapps,C
+Active-Housing-Bot,Active-Housing-Bot,C
+Activetouristbot,Activetouristbot,
+Acunetix,Acunetix,C
+Ad muncher,Ad muncher,C
+Adamm bot,Adamm bot,
+AdAuth,AdAuth,C
+adbeat,adbeat,C
+Adbeat bot,Adbeat bot,C
+Adbeat_bot,Adbeat_bot,
+ADBot,ADBot/9.0,C
+Adcashbot,Adcashbot,C
+add-page,add-page.com,C
+addictive.me.uk,addictive.me.uk,C
+addoor.net,addoor.net,C
+AddThis,AddThis,C
+AddThis.com,AddThis.com,C
+AdHitz,AdHitz,C
+ADmantX,ADmantX,C
+AdMedia bot,AdMedia bot,C
+Adminshop.com,Adminshop.com,
+AdnormCrawler,AdnormCrawler,
+AdoSpeaker,AdoSpeaker,
+adrecord,adrecord.com,C
+adressendeutschland.de,adressendeutschland.de,
+ADSARobot,ADSARobot,
+AdsCellar,AdsCellar.com,C
+AdsrvrBot,AdsrvrBot,C
+adstir,adstir,C
+adstxt,adstxt.com,C
+Advanced email extractor,Advanced email extractor,
+AdvBot,AdvBot/2.0,C
+ADWARY,ADWARY,C
+adweek,adweek,C
+AESOP_com_SpiderMan,AESOP_com_SpiderMan,
+Aespider,Aespider,
+Af knowledge now verity spider,Af knowledge now verity spider,
+AfD-Verbotsverfahren,AfD-Verbotsverfahren JETZT!,C
+AffiliateLabz,AffiliateLabz,C
+AffiliateLink,AffiliateLink,C
+affiliatewindow,affiliatewindow.com,C
+AfonsoIO,AfonsoIO,C
+agent3.com,agent3.com,C
+agentslug,agentslug,
+aggregagebot,aggregagebot,C
+Aggregator,Aggregator,C
+Aggregator:vocus,Aggregator:vocus,C
+ah-ha,ah-ha,
+Ah-ha.com crawler,Ah-ha.com crawler,
+AHC/2.1,AHC/2.1,C
+ahmadsoftware,ahmadsoftware.com,C
+Ahoy! The Homepage Finder,Ahoy! The Homepage Finder,
+Ahrefs,Ahrefs,C
+AhrefsBot,Ahrefs Bot,C
+AIBOT,AIBOT,C
+Aigents,Aigents,C
+aiHitBot,aiHitBot,C
+aiohttp,aiohttp,C
+aipbot,aipbot,C
+Airmail,Airmail,C
+Aisiid,Aisiid,
+AITCSRobot,AITCSRobot/1.1/1.1,
+Aitcsrobot/1.1,Aitcsrobot/1.1,
+Ajsitemap,Ajsitemap,
+akakce,akakce bot,C
+Akamai-sitesnapshot,Akamai-sitesnapshot,
+akula,akula,C
+alertra,alertra,C
+alexa,alexa,C
+Alexabot,Alexabot,C
+Alexawebsearchplatform,Alexawebsearchplatform,
+Alexfdownload,Alexfdownload,
+Alexibot,Alexibot,
+Alibaba,Alibaba,C
+Alignabot,Alignabot,C
+Alkalinebot,Alkalinebot,C
+All acronyms bot,All acronyms bot,
+Allani,Allani,C
+Alligator,Alligator,C
+allitebooks,allitebooks,C
+allloadin,allloadin,C
+Allmystery,Allmystery UrlBot,C
+allOrigins,allOrigins,C
+AllSubmitter,AllSubmitter,
+AlmaBot,AlmaBot,C
+almaden,almaden,C
+Alpha search agent,Alpha search agent,
+AlphaBot,AlphaBot/1.1.4,C
+alpslifesciencesearch,alpslifesciencesearch.com,C
+alternatehistory,alternatehistory.com,C
+AlwayEvolvingSeo,AlwayEvolvingSeo.com,C
+Alyze,Alyze.com,C
+alyze.info,alyze.info,C
+amagit,amagit,
+Amagit.COM,Amagit.COM,
+Amateurfilm,Amateurfilm,C
+Amazon-Advertising,Amazon-Advertising-ad-standards-bot,C
+americanfoodbloggers,americanfoodbloggers,C
+Amerla search bot,Amerla search bot,
+Amfibibot,Amfibibot,C
+AMG-bot,AMG-bot,C
+amibot,amibot,C
+amp-cloud,amp-cloud.de,C
+amp-wp,amp-wp,C
+Ampmppc.com,Ampmppc.com,
+ampparit,ampparit,C
+amstudiolb,amstudiolb.com,C
+AMZNKAssocBot,AMZNKAssocBot,C
+Analyzer,Analyzer,C
+Anarchie,Anarchie,
+AndersPinkBot,AndersPinkBot,C
+AnDOSid,AnDOSid,C
+AndroidDownloadManager,AndroidDownloadManager,C
+Anemone,Anemone,C
+aniabot,aniabot,C
+ANNUAIREFRANCAIS,ANNUAIREFRANCAIS.FR,C
+Anonymous,Anonymous,C
+anonymous.com,anonymous.com,C
+Anonymouse,Anonymouse,C
+Anotherbot,Anotherbot,
+AnsearchBot,AnsearchBot,C
+Answerbot,Answerbot,
+AnswerBus,AnswerBus,C
+Answerchase prove,Answerchase prove,C
+Ant.com,Ant.com,C
+AntBot,AntBot/1.0,C
+Anthill,Anthill,C
+antibot,antibot,C
+Antisantyworm,Antisantyworm,
+Antro.net,Antro.net,
+Anturis,Anturis Agent,C
+AntVoiceBot,AntVoiceBot,C
+AnyApexBot,AnyApexBot,C
+AnyEvent,AnyEvent,C
+Anygator,Anygator Service Bot,C
+AnyPresentations,AnyPresentations,C
+AnzwersCrawl,AnzwersCrawl,
+Aonde-spider,Aonde-spider,
+Apercite,Apercite,C
+Apexoo,Apexoo,
+ApolloBit,ApolloBit,C
+Aport,Aport,C
+AportWorm,AportWorm,
+AppEngine,AppEngine,C
+Appengine-google,Appengine-google,C
+Appid: s~stremor-crawler-,Appid: s~stremor-crawler-,
+appie,appie,C
+Appjad-Bot,Appjad-Bot,C
+Applebot,Applebot,C
+AppleNewsBot,AppleNewsBot,C
+appsto.re,appsto.re,C
+Aqua_Products,Aqua_Products/1.1,C
+AraBot,AraBot,C
+Arachmo,Arachmo,C
+Arachni,Arachni,C
+arachnode,arachnode,
+arachnode.net,arachnode.net,
+Arachnoidea,Arachnoidea,C
+Arachnophilia,Arachnophilia/1.1,
+aragna.net_bot,aragna.net_bot,C
+aragog,aragog,C
+Arameda,Arameda,
+Aranea,Aranea,C
+Araneo,Araneo,
+ARC Reader,ARC Reader,C
+ArcaneBot,ArcaneBot,C
+ArchitextSpider,ArchitextSpider,C
+archivageweb,archivageweb,C
+archive,archive,C
+archive.org_bot,archive.org_bot,C
+Arellis,Arellis,
+argenfybot,argenfybot,C
+ArhpostBot,ArhpostBot,C
+Aria equalizer,Aria equalizer,
+aria2,aria2,C
+Arianna.libero.it,Arianna.libero.it,
+ArielisBot,ArielisBot,C
+Arikus_spider,Arikus_spider,C
+armin.linkunion,armin.linkunion.de,C
+Art-Online,Art-Online,
+Art-online.com,Art-online.com,
+Artavisbot,Artavisbot,
+Artera,Artera,
+ArthurHoaro,ArthurHoaro,C
+articlesworldbank,articlesworldbank,C
+arzoonyab.com,arzoonyab.com,C
+asafaweb,asafaweb,C
+asafaweb.com,asafaweb.com,C
+ASAHA,ASAHA.com,C
+Asaha search engine turkey,Asaha search engine turkey,C
+asai.co.za,asai.co.za,C
+AsapBot,AsapBot,C
+Ask,Ask,C
+Ask Jeeves,Ask Jeeves,C
+AskQuickly,AskQuickly,
+AskTB,AskTB,C
+Asperatusbot,Asperatusbot,C
+ASpider,ASpider/0.09/1.1,C
+AspiegelBot,AspiegelBot,C
+ASPSeek,ASPSeek,C
+ASRbot,ASRbot,C
+asterias,asterias/1.1,C
+Astrofind,Astrofind,
+Astute,Astute,C
+asynchttp,asynchttp,C
+atasift,atasift.com,C
+Atciontimes,Atciontimes.xyz,C
+AtContent,AtContent,C
+Athenusbot,Athenusbot,
+Atlas,Atlas,C
+Atlocalbot,Atlocalbot,
+ATN_Worldwide,ATN_Worldwide,
+Atomic_email_hunter,Atomic_email_hunter,C
+atomicreach,atomicreach.com,C
+Atomz,Atomz,C
+attach,attach,C
+Attrakt,Attrakt,
+Attributor,Attributor,
+AuDev-Lander,AuDev-LanderBot,C
+Audisto Crawler,Audisto Crawler,
+Augurfind,Augurfind,C
+AURESYS,AURESYS/1.0/1.1,C
+auskunftbot,auskunftbot,C
+australian1,australian1.com,C
+Autobaron crawler,Autobaron crawler,
+autocite,autocite,C
+Autoemailspider,Autoemailspider,
+Automattic Analytics Crawler,Automattic Analytics Crawler,
+Autonomy,Autonomy,C
+AutotitreBot,AutotitreBot,C
+Autowebdir,Autowebdir,C
+AutoXBot,AutoXBot,C
+avecdo,avecdo,C
+Avira crawler,Avira crawler,
+avoine.fi,avoine.fi,C
+Avsearch-,Avsearch-,C
+AwarioRendererBot,AwarioRendererBot,C
+AwarioSmartBot,AwarioSmartBot,C
+aweber.com,aweber.com,C
+awesome_bot,awesome_bot,C
+awin.com,awin.com,C
+Axfeedsbot,Axfeedsbot,
+Axonize-bot,Axonize-bot,
+axortagos,axortagos.gr,C
+axxus.de,axxus.de,C
+ayeaye.ca,ayeaye.ca,C
+Ayimabot,Ayimabot,C
+aylien,aylien,C
+aylienbot,aylienbot,C
+Ayna,Ayna,C
+B-l-i-t-z-B-O-T,B-l-i-t-z-B-O-T,C
+B2B Bot,B2B Bot,C
+b2Sonar,b2Sonar,C
+b2w,b2w/0.1/1.1,C
+BabalooSpider,BabalooSpider,
+babelserver,babelserver.org,C
+BackDoorBot,BackDoorBot/1.1,
+backgroundswitcher,backgroundswitcher,C
+Backlink-Ceck,Backlink-Ceck,C
+Backlink-check,Backlink-check,C
+backlink-check.de,backlink-check.de,C
+BacklinkCrawler,BacklinkCrawler,C
+BackLinks.com,BackLinks.com,C
+BackRub,BackRub/./1.1,
+BackStreet,BackStreet,
+Backstreet browser,Backstreet browser,C
+BackupLand,BackupLand,C
+BackWeb,BackWeb,
+bacs,bacs,C
+Bad-Neighborhood,Bad-Neighborhood,C
+Badass,Badass,
+Baiduspider,Baidu,C
+Baiduspider-image,Baiduspider-image,C
+Baiduspider-video,Baiduspider-video/1.1,
+Bait & Tackle,Bait & Tackle,
+baleheadsblog,baleheadsblog,C
+BalleG93,BalleG93@Gmail.COM,C
+BananaBot,BananaBot,C
+Bandit,Bandit,C
+banglalink,banglalink,C
+Banhammer,Banhammer,C
+Banterbot,Banterbot,C
+Barkrowler,Barkrowler,C
+BaseLinker,BaseLinker,C
+basement-care,basement-care,C
+batch420.tk,batch420.tk,C
+BatchFTP,BatchFTP,
+Battleztar Bazinga,Battleztar Bazinga,
+Baurat,Baurat.de,C
+baypup,baypup,
+BazQux,BazQux,C
+BBBike,BBBike,
+bbot,bbot,C
+BCDVIDEO1,BCDVIDEO1,C
+BCKLINKS,BCKLINKS,C
+BDCbot,BDCbot,C
+BDFetch,BDFetch,C
+beast,beast,C
+BebopBot,BebopBot,C
+BecomeBot,BecomeBot,C
+Becomejpbot,Becomejpbot,
+BeeBot,BeeBot,C
+BeetleBot,BeetleBot,C
+BegunAdvertising,BegunAdvertising,C
+beh1001,beh1001,C
+Bender,Bender,C
+beslist,beslist.nl,C
+Besserscheitern-crawl,Besserscheitern-crawl,
+bestvpn,bestvpn,C
+betaBot,betaBot,C
+bettersite,bettersite,C
+bibnum,bibnum,
+bidswitchbot,bidswitchbot,C
+Big Brother,Big Brother/1.1,C
+Big data,Big data,
+Bigado.com,Bigado.com,
+BigBozz,BigBozz,C
+BigCliqueBOT,BigCliqueBOT,
+BigDataPTR,BigDataPTR,C
+Bigfoot,Bigfoot,C
+biglobe,biglobe,C
+biglotron,biglotron,C
+Bilbo,Bilbo,C
+Bilgibetabot,Bilgibetabot,
+Bilgibot,Bilgibot,C
+billbot,billbot,C
+billigerbot,billigerbot,C
+Bimbot,Bimbot,C
+Bindezbot,Bindezbot,C
+BinGet,BinGet,C
+binlar,binlar,C
+Bintellibot,Bintellibot,
+Birdman,Birdman,C
+BirilBot,BirilBot,C
+Bitacle,Bitacle,C
+BitBot,BitBot,C
+bitlybot,bitlybot,C
+bitporno,bitporno.com,C
+Bitrix,Bitrix,C
+bitvore.com,bitvore.com,C
+Bitvouseragent,Bitvouseragent,
+bixocrawler,bixocrawler,
+biz_Directory,biz_Directory,
+Bizbot,Bizbot,
+Bizbot003,Bizbot003/1.1,
+BizBot04,BizBot04 kirk.overleaf.com/1.1,
+BizHintbot,BizHintbot,C
+BizHintsys,BizHintsys,C
+BizwikiBot,BizwikiBot,
+Bizworks retriever,Bizworks retriever,
+bjorndata,bjorndata.com,C
+bjut.edu.cn,bjut.edu.cn,C
+bl.uk_lddc_bot,bl.uk_lddc_bot,C
+Black Hole,Black Hole/1.1,
+Black.Hole,Black.Hole/1.1,
+Blackbird,Blackbird,C
+Blackboard,Blackboard,C
+Blackboard Safeassign,Blackboard Safeassign,C
+Blackmask.net search engine,Blackmask.net search engine,
+BlackWidow,BlackWidow/1.1,
+Bladder fusion,Bladder fusion,
+Blaiz-bee,Blaiz-bee,C
+BlekkoBot,Blekko Bot,
+BLEXBot,BLEX Bot,C
+BlinkaCrawler,BlinkaCrawler,
+Blinkx,Blinkx,
+Blitzbot,Blitzbot,C
+Blog conversation project,Blog conversation project,
+blogbeat,blogbeat.nl,C
+blogggattin,blogggattin,C
+bloglines.com,bloglines.com,C
+Bloglovin,Bloglovin,C
+Blogmyway,Blogmyway,
+BlogPulse,BlogPulse,C
+BlogPulseLive,BlogPulseLive,C
+Blogrefsbot,Blogrefsbot,
+BlogRefsBot/,BlogRefsBot/,C
+Blogscope,Blogscope,
+BlogSearch,BlogSearch,C
+Blogslive,Blogslive,
+BlogsNowBot,BlogsNowBot,C
+Blogtrottr,Blogtrottr,C
+BlogzIce,BlogzIce,C
+Bloobybot,Bloobybot,
+Bloom,Bloom,C
+Blow,Blow,C
+BlowFish,BlowFish/1.1,
+BLP_bbot,BLP_bbot,C
+Blt,Blt,C
+blubrry,blubrry,C
+bluechipbacklinks,bluechipbacklinks,C
+bluefish,bluefish,C
+BluzzIn Bot,BluzzIn Bot,C
+bnf.fr_bot,bnf.fr_bot,C
+Boaconstrictor,Boaconstrictor,
+boardreader,boardreader.com,C
+BoardReader Favicon Fetcher,BoardReader Favicon Fetcher,C
+BoatDesign,BoatDesign.Net,C
+Boatersbook,Boatersbook.com,C
+bob-cars,bob-cars.com,C
+bobaly.es,bobaly.es,C
+Boi_crawl_00,Boi_crawl_00,
+Boia-scan-agent,Boia-scan-agent,
+Boia.org,Boia.org,C
+Boitho,Boitho,C
+boitho.com,boitho.com,C
+boitho.com bot,boitho.com bot,
+boitho.com-dc,boitho.com-dc,
+boithocom-dc,boithocom-dc,
+Bolt,Bolt,C
+bombora,bombora.com,C
+Bookmark,Bookmark search tool/1.1,C
+Bookmark buddy bookmark checke,Bookmark buddy bookmark checker,C
+Bookmark search tool,Bookmark search tool,
+bopbo.com,bopbo.com,C
+borg-bot,borg-bot,
+Bosug,Bosug,
+Bot 1.0,Bot 1.0,C
+Bot apoena,Bot apoena,
+BOT for JCE,BOT for JCE,C
+bot-pge,bot-pge.chlooe.com/1.0.0,C
+bot-pge.chlooe.com,bot-pge.chlooe.com,C
+Bot.AraTurka.com,Bot.AraTurka.com/0.0.1,C
+bot.myoha,bot.myoha.at,C
+bot.neticle.hu,bot.neticle.hu,C
+bot.ryte,bot.ryte.com,C
+bot.wsowner.com,bot.wsowner.com,
+Bot+at+mysite,Bot+at+mysite.com,C
+BotALot,BotALot/1.1,
+botelaire,botelaire,C
+botify,botify,C
+botmobi,botmobi,
+Botnet,Botnet,C
+BotOnParade,BotOnParade,
+BotPants,BotPants,C
+BotPingDns,BotPingDns,C
+BotRightHere,BotRightHere/1.1,
+BotRobin,BotRobin,
+botsin.space,botsin.space,C
+Botswana,Botswana,C
+Bottybot,Bottybot,
+BOTW Spider,BOTW Spider,C
+Bpbot,Bpbot,
+BPImageWalker,BPImageWalker,C
+BrainbruBot,BrainbruBot,
+brainspace,brainspace.com,C
+Braintime_search,Braintime_search,
+Braintree-Webhooks,Braintree-Webhooks,C
+Branch,Branch,C
+Branch-Passthrough,Branch-Passthrough,
+brandonmedia,brandonmedia,C
+Brandprotect,Brandprotect,C
+BrandProtect bot ,BrandProtect bot ,
+brands-bot,brands-bot,C
+Brandsafety,Brandsafety,C
+Brandsight,Brandsight,C
+brandverity,brandverity.com,C
+Brandwatch,Brandwatch,C
+brazzers,ma.brazzers.com,C
+Breaker,Breaker,C
+brightlocal,brightlocal.com,C
+BrokenLinkCheck.com,BrokenLinkCheck.com,C
+BrokenLinkTool,BrokenLinkTool,C
+Browseremulator,Browseremulator,C
+Browsermob,Browsermob,C
+browserproxy,browserproxy,C
+Browsershots,Browsershots,C
+BrowserSpyBot,BrowserSpyBot,C
+BruinBot,BruinBot,C
+Bsearchr&d,Bsearchr&d,
+BSpider,BSpider/1.0 libwww-perl/0.40/1.1,C
+btbot,btbot,C
+btcnova,btcnova,C
+btrbot,btrbot,C
+Btsearch,Btsearch,
+BUbiNG,BUbiNG,C
+BublupBot,BublupBot,C
+BuckyOHare,BuckyOHare,C
+Buddy,Buddy,C
+Buibui,Buibui,
+Buildcms crawler,Buildcms crawler,
+BuiltBotTough,BuiltBotTough/1.1,
+BuiltWith,BuiltWith,C
+Bul.Com.Tr,Bot.Bul.Com.Tr,C
+Bullhorn,Bullhorn,C
+Bullseye,Bullseye/1.1,C
+Bumble Bee,Bumble Bee,C
+bumblebee,bumblebee,C
+BunnySlippers,BunnySlippers/1.1,
+Buscadorclarin,Buscadorclarin,
+Buscaplus,Buscaplus,C
+Buscaplus robi,Buscaplus robi,
+BusinessBot,BusinessBot,C
+businessclickBot,businessclickBot,C
+Businessjet,Businessjet,
+BusinessKeyTop,BusinessKeyTop,C
+businessworld-Bot,businessworld-Bot,C
+Butterfly,Butterfly,C
+Buyhawaiibot,Buyhawaiibot,
+BuySellAds,BuySellAds.com,C
+buyzombie,buyzombie.com,C
+Buzzbot,Buzzbot,C
+BuzzSumo,BuzzSumo,
+bxss.me,bxss.me,C
+Byindia,Byindia,
+Byspider,Byspider,
+Byteserver,Byteserver,
+Bzbot,Bzbot,
+C r a w l 3 r,C r a w l 3 r,
+C-T bot,C-T bot,C
+c7.fc2.com,c7.fc2.com,C
+Cacheblaster,Cacheblaster,
+CACTVS,CACTVS Chemistry Spider/1.1,
+CACTVS Chemistry Spider,CACTVS Chemistry Spider,
+Caddbot,Caddbot,
+cadse,cadse,C
+Cafi,Cafi,C
+CakePHP,CakePHP,C
+Calculon,Calculon,
+Calif,Calif,C
+Caliperbot,Caliperbot,C
+callistomedia,callistomedia.com,C
+Camcrawler,Camcrawler,
+Camelstampede,Camelstampede,
+camlink,camlink,C
+CamontSpider,CamontSpider,
+Canon-webrecord,Canon-webrecord,
+cantoni.org,cantoni.org,C
+CapsuleChecker,CapsuleChecker,C
+Captivate,CaptivateBot,C
+CareerBot,CareerBot,
+careerbuilder,careerbuilder,C
+CaretNail,CaretNail,
+carian.ru,carian.ru,C
+CarnabySEO,CarnabySEO,C
+CarsnipBot,CarsnipBot,C
+carsopict.com,carsopict.com,C
+Castabot,Castabot,
+castle,castle,C
+Cataguru,Cataguru,
+CatchBot,CatchBot/2.0,C
+catexplorador,catexplorador,C
+Cazoodle,Cazoodle,C
+CBot,CBot/1.0,C
+CCBot,CCBot,C
+CCGCrawl,CCGCrawl,
+ccubee,ccubee,C
+Cd-preload,Cd-preload,
+Ce-preload,Ce-preload,C
+cedrom,cedrom,C
+Cegbfeieh,Cegbfeieh/1.1,
+CensysInspect,CensysInspect,C
+CentralOps,CentralOps.net,C
+centuryb.o.t9,centuryb.o.t9,C
+centurybot9,centurybot9,C
+Cerberian,Cerberian,C
+Cerberian drtrs,Cerberian drtrs,C
+Cerfinfo,Cerfinfo,
+Cert figleafbot,Cert figleafbot,
+CERT.at-Statistics-Survey,CERT.at-Statistics-Survey,C
+Cfetch,Cfetch,C
+CFNetwork,CFNetwork,C
+cg-eye,cg-eye,C
+chainn.com,chainn.com,C
+Chameleon,Chameleon,C
+ChangeDetection,ChangeDetection/1.1,C
+CharityEngine,CharityEngine,C
+charlieapp,charlieapp.com,C
+Charlotte,Charlotte,C
+check-domains,check-domains.com,C
+Check-Domains.com bot,Check-Domains.com bot,
+Check-Host,Check-Host,C
+Check&get,Check&get,C
+Checkbot,Checkbot/x.xx LWP/5.x/1.1,C
+Checker,Checker,C
+checkgzipcompression.com robot,checkgzipcompression.com robot,C
+CheckHost,CheckHost,C
+checklink,checklink,C
+Checklinks,Checklinks,C
+CheckMarkNetwork,CheckMarkNetwork,C
+Checksem,Checksem,
+cheers,cheers,C
+CheeseBot,CheeseBot/1.1,
+Chemiede-nodebot,Chemiede-nodebot,
+CherryPicker,CherryPicker/1.1,
+CherryPickerElite,CherryPickerElite/1.0/1.1,
+CherryPickerSE,CherryPickerSE/1.0/1.1,
+chicmi.com,chicmi.com,C
+Chilkat,Chilkat,
+chilkatsoft,chilkatsoft.com,C
+chimebot,chimebot,C
+ChimpFeedr,ChimpFeedr.com,C
+ChinaClaw,ChinaClaw/1.1,
+ChirpyHubBot,ChirpyHubBot,C
+chizen,chizen,C
+chkme,chkme,C
+Chlooe,Chlooe,C
+Chordie,Chordie.com,C
+Chowhound,Chowhound.com,C
+ChristCrawler.com,ChristCrawler.com,
+Chromeframe,Chromeframe,C
+cIeNcIaFiCcIoN.nEt,cIeNcIaFiCcIoN.nEt,
+Cincraw,Cincraw,C
+CindooSpider,CindooSpider,
+CipinetBot,CipinetBot,C
+CirrusExplorer,CirrusExplorer,
+Cis455crawler,Cis455crawler,C
+CISPA,CISPA,C
+CISPA Vulnerability Notificati,CISPA Vulnerability Notification,
+citenikbot,citenikbot,
+Citeseerxbot,Citeseerxbot,
+CiteULike,CiteULike46.235.226.170,C
+citygrid,citygrid.com,C
+cityreview,cityreview,
+Cizilla,Cizilla,
+CJ.com crawler,CJ.com crawler,
+CJBot,CJBot,C
+CJNetworkQuality,CJNetworkQuality,
+clara,clara,C
+ClariaBot,ClariaBot,C
+Claritybot,Claritybot.com,C
+ClarityDailyBot,ClarityDailyBot,C
+classbot,classbot,C
+Clearbricks,Clearbricks,C
+cleverplugins,cleverplugins,C
+Clickagy Intelligence Bot,Clickagy Intelligence Bot,C
+CligooRobot,CligooRobot,
+Climate ark,Climate ark,
+Climate Change Spider,Climate Change Spider,
+Climateark spider,Climateark spider,
+clips,clips,C
+clipwatching,clipwatching.com,C
+cliq.social,cliq.social,C
+Cliqzbot,Cliqzbot/1.0,C
+clonewolf,www.clonewolf.com,C
+Closure Compiler Service,Closure Compiler Service,
+Cloud mapping,Cloud mapping,C
+CloudFlare-AlwaysOnline,CloudFlare-AlwaysOnline,C
+Cloudflare-Smart-Transit,Cloudflare-Smart-Transit,C
+Cloudinary,Cloudinary,C
+CloudServerMarketSpider,CloudServerMarketSpider,C
+clsHTTP,clsHTTP,
+clubburung,clubburung,C
+Clushbot,Clushbot,C
+cmcm,cmcm,C
+CMM Bot,CMM Bot,C
+CMS Crawler,CMS Crawler,C
+CMS Spider,CMS Spider,
+cmsworldmap.com,cmsworldmap.com,
+cnet.com,cnet.com,C
+CNWzbot,CNWzbot,C
+Coast scan engine,Coast scan engine,
+Coast webmaster pro,Coast webmaster pro,C
+coccoc,coccoc,C
+coccocbot,coccocbot,C
+Coccocbot-web,Coccocbot-web,C
+cocolyze,cocolyze.com,C
+codefordemocracy,codefordemocracy,C
+CodeGetterbot,CodeGetterbot,C
+codelibs,codelibs.org,C
+codewise,codewise.com,C
+Cogentbot,Cogentbot,C
+Cognitiveseo,Cognitiveseo,C
+COIBotLinkSaver,COIBotLinkSaver,C
+COIBotParser,COIBotParser,C
+CoinCornerBot,CoinCornerBot,
+cokya.com,cokya.com,C
+colbert,colbert,
+ColdFusion,ColdFusion,C
+CollaBot,CollaBot,C
+Collapsarweb,Collapsarweb,C
+collectfasttracks,collectfasttracks,C
+Collective,Collective,C
+Collector,WWW Collector/1.1,C
+Colocrossing,Colocrossing,
+Com.plumanalytics,Com.plumanalytics,C
+comAgent,comAgent,C
+combine,combine/0.0/1.1,C
+comic-rocket,comic-rocket.com,C
+commentluv,commentluv.com,C
+CommonCrawler Node,CommonCrawler Node,C
+Commons-HttpClient,Commons-HttpClient,C
+Comodo,Comodo,C
+Comodo-Webinspector-Crawler,Comodo-Webinspector-Crawler 2.2.0,C
+COMODOSpider,COMODOSpider,C
+Company News Search engine,Company News Search engine,
+Companybook,Companybook,C
+Comparserbot,Comparserbot,C
+Competitors,Competitors,C
+CompSpyBot,CompSpyBot/1.0,C
+Computer_and_Automation_Resear,Computer_and_Automation_Research_Institute_Crawler,
+comrett,comrett.se,C
+comscore,comscore.com,C
+comster,comster,C
+conceptbot,conceptbot/0.3/1.1,
+Connectsearch,Connectsearch,
+Conpilot,Conpilot,
+consumersafety,consumersafety.org,C
+contactbigdatafr,contactbigdatafr,C
+Contacts Crawler,Contacts Crawler,
+contenidoestatico,contenidoestatico.com,C
+Contensive-Bot,Contensive-Bot,C
+contentDetection,contentDetection,C
+contently,contently,C
+ContentqBot,ContentqBot,C
+Contentsmartz,Contentsmartz,C
+ContextAd Bot,ContextAd Bot,C
+contextadbot,contextadbot,
+Contextly,Contextly,C
+contxbot,contxbot/1.0,C
+Contype,Contype,C
+convera,convera,C
+ConveraCrawler,ConveraCrawler,C
+ConveraMultiMediaCrawler,ConveraMultiMediaCrawler,C
+Conversio,Conversio,C
+Cookienet,Cookienet,
+CoolBot,CoolBot,C
+Coolcheck,Coolcheck,
+Copernic,Copernic/1.1,
+Copier,Copier,C
+CopperEgg,CopperEgg,C
+copyright,copyright,C
+copyright sheriff,copyright sheriff,
+CopyRightCheck,CopyRightCheck/1.1,
+Copyscape,Copyscape,
+CopyvioDetector,CopyvioDetector,C
+Corax,Corax,C
+Core-project,Core-project,C
+core.ac.uk,core.ac.uk,C
+CorHistBot,CorHistBot,C
+CorpusCrawler,CorpusCrawler,
+cosmos,cosmos/1.1,C
+CostaCider,CostaCider,
+cotoba_bot,cotoba_bot,C
+couchtuner,couchtuner,C
+couponbirds,couponbirds.com,C
+CouponBot,CouponBot,C
+CouponWCode,CouponWCode,C
+Covario,Covario,C
+Covario-IDS,Covario-IDS,C
+covid_19,covid_19,C
+Cowbot,Cowbot,C
+Cowbot-,Cowbot-,C
+Cowdog bot,Cowdog bot,
+Crabbybot,Crabbybot,
+Craftbot,Bot mailto:craftbot@yahoo.com/1.1,
+crawl,crawl,C
+Crawl_application,Crawl_application,
+crawl.sogou.com,crawl.sogou.com,
+CrawlConvera,CrawlConvera,C
+crawler for netopian,crawler for netopian,C
+crawler National Library of Is,crawler National Library of Israel,
+Crawler_for_infomine,Crawler_for_infomine,
+Crawler.feedback,Crawler.feedback,C
+Crawler.kpricorn.org,Crawler.kpricorn.org,
+Crawler@,Crawler@,C
+Crawler43.ejupiter.com,Crawler43.ejupiter.com,
+Crawler4j,Crawler4j,C
+Crawlera,Crawlera,C
+CrawlForMe,CrawlForMe,C
+crawlingpolicy,crawlingpolicy,C
+CrawlWave,CrawlWave,
+Crawly,Crawly,C
+CRAZYWEBCRAWLER,CRAZYWEBCRAWLER,C
+Creativecommons,Creativecommons,C
+crediteo,crediteo.pl,C
+creditsafe,creditsafe,C
+Crescent,Crescent/1.1,
+Crescent Internet ToolPak,Crescent Internet ToolPak,
+Crescent Internet ToolPak HTTP,Crescent Internet ToolPak HTTP OLE Control v.1.0,
+CRIM Crawler,CRIM Crawler,
+CrocCrawler,CrocCrawler,C
+CrossrefEventDataBot,CrossrefEventDataBot,C
+CrowdTanglebot,CrowdTanglebot,C
+crowl.tech,crowl.tech,C
+Crowsnest,Crowsnest,C
+CrsspxlBot,CrsspxlBot,C
+Cs-crawler,Cs-crawler,
+Cse html validator,Cse html validator,C
+CSHttp,CSHttp,
+Cshttpclient,Cshttpclient,C
+CSS Certificate Spider,CSS Certificate Spider,C
+cuasar,cuasar,C
+Cuasarbot,Cuasarbot,C
+cubebot,cubebot,C
+CukBot,CukBot,
+Culsearch,Culsearch,
+curata.com,curata.com,C
+curb,curb,C
+Curebot,Curebot/1.0,C
+Curious,Curious,C
+Curious George,Curious George,C
+CuriousBot,CuriousBot,C
+Curl,Curl,C
+Cusco,Cusco,C
+Custo,Custo/1.1,C
+cutbot.net,cutbot.net,C
+cuwhois,cuwhois,C
+Cvaulev,Cvaulev,
+cxense,cxense.com,C
+CXL-FatAssANT,CXL-FatAssANT,
+cyberalarme,cyberalarme,C
+cyberalert,cyberalert.com,C
+CyberCycloneBot,CyberCycloneBot,C
+Cyberdog,Cyberdog,C
+Cybernavi_webget,Cybernavi_webget,
+CyberPatrol,CyberPatrol SiteCat Webbot/1.1,
+CyberPatrol SiteCat Webbot,CyberPatrol SiteCat Webbot,
+CyberPilot,NetCarta CyberPilot Pro/1.1,
+CyberSpyder,CyberSpyder/2.1/1.1,C
+cybo,cybo,C
+Cydralspider,Cydralspider,
+cyencebot,cyencebot,C
+czechvideo,czechvideo.org,C
+d-o-m-a-i-n,d-o-m-a-i-n.de,C
+D1garabicengine,D1garabicengine,
+Daanav.com,Daanav.com,C
+daftsex,daftsex.com,C
+dailymotion,dailymotion,C
+Dalvik,Dalvik,C
+DaniBot,DaniBot,C
+darbonis,darbonis,C
+DareBoost,DareBoost,C
+Dark_Matter_Bot,Dark_Matter_Bot,C
+dasauge,dasauge,C
+DashvertiseBot,DashvertiseBot,C
+DatabaseDriverMysqli,DatabaseDriverMysqli,C
+DataCha0s,DataCha0s,C
+dataforseo,dataforseo.com,C
+DataFountains,DataFountains,C
+datagnionbot,datagnionbot,C
+datakudo.com,datakudo.com,C
+dataminr,dataminr.com,C
+Datanyze,Datanyze,C
+DataparkSearch,DataparkSearch,C
+dataprovider,dataprovider,C
+Dataprovider.com,Dataprovider.com,C
+Datascape robot,Datascape robot,
+Dataspearspiderbot,Dataspearspiderbot,
+Dataspider,Dataspider,
+dataxu,dataxu.com,C
+DatenBot,DatenBot,C
+DatingBot,DatingBot,C
+Dattatec.com,Dattatec.com,
+Daum,Daum,C
+Daumoa,Daumoa/1.1,C
+DAWINCI ANTIPLAG,DAWINCI ANTIPLAG,C
+Dazoobot,Dazoobot,
+dbDig,dbDig,C
+DBLBot,DBLBot,
+DBot,DBot/7.0,C
+DCPbot,DCPbot/1.1,C
+Dead Link Checker,Dead Link Checker,C
+deadlinkchecker,deadlinkchecker,C
+DealGates Bot,DealGates Bot,
+debaser,debaser.it,C
+Declumbot,Declumbot,
+deepcrawl,deepcrawl,C
+DeepIndex,DeepIndex,C
+Deepnet crawler,Deepnet crawler,
+deepnoc,deepnoc,C
+deepsearchnine,deepsearchnine,C
+DeepTrawl,DeepTrawl.com,C
+deeris,deeris,C
+Dejan,Dejan,
+dekoruzmani,dekoruzmani.blogspot.com.tr,C
+Del.icio.us-thumbnails,Del.icio.us-thumbnails,
+Deltascan,Deltascan,
+Delvubot,Delvubot,
+demandbase,demandbase-bot,C
+Demon,Demon,C
+demospace.site,demospace.site,C
+deNes bot,deNes bot,C
+Density,Density,C
+dentagraphics,dentagraphics,C
+DepSpid,DepSpid,C
+Der gro§e bildersauger,Der gro§e bildersauger,
+Der große bildersauger,Der große bildersauger,
+DER-bot,DER-bot,C
+DesertRealm.com,DesertRealm.com,
+detectify.com,detectify.com,C
+DeuSu,DeuSu,C
+Devil,Devil,C
+devoll,devoll,
+Deweb,Deweb/1.01/1.1,C
+Dex Media Bot,Dex Media Bot,
+DF Bot,DF Bot 1.0,C
+Dfs-fetch,Dfs-fetch,
+Diabot,Diabot/1.0,C
+Diagem,Diagem,
+DialogSearch.com,DialogSearch.com Bot 1.0,C
+DialogSearch.com Bot,DialogSearch.com Bot,
+Diamond,Diamond,C
+DiamondBot,DiamondBot,C
+diavol,diavol,
+Dibot,Dibot,C
+Didaxusbot,Didaxusbot,
+Die Blinde Kuh,Die Blinde Kuh,
+DIE-KRAEHE,DIE-KRAEHE,C
+Die-Suche,Die-Suche,C
+dienstspider,dienstspider,
+Diffbot,Diffbot,C
+Digext,Digext,C
+digg,digg.com,C
+Digg Deeper,Digg Deeper,C
+Digger,Digger,C
+Digi-rssbot,Digi-rssbot,
+DigiCert,DigiCert,C
+Digincore,Digincore,C
+Digincore bot,Digincore bot,
+Digitalarchivesbot,Digitalarchivesbot,
+digitalpebble,digitalpebble,C
+digitalpoint-url-verify,digitalpoint-url-verify,C
+Digout4u,Digout4u,C
+DIIbot,DIIbot,C
+Dillo,Dillo,C
+dinamicheweb,dinamicheweb.com,C
+dingo,dingo.com.ua,C
+DingTalkBot,DingTalkBot,C
+Dinorankbot,Dinorankbot,C
+Dir_snatch.exe,Dir_snatch.exe,
+Dirbuster,Dirbuster,C
+disavowfiles,disavowfiles.com,C
+DISCo,DISCo/1.1,C
+DISCo Pump ,DISCo Pump ,
+Discobot,Discobot,C
+DISCoFinder,DISCoFinder/1.1,
+Discordbot,Discordbot,C
+discoverybot,discoverybot/2.0,C
+disqus,disqus.com,C
+Distilled-reputation-monitor,Distilled-reputation-monitor,
+DittoSpyder,DittoSpyder/1.1,
+DIY-SEOBot,DIY-SEOBot,C
+dj-research,dj-research,
+Djangotraineebot,Djangotraineebot,
+djbot,djbot,C
+DKIMRepBot,DKIMRepBot,
+DKScan,DKScan,C
+DL2Bot,DL2Bot/1.0,C
+dlcbot,dlcbot,
+dlvr,dlvr,C
+dlvr.it,dlvr.it,C
+dlyons.net,dlyons.net,C
+DM-Search,DM-Search,
+Dmoz downloader,Dmoz downloader,
+DNAbot,DNAbot,
+DNS-Digger,DNS-Digger,C
+DNS-Tools,DNS-Tools,
+DNS-Tools Header-Analyzer,DNS-Tools Header-Analyzer,
+DNSPod crawler,DNSPod crawler,
+DNSPod-reporting,DNSPod-reporting,
+dnsqueries,dnsqueries.com,C
+DnyzBot,DnyzBot/1.0,C
+DocfuBot,DocfuBot,C
+docoloc,docoloc,C
+Docomo,Docomo,C
+DocSpotBot,DocSpotBot,C
+dodevski,dodevski,C
+Dof-verify,Dof-verify,
+dogs-breed,dogs-breed,C
+DokuWiki,DokuWiki,C
+Domain Re-Animator Bot,Domain Re-Animator Bot,C
+DomainAppender,DomainAppender,C
+domaincrawler,domaincrawler.com,C
+DomainDB,DomainDB,
+DomainMacroCrawler,DomainMacroCrawler,
+Domains Project,Domains Project,C
+domainsbot,domainsbot,C
+Domainscan,Domainscan,C
+DomainsDB.net MetaCrawler,DomainsDB.net MetaCrawler,C
+DomainSigmaCrawler,DomainSigmaCrawler,C
+DomainSONOCrawler,DomainSONOCrawler,C
+DomainStatsBot,DomainStatsBot,C
+DomainTunoCrawler,DomainTunoCrawler,
+Domainwatcher bot,Domainwatcher bot,
+DomCopBot,DomCopBot,C
+Domnutch-Bot,Domnutch-Bot/Nutch-1.0,C
+dosage.rocks,dosage.rocks,C
+Dot TK - spider,Dot TK - spider,
+dotbot,DotBot,C
+Dotcom-Monitor bot,Dotcom-Monitor bot,
+dotSemantic,dotSemantic,
+Dotspotsbot,Dotspotsbot,
+dou-shkola,dou-shkola.ru,C
+dougpoer,dougpoer,C
+Dow Jones Searchbot,Dow Jones Searchbot,C
+downforeveryoneorjustme,downforeveryoneorjustme,C
+Download,Download,C
+Download Demon,Download Demon/1.1,C
+Download Devil,Download Devil,
+Download Wonder,Download Wonder,
+DownloadBot,DownloadBot/2.0,C
+Downloader,Downloader,C
+downnotifier,downnotifier,C
+DowntimeDetector,DowntimeDetector,C
+DragonBot,DragonBot,C
+dragonfly,dragonfly,C
+Drakma,Drakma,C
+Drecombot,Drecombot,
+Drip,Drip,C
+drkpi.com,drkpi.com,C
+Drone,Drone,C
+DropboxPreviewBot,DropboxPreviewBot,C
+DRSolomon,DRSolomon,C
+Drubot,Drubot 1.1,C
+drupact,drupact,C
+drweb,drweb,C
+DSearch,DSearch,C
+dsgvo-analyse,dsgvo-analyse,C
+dsmn8.com,dsmn8.com,C
+DTAagent,DTAagent,C
+DTS Agent,DTS Agent,C
+Dtsearchspider,Dtsearchspider,
+dubaiindex,dubaiindex,
+dubbot,dubbot.com,C
+DuckBot_HTTPS,DuckBot_HTTPS,C
+DuckDuck,DuckDuckBot,C
+DuckDuckPreview,DuckDuckPreview,
+dumbot,dumbot/1.1,
+dutchcoders,dutchcoders,C
+dvd-world,dvd-world,C
+DVRBOT,DVRBOT,C
+Dwaar,Dwaar,
+DWCP,DWCP,C
+DWDS-crawler,DWDS-crawler,
+DwnldBot,DwnldBot,
+Dxseeker,Dxseeker,
+DzzzR,DzzzR,C
+e-shot.net,e-shot.net,C
+e-SocietyRobot,e-SocietyRobot,
+e.ventures,e.ventures,C
+Eah,Eah,C
+Earth platform indexer,Earth platform indexer,
+Earth science educator  robot,Earth science educator  robot,
+EARTHCOM,EARTHCOM,C
+EasouSpider,EasouSpider,
+Easy-Thumb,Easy-Thumb,C
+EasyBib AutoCite,EasyBib AutoCite,C
+easycron,easycron,C
+EasyDL,EasyDL,C
+EbiNess,EbiNess,
+ebingbong,ebingbong,
+ebyline,ebyline.com,C
+ec2linkfinder,ec2linkfinder,
+eCairn-Grabber,eCairn-Grabber,C
+eCatch,eCatch/1.1,C
+ECCP,ECCP,C
+ECCP/1.0,ECCP/1.0,
+EchoboxBot,EchoboxBot,C
+Echoosebot,Echoosebot,
+Eco-Portal Spider,Eco-Portal Spider,
+ecointernet,ecointernet,C
+eCommerceBot,eCommerceBot,C
+economicmodeling,economicmodeling.com,C
+ecoResearch,ecoResearch,C
+Ecxi,Ecxi,C
+EdisterBot,EdisterBot,
+Edugovsearch,Edugovsearch,
+effettoviola,effettoviola,C
+egloos.com,egloos.com,C
+Egothor,Egothor,C
+Eidetica.com,Eidetica.com,C
+EIG-InSites,EIG-InSites,C
+EirGrabber,EirGrabber/1.1,
+elane.ru,elane.ru,C
+Elblindo the blind bot,Elblindo the blind bot,
+elchron,elchron,C
+ElectricMonk,ElectricMonk,C
+elefent,elefent,C
+elfinbot,elfinbot,
+elilogan,elilogan.com,C
+elink.io,elink.io,C
+Elisabot,Elisabot,C
+elitemebli,elitemebli.com.ua,C
+Ellerdalebot,Ellerdalebot,
+elokenz,elokenz,C
+Elutabot,Elutabot,C
+Email extractor,Email extractor,C
+EMail Siphon,EMail Siphon,
+EMail Wolf,EMail Wolf,
+EmailCollector,EmailCollector/1.1,
+Emailleach,Emailleach,
+EmailMarketingRobot,EmailMarketingRobot/2.1,C
+EmailSiphon,EmailSiphon/1.1,
+EmailWolf,EmailWolf/1.1,C
+Embedly,Embedly,C
+EMC Spider,EMC Spider,
+emefgebot,emefgebot/beta,C
+Emeraldshield,Emeraldshield,C
+EMPAS_ROBOT,EMPAS_ROBOT,
+empolis,empolis.com,C
+emudesc,emudesc.com,C
+Enabot,Enabot,C
+Endeca,Endeca,
+energyexperts,energyexperts.org,C
+EnfinBot,EnfinBot,
+EnigmaBot,EnigmaBot/1.1,
+ENLLE bot,ENLLE bot,
+Enswer neuro bot,Enswer neuro bot,
+entale.co,entale.co,C
+Enter user-agent,Enter user-agent,
+Entitycubebot,Entitycubebot,
+Environmental Sustainability S,Environmental Sustainability Spider,
+envolk,envolk,C
+eplinx.com,eplinx.com,C
+equellaurlbot,equellaurlbot,C
+eripp.com,eripp.com,C
+EroCrawler,EroCrawler/1.1,C
+ES.NET,ES.NET,C
+Eso-Bot,Eso-Bot,C
+EsperanzaBot,EsperanzaBot,C
+Esribot,Esribot/1.0,C
+esther,esther,C
+eStyle,eStyle,C
+Estylesearch,Estylesearch,C
+eSyndiCat,eSyndiCat Bot,C
+ETI SEO bot,ETI SEO bot,C
+etoolsbot,etoolsbot,
+etorosocialbot,etorosocialbot,C
+Eule-Robot,Eule-Robot,
+eurecom,eurecom,C
+eurekster,eurekster,C
+EuripBot,EuripBot,C
+Eurobot,Eurobot,C
+Europa-Verzeichnis-Bot,Europa-Verzeichnis-Bot,C
+europarchive,europarchive,C
+Eurosoft-bot,Eurosoft-bot,
+Eustat,Eustat,C
+ev-h.phncdn,ev-h.phncdn.com,C
+Evaal,Evaal,
+evaal.com,evaal.com,C
+evc-batch,evc-batch,C
+Evensi,Evensi,C
+eventax,eventax,C
+eventBot,eventBot,C
+EventGuruBot,EventGuruBot/1.0,C
+EventMachine,EventMachine,C
+eventseekerBot,eventseekerBot,C
+Eventware,Eventware,
+everatom,everatom,C
+Everest-vulcan inc.,Everest-vulcan inc.,C
+every6hours,every6hours,C
+EveryoneSocialBot,EveryoneSocialBot,C
+evestigator.com.au,evestigator.com.au,C
+Evidon,Evidon,C
+Evliya Celebi,Evliya Celebi,
+Evo Bot,Evo Bot v2,C
+Evrinid,Evrinid,C
+Exabot,Exabot,C
+Exabot-Images,Exabot-Images,C
+ExactSearch,ExactSearch,C
+ExactSeek,ExactSeek,C
+Exalead,Exalead,C
+ExaleadCloudview,ExaleadCloudview,C
+example.com,example.com,C
+example.com Bot,example.com Bot,C
+ExampleBot,ExampleBot,C
+ExB Language Crawler,ExB Language Crawler,
+Exbot,Exbot,C
+Excel,Excel,C
+ExchangleBot,ExchangleBot,C
+executivesontheweb,executivesontheweb.com,C
+exif-search,exif-search,C
+Exooba,Exooba,C
+Experibot,Experibot,C
+expert-html,expert-html.com,C
+ExpertSearchSpider ,ExpertSearchSpider ,
+Exploder,Exploder,C
+Exploratodo,Exploratodo,C
+explorersearch,explorersearch/1.1,
+Express,Express,C
+Express WebPictures,Express WebPictures/1.1,C
+Express-soft,(www.express-soft.com)/1.1,C
+extlinks,extlinks.com,C
+extlinks.com,extlinks.com,C
+ExtLinksBot,ExtLinksBot,C
+Extractor,Extractor,C
+ExtractorPro,ExtractorPro/1.1,
+Extreme Picture Finder,Extreme Picture Finder,
+EyeNetIE,EyeNetIE/1.1,
+eyeota,eyeota.com,C
+eyeota.com,eyeota.com,C
+Ez-robot,Ez-robot,
+Ezooms,Ezooms,C
+EZResult,EZResult,C
+F-bot test pilot,F-bot test pilot,
+Facebook external hit,Facebook external hit,C
+FacebookBot,FacebookBot,C
+Facebot,Facebot,C
+facebyalexpike,facebyalexpike.com.au,C
+factbot,factbot,C
+factr.com,factr.com,C
+factset,factset,C
+FairAd Client,FairAd Client/1.1,
+fairshare,fairshare,
+fak-portal,fak-portal.de,C
+FakeBot,FakeBot,C
+Falcon,Falcon,C
+Falconsbot,Falconsbot,
+Fancensus,Fancensus.com,C
+fandom,fandom,C
+fantomas,fantomas,
+Faraday,Faraday,C
+FAST bot,FAST bot,
+Fast data search document retr,Fast data search document retriever,
+Fast esp,Fast esp,
+FAST-,FAST-,C
+Fast-search-engine,Fast-search-engine,
+fastbot crawler,fastbot crawler,C
+Fastbot.de crawler,Fastbot.de crawler,C
+FastBug,FastBug,C
+FastCrawler,FastCrawler,C
+FastProbe,FastProbe,
+FatBot,FatBot,C
+FauBot,FauBot,
+Favcollector,Favcollector,C
+Faveeo,Faveeo,C
+Favicon,Favicon,C
+Faviconizer,Faviconizer,C
+FavOrg,FavOrg,C
+Favorites sweeper,Favorites sweeper,
+Faxobot,Faxobot,
+FDM,FDM,C
+FDM_2,FDM_2,
+Fdse robot,Fdse robot,C
+FeastieBot,FeastieBot,C
+Fedcontractorbot,Fedcontractorbot,
+FediList,FediList,C
+Feed43,Feed43.com,C
+feeltiptop,feeltiptop,C
+FelixIDE,FelixIDE/1.0/1.1,
+Fembot,Fembot,
+femtosearch,femtosearch.com,C
+FemtosearchBot,FemtosearchBot,
+fenixbot,fenixbot,C
+FenrirBot,FenrirBot,C
+Fetch,Fetch,C
+Fetch api request,Fetch api request,C
+Fetch_ici,Fetch_ici,
+Fetch-Guess,Fetch-Guess,
+Fever,Fever,C
+FFbot,FFbot,C
+FFZBot,FFZBot,C
+ffzg.hr,ffzg.hr,C
+Fgcrawler,Fgcrawler,
+FHscan,FHscan,
+fido,fido/0.9 Harvest/1.4.pl2/1.1,C
+FieritaLinks,FieritaLinks,C
+Filangy,Filangy,
+FileHound,FileHound,
+filibot,filibot,C
+Fimap,Fimap,C
+financialcontent,financialcontent,C
+finbot,finbot,C
+find.to,find.to,C
+FindABusinessThat,FindABusinessThat.com,C
+Findanisp.com_isp_finder,Findanisp.com_isp_finder,
+findbigger_Bot,findbigger_Bot,C
+findbrokenlinks,findbrokenlinks.com,C
+findcan,findcan.ca,C
+finder,finder ,C
+Findexa Crawler,Findexa Crawler,
+FindITAnswersbot,FindITAnswersbot,C
+findlink,findlink,C
+findlinks,findlinks,C
+findthatfile,findthatfile,
+FindUponBot,FindUponBot,C
+Findweb,Findweb,
+Findxbot,Findxbot,C
+FintelBot,FintelBot,C
+Fireball,Fireball,
+Firebat,Firebat,C
+Firebot,Firebot,C
+Firefox/7.0,Firefox/7.0,C
+firmilybot,firmilybot,
+FirmoGraph,FirmoGraph,C
+firstdirectory-bot,firstdirectory-bot,C
+Firstgov.gov search,Firstgov.gov search,C
+firstra,firstra,C
+firstra.in,firstra.in,C
+Fish-Search-Robot,Fish-Search-Robot/1.1,
+Flaming AttackBot,Flaming AttackBot/1.1,
+Flamingo_SearchEngine,Flamingo_SearchEngine,C
+flamingosearch,flamingosearch,C
+flang.dejanseo,flang.dejanseo.com.au,C
+Flashcapture,Flashcapture,
+FlashGet,FlashGet/1.1,C
+flatlandbot,flatlandbot,
+fleabot,fleabot,C
+fleshner,fleshner.com,C
+FlickBot,FlickBot,
+flicky,flicky,
+Flickysearchbot,Flickysearchbot,
+FlightDeckReportsBot,FlightDeckReportsBot/2.0,C
+flightor.com,flightor.com,C
+flinkhub,flinkhub.com,C
+FlipboardBot,FlipboardBot,
+FlipboardBrowserProxy,FlipboardBrowserProxy,
+FlipboardProxy,FlipboardProxy,C
+flippa,flippa.com,C
+Flocke bot,Flocke bot,
+fluffy,fluffy,C
+Fluffy the spider,Fluffy the spider,
+flunky,flunky,C
+flusio,flusio,C
+flynxapp,flynxapp,C
+foaf,foaf,C
+focusbot,focusbot,C
+Focused_crawler,Focused_crawler,
+follow.it,follow.it,C
+Followsite,Followsite,C
+FollowSite Bot,FollowSite Bot,C
+Foobot,Foobot/1.1,C
+foodgid,foodgid.net,C
+Fooooo_Web_Video_Crawl,Fooooo_Web_Video_Crawl,
+Fopper,Fopper,
+forEach,forEach,
+Foregenix,Foregenix,C
+forensiq,forensiq,
+Forest Conservation Spider,Forest Conservation Spider,
+Formulafinderbot,Formulafinderbot,
+Forschungsportal,Forschungsportal,
+fotogramas,fotogramas.es,C
+fouineur,fouineur,
+foundee-previews,foundee-previews,C
+foundeebot,foundeebot,C
+Foundrybot,Foundrybot,C
+FoundSeoTool,FoundSeoTool,C
+Fr_crawler,Fr_crawler,C
+Framartin,Framartin,C
+Francis,Francis,C
+Franklin_Locator,Franklin_Locator,
+Free_Link,Free_Link Build,C
+free-stuff,free-stuff,C
+Freecrawl,Freecrawl/1.1,
+freedomcontroller,54.235.163.141,C
+FreeFind,FreeFind,C
+freelinkexplorerbot,freelinkexplorerbot,
+freeloader,www.freeloader.com./1.1,
+Freeuploader,Freeuploader,
+FreeWebMonitoring,FreeWebMonitoring SiteChecker/0.2,C
+FreeWebMonitoring SiteChecker,FreeWebMonitoring SiteChecker,C
+Freshcrawler,Freshcrawler,
+Freshdownload,Freshdownload,C
+Freshlinks.exe,Freshlinks.exe,
+freshreader,freshreader.com,C
+Friendfeedbot,Friendfeedbot,
+Friendica,Friendica,C
+FriendlyBot,FriendlyBot,C
+Frodo.at,Frodo.at,
+Frog SEO,Frog SEO,C
+Froggle,Froggle,C
+frontleaf,frontleaf,C
+FrontPage,FrontPage/1.1,C
+Froola bot,Froola bot,
+fryzo.eu,fryzo.eu,C
+ftt2.com,ftt2.com,C
+Fu-nbi,Fu-nbi,
+FuckOff,FuckOff,
+Full_breadth_crawler,Full_breadth_crawler,
+fullcontact,fullcontact.com,C
+FULLSearch,FULLSearch,C
+fullstory,fullstory,C
+Funnelback,Funnelback,C
+FunnelWeb,FunnelWeb,
+Furlbot,Furlbot,C
+FuseonBot,FuseonBot,C
+FusionBot,FusionBot,C
+FusionSystem,FusionSystem,C
+FuturiBot,FuturiBot/1.0,C
+Fuze_Bot,Fuze_Bot,C
+FyberSpider,FyberSpider,C
+Fyrebot,Fyrebot,C
+G-i-g-a-b-o-t,G-i-g-a-b-o-t,C
+G10-bot,G10-bot,
+g2reader-bot,g2reader-bot,C
+GAChecker,GAChecker,C
+Gaisbot,Gaisbot/1.1,C
+GalaxyBot,GalaxyBot,C
+ganarvisitas,ganarvisitas,C
+GarlikCrawler,GarlikCrawler,C
+GatorWarmer,GatorWarmer,C
+gayforit,gayforit.eu,C
+gaypornhdfree,gaypornhdfree,C
+gazz,gazz,C
+GBot-DE,GBot-DE,C
+Gbplugin,Gbplugin,C
+GC3pro,GC3pro,
+gcreep,gcreep/1.0/1.1,
+gdnplus,gdnplus.com,C
+GDPR,GDPR,C
+Geckoboard,Geckoboard,C
+geek-tools,geek-tools,C
+GeekDrop,GeekDrop,C
+GeliyooBot,GeliyooBot,C
+gemius,gemius.com,C
+Genderanalyzer,Genderanalyzer,C
+general.useragent.override,SAKURA Internet Japan,C
+Generate_infomine_category_cla,Generate_infomine_category_classifiers,
+GenericBot-ax,GenericBot-ax,
+genevabot,genevabot,C
+genieBot,genieBot,C
+Genieo,Genieo,C
+Genieo Web filter,Genieo Web filter,
+GentleSource,GentleSource,C
+GentleSource Short URL Checker,GentleSource Short URL Checker,C
+geo.data.gouv.fr,geo.data.gouv.fr,C
+GeoBot,GeoBot,
+geocerts,geocerts.com,C
+Geomaxenginebot,Geomaxenginebot,
+Geometabot,Geometabot,
+GeonaBot,GeonaBot,
+georgesbot,georgesbot,C
+Geovisu,Geovisu,
+GermCrawler,GermCrawler,C
+Gesco,Gesco,C
+gestaltIconoclast,gestaltIconoclast,
+GetBot,GetBot,
+GetCouponHere-Bot,GetCouponHere-Bot,C
+GetFoundBot,GetFoundBot,
+GetHPinfo,GetHPinfo,C
+Gethtmlcontents,Gethtmlcontents,
+Getintent,Getintent,C
+GetintentCrawler,GetintentCrawler,
+Getleft,Getleft,
+GetLinkInfo,GetLinkInfo,C
+GetLinkInfo.com,GetLinkInfo.com,C
+getmiro,getmiro.com,C
+getprismatic,getprismatic,C
+GetProxi.es-bot,GetProxi.es-bot,
+getrequest,getrequest,
+getrevue,getrevue.co,C
+GetRight,GetRight/1.1,C
+GetSmart,GetSmart,
+GetURL,GetURL.rexx v1.05/1.1,C
+GetURL.rexx,GetURL.rexx,
+GetURLInfo,GetURLInfo,C
+GetWeb,GetWeb!/1.1,C
+GetWeb!,GetWeb!,C
+ggatherbot,ggatherbot,C
+Ghost,Ghost,C
+ghostery bot,ghostery bot,
+giadmin,giadmin.com,C
+Giant,Giant,C
+gidacompany,gidacompany.com,C
+GIDBot,GIDBot,C
+Gigablast,Gigablast,C
+GigablastOpenSource,GigablastOpenSource,C
+Gigabot,Gigabot,C
+Gigamega.bot,Gigamega.bot,
+giltotherescue,giltotherescue,C
+Gimme60bot,Gimme60bot/1.0,C
+GimmeUSAbot,GimmeUSAbot,C
+GingerCrawler,GingerCrawler,C
+ginnd.com,ginnd.com,C
+GioobHoBBy,GioobHoBBy,C
+gipo-crawler,gipo-crawler,
+giponet,giponet,C
+Girafabot,Girafabot,C
+Gitbot,Gitbot.net,C
+gitlab,gitlab.com,C
+GLBot,GLBot,C
+Gleamebot,Gleamebot,
+glean,glean.info,C
+glindahl-cocrawler,glindahl-cocrawler,C
+GLMSLinkAnalysis,GLMSLinkAnalysis,C
+globalsign,globalsign.com,C
+GloomarBot,GloomarBot,
+Gloriabot,Gloriabot,C
+Gluten Free Crawler,Gluten Free Crawler,C
+Gnome-vfs,Gnome-vfs,C
+gnowit,gnowit.com,C
+GNUsocialBot,GNUsocialBot,C
+Go-Ahead-Got-It,Go-Ahead-Got-It/1.1,
+go-resty,go-resty,C
+Go!Zilla,Go!Zilla/1.1,
+Goblin,Goblin,C
+gocolly,gocolly,C
+gocrawl,gocrawl,C
+Goforit.com,Goforit.com,C
+GOFORITBOT,GOFORITBOT,C
+GoggleBot,GoggleBot,C
+Gogolbot,Gogolbot,C
+GoGuidesSpamTracker,GoGuidesSpamTracker,C
+gokurou,gokurou,C
+golabradors,golabradors,C
+Gold crawler,Gold crawler,
+goldenbot,goldenbot,C
+Goldfire server,Goldfire server,C
+Golem,Golem/1.1/1.1,C
+goliatspider,goliatspider,
+GomezAgent,GomezAgent,C
+gonzo,gonzo,C
+goo.gl/7y4SX,goo.gl/7y4SX,C
+gooblog,gooblog,C
+goodbarber,goodbarber.com,C
+Goodjelly,Goodjelly,
+goodreads,goodreads.com,C
+Goodzer,Goodzer,C
+Goose,Goose,C
+gopa,gopa,C
+gopher,gopher,C
+Gordon-college-google-mini,Gordon-college-google-mini,
+gorgorbot,gorgorbot,C
+GornKer,GornKer,
+Goroam,Goroam,
+GoScraper,GoScraper,C
+Goseebot,Goseebot,
+gosign.de,gosign.de,C
+GoSpotCheck,GoSpotCheck,
+GoSquared,GoSquared,
+GoSquared-Status-Checker,GoSquared-Status-Checker,C
+gosquared-thumbnailer,gosquared-thumbnailer,
+gossamer,gossamer,C
+goteaspoon,goteaspoon.com,C
+gotit,gotit,C
+GotSiteMonitor,GotSiteMonitor,
+Govbot,Govbot,
+GozaikBot,GozaikBot,C
+GoZilla,GoZilla,
+GpcSupBot,GpcSupBot,C
+GPHINbot,GPHINbot,C
+gPodder,gPodder,C
+Gpu p2p crawler,Gpu p2p crawler,C
+Grabber,Grabber,C
+GrabNet,GrabNet/1.1,C
+Grafula,Grafula/1.1,
+Grahambot,Grahambot,
+Grammarly,Grammarly,C
+GrapeFX,GrapeFX,
+Grapeshot,Grapeshot,C
+GrapeshotCrawler,GrapeshotCrawler,C
+grapevine6,grapevine6.com,C
+Grbot,Grbot,C
+Greenyogi,Greenyogi,
+Gregarius,Gregarius,C
+grepler,grepler.com,C
+GRequests,GRequests,C
+GRFZbot,GRFZbot,C
+GridBot,GridBot,C
+griffon,griffon,C
+GrigorBot,GrigorBot,C
+Grobbot,Grobbot,C
+Gromit,Gromit/1.0/1.1,C
+gromoteur,gromoteur,C
+GroschoBot,GroschoBot,
+grouphigh,grouphigh,C
+grub,grub/1.1,C
+grub-client,grub-client,C
+GrubNG,GrubNG,
+gschaid,gschaid,C
+GSLFbot,GSLFbot,C
+GT::WWW,GT::WWW,C
+GTmetrix,GTmetrix,C
+GTVBot,GTVBot-Web,C
+guenstiger.de,guenstiger.de,C
+Guestlink,Guestlink,C
+Gulliver,Gulliver,
+Gulper,Gulper,C
+Gulperbot,Gulperbot,C
+gumgum,gumgum.com,C
+GurujiBot,GurujiBot,C
+GVC  WEB crawler,GVC  WEB crawler,
+Gvc business crawler,Gvc business crawler,
+Gvc crawler,Gvc crawler,
+Gvc search bot,Gvc search bot,
+Gvc web crawler,Gvc web crawler,
+Gvc weblink crawler,Gvc weblink crawler,
+Gvc world links,Gvc world links,
+Gvcbot.com,Gvcbot.com,
+gvfs,gvfs,C
+GWhois,GWhois,C
+h1seo.com,h1seo.com,C
+Haansoft,Haansoft,C
+hacker,hacker,C
+Hadi_Bot,Hadi_Bot,C
+HadiBot,HadiBot,C
+Hadrasoft,Hadrasoft,C
+haigongdianqi,haigongdianqi,C
+Hailoobot,Hailoobot/1.2,C
+HamBot,HamBot,
+HaosouSpider,HaosouSpider,C
+HappyFunBot,HappyFunBot/1.1,C
+hardenize,hardenize.com,C
+HarnessBot,HarnessBot,C
+harsilbot,harsilbot,C
+Harvest,Harvest/1.1,C
+Hatena ,Hatena ,C
+Hatena Antenna,Hatena Antenna/1.1,C
+Havij,Havij,C
+haw.nsk.hr,haw.nsk.hr,C
+hawkReader,hawkReader,
+Hawler,Hawler,
+Hazel,Hazel,C
+Hcat,Hcat,C
+Hclsreport-crawler,Hclsreport-crawler,
+Hd nutch agent,Hd nutch agent,
+HeadDump,HeadDump,
+Header_test_client,Header_test_client,
+HeaderInspector,HeaderInspector,C
+headliner,headliner.app,C
+HEADMasterSEO,HEADMasterSEO,C
+Healia,Healia,
+Health-Check,Health-Check,C
+Healthbot,Healthbot,C
+healthmap,healthmap,C
+HeartRails_Capture,HeartRails_Capture,C
+HeartRailsBot,HeartRailsBot,
+Heimdall,Heimdall,C
+heinz-huppertz,heinz-huppertz.com,C
+Helix,Helix,C
+hello world,hello world,
+HelpSpy,HelpSpy,
+HenryTheMiragoRobot,HenryTheMiragoRobot,C
+Here will be link to crawler s,Here will be link to crawler site,
+Herebot,Herebot,C
+heritrix,heritrix,C
+Hermit,Hermit Search,C
+hesed,hesed.com,C
+HetrixTools.COM,HetrixTools.COM,C
+Heurekabot,Heurekabot,C
+Hextrakt,Hextrakt,C
+hgrepurl,hgrepurl,
+hidekisaijo,hidekisaijo.com,C
+hidemyass,hidemyass.com,C
+hinnavaatlus,hinnavaatlus,C
+HiperLinks.com.br,HiperLinks.com.br,C
+Hiscan,Hiscan,C
+Hisoftware accmonitor server,Hisoftware accmonitor server,
+Hisoftware accverify,Hisoftware accverify,
+historious,historious,C
+Hitcrawler,Hitcrawler,
+Hivabot,Hivabot,
+HJPbot,HJPbot,C
+hl_ftien_spider,hl_ftien_spider,C
+hledejLevne,hledejLevne,
+hledejLevne.cz,hledejLevne.cz,
+hloader,hloader/1.1,
+Hmax Bot,Hmax Bot,C
+HMEOnlineHomeBot,HMEOnlineHomeBot,C
+Hmsebot,Hmsebot,
+HMView,HMView/1.1,
+hoaxyBot,hoaxyBot,C
+Hoge,Hoge,C
+hokifyBot,hokifyBot,C
+Holmes,Holmes,C
+HolmesBot,HolmesBot,
+Homepagesearch,Homepagesearch,
+Homerbot,Homerbot,
+HomeTags,HomeTags,
+Hometown Spider Pro,Hometown Spider Pro,
+Hooblybot-image,Hooblybot-image,
+HootSuite,HootSuite,C
+HootSuite crawler,HootSuite crawler,
+HooWWWer,HooWWWer,C
+hoppa,hoppa.com,C
+Horvath,Horvath,C
+Horyoubot,Horyoubot,C
+Hostcrawler,Hostcrawler,C
+hosterstats,hosterstats,C
+hosterstats.com,hosterstats.com,C
+HostItCheap,HostItCheap,
+HostTracker,HostTracker,C
+Hotbot,Hotbot,C
+hotcomputerscience,hotcomputerscience.com,C
+hotfrog,hotfrog.com,C
+Hotleads,Hotleads,C
+hotpage.fr,hotpage.fr,
+Hotzonu,Hotzonu,C
+houzz,houzz.com,C
+houzzbot,houzzbot,C
+hpdb-bot-c,hpdb-bot-c,C
+hrank,hrank,C
+hrefsbot,hrefsbot,C
+Hsft - link scanner,Hsft - link scanner,
+Hsft - lvu scanner,Hsft - lvu scanner,
+Hslide,Hslide,
+Hstpnetwork,Hstpnetwork.com,C
+Ht://check,Ht://check,
+htdig,htdig,C
+Html link validator,Html link validator,
+Html_Link_Validator_,Html_Link_Validator_,
+HTML2JPG,HTML2JPG,C
+HTMLParser,HTMLParser,C
+htrix,htrix,C
+HTTP Header Survey,HTTP Header Survey,
+HTTP Header Survey By Benjojo,HTTP Header Survey By Benjojo,
+HTTP_Compression_Test,HTTP_Compression_Test,C
+http_sample,http_sample,
+HTTP-Header-Abfrage,HTTP-Header-Abfrage,
+http-kit,http-kit,C
+HTTP-Tiny,HTTP-Tiny,C
+HTTP::Lite,HTTP::Lite,C
+Http2Bot,Http2Bot,C
+http3check,http3check.net,C
+HttpComponents,HttpComponents,C
+HTTPdiddy,HTTPdiddy,C
+httphr,httphr,
+httplib,httplib/1.1,C
+HTTPMon,HTTPMon,
+HttpOpenPlugin,TBI-HttpOpenPlugin,C
+HttpProxy,HttpProxy,C
+HTTPRequest.class,HTTPRequest.class,C
+https_all_the_things,https_all_the_things,C
+httpscheck,httpscheck,C
+httpssites_power,httpssites_power,
+httpstatus,httpstatus,C
+HTTPTEST,HTTPTEST,C
+httpunit,httpunit,C
+HttpUrlConnection,HttpUrlConnection,C
+HTTrack,HTTrack/1.1,C
+Huaweisymantecspider,Huaweisymantecspider/1.1,C
+HuaweiWebCatBot,HuaweiWebCatBot,C
+hubgetsbot,hubgetsbot,C
+HubPages,HubPages,C
+HubSpot,HubSpot,C
+HubSpot Crawler,HubSpot Crawler,C
+HuddolBot,HuddolBot,C
+huginn,huginn,C
+Hul-wax,Hul-wax,
+humanlinks,humanlinks/1.1,
+Hurdler,Hurdler,C
+hvenwhisky,hvenwhisky.com,C
+HybridBot,HybridBot,C
+HydraCoding,HydraCoding,C
+hyetert,hyetert.org,C
+hypefactors,hypefactors.com,C
+hypem,hypem.com,C
+HyperCrawl,HyperCrawl,C
+Hyperestraier,Hyperestraier,C
+Hyperix,Hyperix,
+HyperZbozi,HyperZbozi,
+HypeStat,HypeStat,C
+i am a stego,i am a stego,
+I Robot,I Robot,
+I-am-a-bot,I-am-a-bot,C
+i-market-bot,i-market-bot,C
+i686-pc-linux,i686-pc-linux/1.1,C
+ia_archiver,ia_archiver,C
+iajaBot,iajaBot,
+Iblog,Iblog,C
+Ibuena,Ibuena,
+Icab,Icab,C
+icat.co.th,icat.co.th,C
+ICC-Crawler,ICC-Crawler,C
+Icds-ingestion,Icds-ingestion,
+IceCat,IceCat,C
+ichiro,ichiro,C
+iCjobs,iCjobs,C
+IconSurf,IconSurf,C
+Icopyright conductor,Icopyright conductor,
+icsbot,icsbot,C
+icvn.de,icvn.de,C
+Id-search,Id-search,
+IDBot,IDBot,C
+IdeelaborPlagiaat,IdeelaborPlagiaat,C
+IDG,IDG,C
+IDG/UK,IDG/UK,C
+IDiskLinkPopularity,IDiskLinkPopularity,C
+idmarch,idmarch,C
+idols.tube,idols.tube,C
+IDwhois,IDwhois,C
+IEAutoDiscovery,IEAutoDiscovery,C
+IECheck,IECheck,
+IEMozilla,IEMozilla,C
+Iframely,Iframely,C
+igdeSpyder,igdeSpyder,C
+iHWebChecker,iHWebChecker,
+Iiitbot,Iiitbot,
+Iim_405,Iim_405,
+iliumsoft,iliumsoft,C
+ILoveWPBot,ILoveWPBot,C
+IlseBot,IlseBot,
+IlTrovatore,IlTrovatore,C
+iltrovatore-setaccio,iltrovatore-setaccio,C
+Image Fetch,Image Fetch,C
+Image Stripper,Image Stripper/1.1,
+Image Sucker,Image Sucker/1.1,
+Image-fetcher,Image-fetcher,C
+image.kapsi.net,image.kapsi.net,
+Imagebot,Imagebot,C
+ImageEngine,ImageEngine,C
+ImageFetcher,ImageFetcher,C
+Imagefortress,Imagefortress,
+imagehoster,imagehoster29.183.132,C
+Imageshereimagesthereimageseve,Imageshereimagesthereimageseverywhere,
+Imagevisu,Imagevisu,C
+Imagga,Imagga,C
+ImaggaBot,ImaggaBot,
+Imds_monitor,Imds_monitor,
+immediatenet thumbnails,immediatenet thumbnails,
+Imo-google-robot-intelink,Imo-google-robot-intelink,
+ImplisenseBot,ImplisenseBot,C
+import.io,import.io,C
+Impressumscrawler,Impressumscrawler,C
+inagist,inagist.com url crawler/1.1,C
+inagist.com url crawler,inagist.com url crawler,
+inbound,inbound,C
+Inboxb0t,Inboxb0t,C
+InbyBot,InbyBot,C
+IncyWincy,IncyWincy/1.0b1/1.1,C
+IndeedBot,IndeedBot,C
+independentsoft,independentsoft.com,C
+InDesign,InDesign,C
+index-of-tv,index-of-tv.com,C
+Indexer,Indexer,C
+IndieNews,IndieNews,C
+indonesiancoder,indonesiancoder.com,C
+indusface,indusface.com,C
+Industry cortex webcrawler,Industry cortex webcrawler,
+Indy,Indy,C
+Indy Library,Indy Library/1.1,C
+Indylabs_marius,Indylabs_marius,
+Inelabot,Inelabot,
+Inet-Suche-Bot,Inet-Suche-Bot,C
+Inet32 ctrl,Inet32 ctrl,
+Inetbot,Inetbot,C
+InetURL,InetURL,C
+infegy,infegy,C
+InfiniteSweeps,InfiniteSweeps.com,C
+Infinity-Bot,Infinity-Bot,C
+Influencebot,Influencebot,
+Info seeker,Info seeker,
+infobot,infobot,C
+InfociousBot,InfociousBot,
+Infocreate,Infocreate,C
+infohelfer,infohelfer,
+Infolink,Infolink,C
+infomaker,infomaker,C
+InfomaniakBot,InfomaniakBot,C
+Infomine,Infomine,C
+infomine.ucr.edu,infomine.ucr.edu,C
+InfoNaviRobot,InfoNaviRobot/1.1,
+inforintelligence,inforintelligence,C
+Informant,Informant/1.1,C
+InfoSeek Robot,InfoSeek Robot,
+Infoseek Sidewinder,Infoseek Sidewinder,C
+InfoSpiders,InfoSpiders,
+InfoTekies,InfoTekies,
+Infousabot,Infousabot,
+InfoWizards,InfoWizards,C
+IngeniApiBot,IngeniApiBot,C
+INGRID,INGRID/0.1/1.1,C
+Inktomi,Inktomi,C
+InLinks.net,InLinks.net,C
+InnerpriseBot,InnerpriseBot,
+Innity,Innity Bot,C
+inoreader.com,inoreader.com,C
+inreachventures,inreachventures,C
+InsaneJournal,InsaneJournal,C
+Insightscollector,Insightscollector,
+Insightsworksbot,Insightsworksbot,
+Inspirebot,Inspirebot,
+Instabid,Instabid,
+InstantSSL Browser,InstantSSL Browser,
+institut.ina.,institut.ina.fr,C
+Insumascout,Insumascout,
+integrishield,integrishield.com,C
+Integrity,Integrity,C
+integromedb,integromedb,C
+intelium_bot,intelium_bot,
+Intelix,Intelix,
+Intelliseek,Intelliseek,C
+intelx,intelx.io,C
+Interdose AntiSpamBot,Interdose AntiSpamBot,
+InterGET,InterGET/1.1,
+InterNaetBoten,InterNaetBoten,C
+Internet Cruiser Robot,Internet Cruiser Robot,
+Internet Ninja,Internet Ninja/1.1,
+Internet radio crawler,Internet radio crawler,
+internet_archive,internet_archive,C
+Internet-structure,Internet-structure-research-project-bot,C
+InternetLinkAgent,InternetLinkAgent,C
+InternetSeer,InternetSeer,C
+InternetSeer.com,InternetSeer.com,C
+internetVista monitor,internetVista monitor,C
+Interseek,Interseek,C
+intopic.it,intopic.it,C
+Intraformant,Intraformant,
+intraVnews,intraVnews,C
+intuiware,intuiware.com,C
+inventarte,inventarte.net,C
+IODC,IODC,C
+Ioi,Ioi,C
+iojay.com,iojay.com,C
+IOneSearch.bot,IOneSearch.bot,
+Ip-web-crawler.com,Ip-web-crawler.com,
+IP2PhraseBot,IP2PhraseBot,
+Ipadd bot,Ipadd bot,
+IPAddressGuideBot,IPAddressGuideBot,
+IPduhSrvBot,IPduhSrvBot,C
+ipixely,ipixely,C
+ipodder,ipodder.org,C
+iprospect,iprospect.com,C
+Ips Agent,Ips Agent,
+ips-agent,ips-agent,C
+Ipselonbot,Ipselonbot,
+IPTCBOT,IPTCBOT,
+ipts.com,ipts.com,C
+ipv6-test.com validator,ipv6-test.com validator,
+iqdb,iqdb,C
+irancell.ir,irancell.ir,C
+Iria,Iria,C
+IRLbot,IRLbot,C
+Irokez,Irokez,
+Irokez.cz monitoring,Irokez.cz monitoring,
+Iron33,Iron33/1.0.2/1.1,
+Is it up,Is it up,
+is-link-working,is-link-working,C
+Isara,Isara,C
+ISC Systems iRc Search,ISC Systems iRc Search,
+ISC_Systems_iRc_Search,ISC_Systems_iRc_Search,
+isdebrugopen,isdebrugopen,C
+Isearch,Isearch,C
+Isilox,Isilox,C
+isitfunnytoday,isitfunnytoday.com,C
+isitup,isitup,C
+iskanie,iskanie,C
+islambl,islambl,C
+isowq.org,isowq.org,C
+IsraeliSearch,IsraeliSearch/1.0/1.1,
+ISS-oekom,ISS-oekom,C
+IssueCrawler,IssueCrawler,C
+IstellaBot,IstellaBot/1.01.18,C
+istio.com,istio.com,C
+it2media-domain-crawler,it2media-domain-crawler,C
+ITI Spider,ITI Spider/1.1,
+Its-learning crawler,Its-learning crawler,
+Iu_csci_b659_class_crawler,Iu_csci_b659_class_crawler,
+IUSA Browser,IUSA Browser,
+Ivia,Ivia,C
+IXEbot,IXEbot,
+Ixquick.com,Ixquick.com,C
+IZaBEE,IZaBEE,C
+izea.com,izea.com,C
+iZSearch,iZSearch,C
+iZSearch.com,iZSearch.com,C
+Jabse.com Crawler,Jabse.com Crawler,
+Jadynave,Jadynave,
+JadynAveBot,JadynAveBot,
+jagacosmetics,jagacosmetics.com,C
+jagajam,jagajam.com,C
+Jagoona,JagoonaBot,C
+Jakarta,Jakarta,C
+Jakarta_Commons-HttpClient,Jakarta_Commons-HttpClient,
+James BOT,James BOT,C
+JamesBOT,James BOT,
+janforman,janforman,C
+japangaysex,japangaysex.com,C
+japiwap.com,japiwap.com,C
+jaribot,jaribot,C
+JavaBee,JavaBee,
+Javelin,Javelin,C
+Javlo,Javlo,C
+Jayde crawler,Jayde crawler,
+JBH Agent,JBH Agent,
+Jbot,Jbot,C
+Jbrofuzz,Jbrofuzz,
+JCrawler,amjCrawler/1.2,C
+JCSearchbot,JCSearchbot,C
+Jemmathetourist,Jemmathetourist,C
+JennyBot,JennyBot/1.1,
+JennyCar,JennyCar,
+jeremiahsrepairshop,jeremiahsrepairshop.com,C
+JetBot,JetBot,C
+Jetbrains omea pro,Jetbrains omea pro,C
+JetCar,JetCar/1.1,C
+Jetty,Jetty,C
+JGuitar,JGuitar.com,C
+JigluBot,JigluBot,C
+Jigsaw,Jigsaw,C
+JikeSpider,JikeSpider,C
+Jim,Jim,C
+jivesearch,jivesearch,C
+Job Roboter Spider,Job Roboter Spider,C
+Jobboerse,Jobboerse,C
+JobboerseBot,JobboerseBot,C
+JobBot,JobBot,C
+JobdiggerSpider,JobdiggerSpider,
+JobKereso,JobKereso,C
+Jobo,Jobo,C
+Jobot,Jobot,
+Jobrapido,Jobrapido,C
+Jobspider_ba,Jobspider_ba,
+Jobsuchmaschine,Cesar Jobsuchmaschine,C
+JOC,JOC,C
+JOC Web Spider,JOC Web Spider/1.1,C
+Joedog,Joedog,C
+johnhew crawler,johnhew crawler,C
+JolokiaPwn,JolokiaPwn,C
+jonassebastianohlsson,jonassebastianohlsson.com,C
+jooble,jooble.org,C
+Joomla,Joomla,C
+Jorgee,Jorgee,C
+josephtparsons,josephtparsons,C
+Joyscapebot,Joyscapebot,
+jpg-newsbot,jpg-newsbot,C
+Jspyda,Jspyda,
+JubiiRobot,JubiiRobot/1.1,
+jumpstation,jumpstation/1.1,
+Junut bot,Junut bot,
+jurgendata,jurgendata,C
+JUST-CRAWLER,JUST-CRAWLER,
+Justia BlawgSearch,Justia BlawgSearch,C
+justpicsplease,justpicsplease.com,C
+JustView,JustView,
+Jyxobot,Jyxobot,
+k-lah.com,k-lah.com,C
+K.s.bot,K.s.bot,
+kablerch,kablerch,C
+Kakclebot,Kakclebot,
+KakleBot,KakleBot,C
+Kalooga,Kalooga,
+KaloogaBot,KaloogaBot,
+kanban,kanban.ru,C
+Karneval-Bot,Karneval-Bot,
+kasai.fm,kasai.fm,C
+kasparek,kasparek,C
+Kaspersky,Kaspersky,C
+kastaneta,kastaneta,C
+katalog.di.com,katalog.di.com.pl,C
+katalogseo24,katalogseo24.net,C
+Katatudo-spider,Katatudo-spider,
+Kathune,Kathune,C
+Katipo,Katipo/1.0/1.1,
+KAZ.KZ_Bot,KAZ.KZ_Bot,C
+kazbtbot,kazbtbot,C
+Kbeta1,Kbeta1,
+KcB,KcB,C
+KD Bot,KD Bot,C
+KDD-Explorer,KDD-Explorer,
+Keedatabot,Keedatabot,C
+keepmeon.,keepmeon.top,C
+Keepni web site monitor,Keepni web site monitor,
+KeepRight,KeepRight,C
+KeepRight OpenStreetMap Checke,KeepRight OpenStreetMap Checker,C
+kelny.com,kelny.com,C
+Kemvibot,Kemvibot,C
+Kenjin,Kenjin Spider/1.1,
+Kenjin Spider,Kenjin Spider,
+Kenjin.Spider,Kenjin.Spider,
+Ketarin,Ketarin,C
+KeybaseBot,KeybaseBot,C
+Keybot,Keybot,C
+Keybot translation-search-mach,Keybot translation-search-machine,C
+KeyCDN bot,KeyCDN bot,
+Keywenbot,Keywenbot,
+Keyword Density,Keyword Density/0.9/1.1,
+keyword-hero,keyword-hero,C
+Keyword.Density,Keyword.Density/1.1,
+Khabardid,Khabardid,C
+Khazandebot,Khazandebot,C
+KickFire,KickFire,C
+KiekLimburg,KiekLimburgBot,C
+Kilroy,Kilroy,
+KimonoLabs,KimonoLabs,C
+Kingbot,Kingbot,C
+kinja-links,kinja-links,C
+Kinjabot,Kinjabot,
+kinshoo ,kinshoo ,
+kinsights,kinsights.com,C
+KIT-Fireball,KIT-Fireball/2.0 libwww/5.0a/1.1,C
+Kitenga-crawler-bot,Kitenga-crawler-bot,
+Kiwistatus,Kiwistatus,
+KlaxoonBot,KlaxoonBot,C
+Kmbot-,Kmbot-,
+Kmccrew bot search,Kmccrew bot search,
+Knight,Knight,C
+knijarnica-anglia,knijarnica-anglia.com,C
+Knowitall,Knowitall,C
+knowknot,knowknot.com,C
+knowledge,knowledge,C
+Knowledge engine,Knowledge engine,
+Knowledge.com,Knowledge.com,C
+knows,knows,C
+KO_Yappo_Robot,KO_Yappo_Robot,
+KOCMOHABT,KOCMOHABT,C
+KOCMOHABT bot,KOCMOHABT bot,
+Koepabot,Koepabot,C
+Kolibri,Kolibri,C
+KomodiaBot,KomodiaBot,C
+kondo-net,kondo-net,C
+Koninklijke,Koninklijke,
+Konturbot,Konturbot,C
+Korniki,Korniki,
+kouio,kouio,C
+Kozmosbot,Kozmosbot,C
+KPbot,KPbot,C
+kpopdeepfakes,kpopdeepfakes,C
+kr93.ru,kr93.ru,C
+krikyn,krikyn.ru,C
+KrOWLer,KrOWLer,C
+Kryptos,Kryptos,C
+Krzana,Krzana,C
+Ksbot,Ksbot,C
+Kuantokusta,Kuantokusta,C
+kula.jp,kula.jp,C
+kuloko-bot,kuloko-bot,C
+kulturarw,kulturarw,C
+kulturarw3,kulturarw3,C
+KumKie,KumKie,
+Kummhttp,Kummhttp,C
+Kumo,Kumo,C
+Kurzor,Kurzor,
+Kwickbot,Kwickbot,C
+Kyluka,Kyluka,
+Kyluka crawl,Kyluka crawl,
+Kyoto-Crawler,Kyoto-Crawler,
+kzbrain,kzbrain.net,C
+L.webis,L.webis,
+LabelGrab,LabelGrab/1.1/1.1,
+Labhoo,Labhoo,C
+LABLEBot,LABLEBot,C
+Labourunions411,Labourunions411,
+Labs,Labs,C
+Lachesis,Lachesis,C
+LamarkBot,LamarkBot,C
+Lament,Lament,C
+Lamerexterminator,Lamerexterminator,
+lanshanbot,lanshanbot,
+LaoHost,LaoHost.pl,C
+LapozzBot,LapozzBot,C
+larbin,larbin/1.1,C
+Laserlikebot,Laserlikebot,C
+Lauraa,Lauraa.de,C
+Lawinsiderbot,Lawinsiderbot,C
+LayeredExtractor,LayeredExtractor,C
+lba-bot,lba-bot,C
+LDProfileBot,LDProfileBot,C
+LDRbot,LDRbot/0.1,C
+Le-Bottin,Le-Bottin,C
+leadcrunch,leadcrunch.com,C
+Leadingcourses,Leadingcourses,C
+Leadpages,Leadpages,C
+leakix,leakix.net,C
+Leaptag,Leaptag,
+LeechFTP,LeechFTP/1.1,
+LeechGet,LeechGet,
+lefsell,lefsell,C
+LegiStorm,LegiStorm,C
+Leikibot,Leikibot,C
+LemurWebCrawler,LemurWebCrawler,
+lengthener,lengthener,C
+leonosa,leonosa.com,C
+Lermont.ru,Lermont.ru,C
+LesnikBot,LesnikBot,C
+Letscrawl.com,Letscrawl.com,
+LetsearchBot,LetsearchBot,C
+LexiBot,LexiBot/1.1,C
+Lexologybot,Lexologybot,C
+LexxeBot,LexxeBot,C
+Lftp,Lftp,C
+LGBT_Bot,LGBT_Bot,C
+LGD Revision Bot,LGD Revision Bot,C
+Libcrawl,Libcrawl,
+LibertyW,LibertyW,C
+Libiviacore,Libiviacore,
+librabot,librabot,
+Library,Library,C
+LibVLC,LibVLC,C
+Libw,Libw,C
+libWeb,libWeb/clsHTTP/1.1,
+libWebclsHTTP,libWebclsHTTP,
+Libwhisker,Libwhisker,C
+Licorne Image Snapshot,Licorne Image Snapshot,
+liepajniekiemlvexternalhit,liepajniekiemlvexternalhit,C
+Liferea,Liferea,C
+lightrod,lightrod,C
+Lightspeedsystems,Lightspeedsystems,C
+lightspun,lightspun,C
+Lijit,Lijit,C
+likse,likse,C
+lincobot,lincobot,
+LineBotWebhook,LineBotWebhook,C
+Linespider,Linespider,C
+linexsystems,linexsystems,C
+LinguaBot,LinguaBot,
+linguatools,linguatools,
+Linguee,Linguee Bot,C
+Linguee Bot,Linguee Bot,C
+Link checker,Link checker,C
+LINK TRADE crawler,LINK TRADE crawler,
+Link Valet Online,Link Valet Online,
+Link validator,Link validator,C
+link_check.pl,link_check.pl,C
+Link_checker,Link_checker,C
+link_thumbnailer,link_thumbnailer,C
+link_tracker,link_tracker,C
+Link_Valet_Online,Link_Valet_Online,
+LinkAider,LinkAider,
+LinkAlarm,LinkAlarm,C
+LinkAnalyser,LinkAnalyser,C
+linkapediabot,linkapediabot,C
+linkbot,linkbot,C
+linkCheck,linkCheck,C
+Linkcheck scanner,Linkcheck scanner,
+Linkchecker,Linkchecker,C
+LinkCrier,LinkCrier.com,C
+linkdex.com,linkdex.com,C
+linkdexbot,Linkdex Bot,C
+LinkedInBot,LinkedInBot,C
+LinkExaminer,LinkExaminer,C
+LinkExplore.com,LinkExplore.com,
+LinkextractorPro,LinkextractorPro/1.1,
+linkfluence,linkfluence,C
+linki-seo24,linki-seo24,C
+linkis,linkis,C
+linkkun,linkkun,C
+LinkLint,LinkLint,C
+linklooker,linklooker/1.1,C
+Linkman,Linkman,C
+LinkMarket-Bot,LinkMarket-Bot,C
+LinkOnAvt,LinkOnAvt,C
+LinkpadAssistant,LinkpadAssistant,C
+LinkpadBot,LinkpadBot,C
+linkpeek,linkpeek,C
+Links sql,Links sql,C
+links.guru,links.guru,C
+links24h,links24h.com,C
+LinkScan,LinkScan/8.1a Unix/1.1,C
+LinksManager,LinksManager.com,C
+Linksmanager.com_bot,Linksmanager.com_bot,C
+LinkSonar,LinkSonar,C
+LinkStats Bot,LinkStats Bot,C
+Linksweeper,Linksweeper,
+LinkTiger,LinkTiger,C
+LinkTracker,LinkTracker,C
+linkulator,linkulator,C
+LinkVerifier,LinkVerifier1.1,C
+LinkWalker,LinkWalker/1.1,C
+linkwithin,linkwithin.com,C
+linqia,linqia.com,C
+LinqiaBot,LinqiaBot,
+LinqiaMetadataDownloaderBot,LinqiaMetadataDownloaderBot,
+LinqiaRSSBot,LinqiaRSSBot,C
+LinqiaScrapeBot,LinqiaScrapeBot,
+LinqTo.me,LinqTo.me,C
+Lipperhey,Lipperhey,C
+Lipperhey SEO Service,Lipperhey SEO Service,
+Lipperhey Spider,Lipperhey Spider,
+Lipperhey-Kaus-Australis,Lipperhey-Kaus-Australis,C
+listae.com,listae.com,C
+Listenbot,Listenbot,C
+ListenNotes,ListenNotes,C
+listonATccDOTgatechDOTedu,listonATccDOTgatechDOTedu/1.1,C
+LiteFinder,LiteFinder,C
+Litemage_walker,Litemage_walker,
+Litlrbot,Litlrbot,
+Little grabber at skanktale.co,Little grabber at skanktale.com,
+livedoor ScreenShot,livedoor ScreenShot,
+LivelapBot,LivelapBot,C
+Llaut,Llaut,C
+Lm harvester,Lm harvester,
+Lmqueuebot,Lmqueuebot,
+lmspider,lmspider,C
+LNSpiderguy,LNSpiderguy/1.1,
+LNSpiderguyt,LNSpiderguyt,
+lo4d,lo4d.com,C
+load-time,load-time,C
+LoadImpact,LoadImpact,C
+LoadTimeBot,LoadTimeBot/0.7,C
+LocalBot,LocalBot,C
+LocalcomBot,LocalcomBot,
+lochub-insights,lochub-insights,C
+Locust,Locust,C
+logicad,logicad.com,C
+Logos,Logos.CommunityServices,C
+Lolongbot,Lolongbot,C
+lolwatz,lolwatz.com,C
+londonlovesbusiness,londonlovesbusiness,C
+LongURL,LongURL,C
+looid.com,looid.com,C
+Look.com,Look.com,C
+LookBot,LookBot,C
+LookrBot,LookrBot,C
+LookSeek,LookSeek.com,C
+looksystems,looksystems,C
+LoomlyBot,LoomlyBot,C
+loot.com,loot.com,C
+Loptix,Loptix,C
+Lorkyll,Lorkyll,
+lotayabot,lotayabot,C
+Lsearch,Lsearch,C
+Lssbot,Lssbot,
+LSSRocketCrawler,LSSRocketCrawler,
+Lt scotland checklink,Lt scotland checklink,
+ltbot,ltbot/1.3,C
+ltx71,ltx71,C
+lucideer,lucideer.com,C
+lufsbot,lufsbot,C
+LuminateBot,LuminateBot,
+Luminator,Luminator-ur/2.0,C
+LumpImageSearch,LumpImageSearch,
+LumtelBot,LumtelBot,C
+lupinia,lupinia.net,C
+lwp,lwp,C
+lwp-trivial,lwp-trivial/1.1,C
+LWP::Simple,LWP::Simple,C
+LXRbot,LXRbot,C
+Lycos,Lycos,C
+Lycos_spider,Lycos_spider,
+Lydia entity spider,Lydia entity spider,
+Lynnbot,Lynnbot,
+LYT.SR,LYT.SR,
+Lytranslate,Lytranslate,
+m-seo.net,m-seo.net,C
+maalfrid,maalfrid,C
+mabontland,mabontland,C
+Mac_Finder,Mac_Finder,
+MacInroy Privacy Auditors,MacInroy Privacy Auditors,
+Mackster,Mackster,
+Macroscope,Macroscope,C
+macsflowers,macsflowers.com,C
+madeit,madeit,C
+Mag-Net,Mag-Net,
+magentanews,magentanews.com,C
+magereport,magereport.com,C
+magescan,magescan.com,C
+MagiBot,MagiBot,C
+Magnet,Magnet,C
+magnumchaos,magnumchaos,C
+Magpie-Crawler,Magpie-Crawler,C
+Magus Bot,Magus Bot,C
+Mail.Ru,Mail.Ru,C
+Mail.Ru bot,Mail.Ru bot,C
+Mail.RU_Bot,Mail.RU_Bot,
+Mainseek_bot,Mainseek_bot,C
+Majestic-12,Majestic 12,
+Majestic-SEO,Majestic SEO,
+Majestic12,Majestic12,C
+make.myUrl,make.myUrl,
+MakeMoneyTeamWorkBot,MakeMoneyTeamWorkBot,C
+MaMa CaSpEr,MaMa CaSpEr,
+MaMa CyBer,MaMa CyBer,
+MaMa Xirio,MaMa Xirio,
+Mammoth,Mammoth,C
+manandmollusc,manandmollusc,C
+Mandrill,Mandrill,C
+manualshelf,manualshelf.com,C
+manzama.com,manzama.com,C
+Map robot,Map robot,
+MapoftheInternet,MapoftheInternet,C
+mapping,mapping,C
+Mappy,Mappy,C
+MarcoPolo,MarcoPolo,C
+MarfeelizablesBot,MarfeelizablesBot,C
+MarketBrewBot,MarketBrewBot,
+marketerseal,marketerseal.com,C
+marketersmedia,marketersmedia,C
+marketing,marketing,C
+marketinggrader,marketinggrader,C
+MarketMuseBot,MarketMuseBot,C
+marketwire,marketwire.com,C
+MarkMonitor,MarkMonitor,
+MarkWatch,MarkWatch,
+Marky,Marky/1.0,C
+MARTINI,MARTINI,C
+marvininfoseek,marvininfoseek,
+MaSagool,MaSagool,C
+mashable,mashable.com,C
+Mashcor,Mashcor,C
+Masidani_bot_,Masidani_bot_,
+Mass,Mass,C
+Mass Downloader,Mass Downloader/1.1,
+masscan,masscan,C
+Master.com,Master.com,C
+Mastodon,Mastodon,C
+Mata Hari,Mata Hari/1.1,C
+Mata.Hari,Mata.Hari/1.1,
+Matentzn at cs dot man dot ac ,Matentzn at cs dot man dot ac dot uk,
+Matrix,Matrix,C
+Mattermost-Bot,Mattermost-Bot,C
+matuschek,matuschek,C
+Maui Browser,Maui Browser,C
+MauiBot,MauiBot,C
+Mavicanet,Mavicanet,
+Maxamine.com,Maxamine.com,C
+Maxomobot,Maxomobot,C
+MaxPointCrawler,MaxPointCrawler,C
+MAZBot,MAZBot,C
+MB-SiteCrawler,MB-SiteCrawler,C
+mbellini33@gmail.com,mbellini33@gmail.com,C
+mbot,mbot,C
+Mcbot,Mcbot,C
+md5sum,md5sum ,C
+meanpathbot,MeanPath Bot,C
+Mechanize,Mechanize,C
+media-bot,media-bot,C
+MediaBot,LockerDomeMultimediaBot,C
+mediacloud,mediacloud,C
+MediaFox,MediaFox/x.y/1.1,
+MediaLBot,MediaLBot,
+mediarithmics,mediarithmics.com,C
+Mediatoolkitbot,Mediatoolkitbot,C
+mediawords,mediawords bot,C
+Mediumbot,Mediumbot,C
+Medrabbit,Medrabbit,
+meetingguide,meetingguide.org,C
+Meetings,Meetings,C
+MegaIndex,MegaIndex,C
+MegaIndex.ru,MegaIndex.ru,C
+megaproxy,megaproxy.com,C
+meggabot,meggabot,C
+megite,megite.com,C
+meldex,meldex,C
+melodibot,melodibot,C
+meltwater,meltwater.com,C
+Melvil,Melvil,C
+Memacbot,Memacbot,
+Memo,Memo,C
+MeMoNewsBot,MeMoNewsBot,
+memoryBot,memoryBot/1.20.311,C
+Mendeleybot,Mendeleybot,C
+menv.com,menv.com,C
+MeorcaBot,MeorcaBot,C
+Mercator-,Mercator-,C
+Mercury,Mercury,C
+Mercuryboard_user_agent_sql_in,Mercuryboard_user_agent_sql_injection.nasl,
+Mergadobot,Mergadobot,
+MergeFlow-PageReader,MergeFlow-PageReader,C
+MerzScope,MerzScope/1.1,
+Meta_Bot/,Meta_Bot/1.1,C
+meta-bot,meta-bot,C
+MetaBot,MetaBot,C
+Metacarta,Metacarta,
+metacdn,metacdn,
+MetaCommentBot,MetaCommentBot,
+metadata-service,metadata-service,C
+Metaeuro web search,Metaeuro web search,
+MetaGeneratorCrawler,MetaGeneratorCrawler,
+metager2,metager2.de,C
+metager2-bot,metager2-bot,
+MetagerBot,MetagerBot,C
+Metagloss,Metagloss,
+METAGOPHER,METAGOPHER/1.1,
+MetaHeadersBot,MetaHeadersBot,
+MetaInspector,MetaInspector,C
+MetaJobBot,MetaJobBot,C
+Metajuego,Metajuego.com,C
+Metal crawler,Metal crawler,
+MetamojiCrawler,MetamojiCrawler,
+Metaquerier,Metaquerier,C
+Metasearch,Metasearch,C
+METASpider,METASpider,C
+Metaspinner,Metaspinner,
+MetaURI,MetaURI,C
+metaweb,metaweb,C
+metorik,metorik,C
+metroguide,metroguide.com,C
+mewe.com,mewe.com,C
+MFC_Tear_Sample,MFC_Tear_Sample,C
+Mfcrawler,Mfcrawler,
+MFGPagesBot,MFGPagesBot,
+Mfhttpscan,Mfhttpscan,
+mfibot,mfibot,C
+Mget,Mget,C
+MIA Bot,MIA Bot,
+MiaDev,MiaDev,
+Microsearch,Microsearch,
+Microsearch.ru Bot,Microsearch.ru Bot,
+Microsoft Data Access,Microsoft Data Access,C
+Microsoft URL Control,Microsoft URL Control,C
+Microsoft_URL_Control,Microsoft_URL_Control,
+Microsoft.URL,Microsoft.URL,
+microsystools,microsystools,C
+MIDown,MIDown,
+MIDown tool,MIDown tool/1.1,
+MihanGsm,MihanGsm.com,C
+MIIxpc,MIIxpc/1.1,C
+Mindjet,Mindjet,C
+minds,minds.com,C
+mindUpBot,mindUpBot,C
+MinerBot,MinerBot,C
+Mini-robot,Mini-robot,
+Minibot,Minibot,
+Miniflux,Miniflux,C
+miniRank,miniRank,
+MioolaCheck,MioolaCheck,C
+Mirago,Mirago,C
+Mirror,Mirror,C
+mirtesen,mirtesen.ru,C
+Missigua,Missigua,
+Missigua Locator,Missigua Locator,
+Missigua_Locator,Missigua_Locator,
+MissinglettrBot,MissinglettrBot,C
+Misskey,Misskey,C
+Mister,Mister,C
+Mister PiX,Mister PiX/1.1,C
+Mister.pix,Mister.pix,
+mitambo.com,mitambo.com,C
+Miva,Miva,
+miva.com,miva.com,
+MixBot,MixBot,
+mixi.jp,mixi.jp,C
+mixmax.com,mixmax.com,C
+MixrankBot,MixrankBot,C
+MJ12bot,MJ12 bot,C
+MJ12botv,MJ12botv,C
+Mkzilla,Mkzilla,C
+mlbot,mlbot,C
+Mnogosearch,Mnogosearch,C
+moatbot,moat.com,C
+moba-crawler,moba-crawler,
+mobileOK,mobileOK,C
+Mod_accessibility,Mod_accessibility,
+Moduna.com,Moduna.com,
+MOGbot,MOGbot,C
+moget,moget/1.1,C
+mogimogi,mogimogi,C
+Mojeek,Mojeek,C
+MojeekBot,MojeekBot,C
+Mojolicious,Mojolicious,C
+Mollie HTTP,Mollie HTTP,C
+MOMspider,MOMspider/1.00 libwww-perl/0.40/1.1,C
+monitis,monitis,C
+Monitor,Monitor,C
+Monitoring,Monitoring,C
+Monitority,Monitority,
+MonkeyCrawl,MonkeyCrawl,
+monkeysuffrage,monkeysuffrage,C
+MonoBot,MonoBot/1.0,C
+Monster,Monster,C
+montastic,montastic,C
+montastic-monitor,montastic-monitor,C
+MonTools,MonTools,C
+MonTools.Com,MonTools.Com,C
+MoodleBot,MoodleBot/1.0,C
+Moose,Moose,C
+MOQU ADV crawlers,MOQU ADV crawlers,
+Moreover,Moreover,C
+morfeus,morfeus,
+Morfeus Fucking Scanner,Morfeus Fucking Scanner,C
+Morfeus strikes again,Morfeus strikes again,
+MorMor TCP Spider,MorMor TCP Spider,
+Morning,Morning,C
+Morning Paper,Morning Paper,C
+Moses,Moses,C
+MotoMinerBot,MotoMinerBot,C
+Motor/0.2/1.1,Motor/0.2/1.1,C
+Motoricerca-Robots.txt-Checker,Motoricerca-Robots.txt-Checker,
+Movatter,Movatter,C
+movistar,movistar,C
+mowser,mowser,C
+Mowserbot,Mowserbot,
+moz.com,moz.com,C
+mozDex,mozDex,
+Mozshot,Mozshot,C
+Mp3Bot,Mp3Bot,
+MPDP-ALR-Search-Bot,MPDP-ALR-Search-Bot,C
+MQbot,MQbot,C
+Mr.4x3,Mr.4x3,C
+MrakyPraceCzBot,MrakyPraceCzBot,
+Mrcgiguy,Mrcgiguy,C
+MS Cognitive Services,MS Cognitive Services,
+MS Web Services Client Protoco,MS Web Services Client Protocol,C
+Mse360,Mse360,
+MSFrontPage,MSFrontPage,C
+mShots,mShots,C
+MSIECrawler,MSIECrawler/1.1,C
+Msindianwebcrawl,Msindianwebcrawl,
+MSMOBOT,MSMOBOT,
+MSNPTC,MSNPTC,C
+MSR-ISRCCrawler,MSR-ISRCCrawler,
+Msrabot,Msrabot,
+Msrbot,Msrbot,C
+Mt-soft,Mt-soft,
+mtasa.com,mtasa.com,C
+MTM bot,MTM bot,C
+muckrack.,muckrack.com,C
+muhstik-scan,muhstik-scan/1.0,C
+Multibot,Multibot,C
+multicrawler,multicrawler,
+Multitext,Multitext,C
+Multiviewbot,Multiviewbot,C
+muragon,muragon.com,C
+Murk Search Engine,Murk Search Engine,C
+MurkBot,MurkBot,C
+MuscatFerret,MuscatFerret,C
+MusicWalker,MusicWalker,C
+musobot,musobot,C
+mustexist.com,mustexist.com,
+MVAClient,MVAClient,C
+mxbot,mxbot,C
+MxToolbox,MxToolbox,C
+My life for Aiur,My life for Aiur,C
+My Nutch Spider,My Nutch Spider,C
+My User Agent,My User Agent,C
+My WinHTTP Connection,My WinHTTP Connection,
+My_little_searchengine_project,My_little_searchengine_project,
+My_WinHTTP_Connection,My_WinHTTP_Connection,
+My-Application,My-Application,C
+My-heritrix-crawler,My-heritrix-crawler,
+my-robot,my-robot,
+MyAgent,MyAgent,C
+MyApp,MyApp,C
+Mycompanybot,Mycompanybot,
+mycrawler,mycrawler,C
+MyEngines-Bot,MyEngines-Bot,C
+Myengines-us-bot,Myengines-us-bot,
+Myfamilybot,Myfamilybot,
+myip-address.com,myip-address.com,C
+myplaceonline,myplaceonline.com,C
+Myra,Myra,C
+MyUserAgent,MyUserAgent,C
+Naamah,Naamah,C
+Nabava,Nabava.net bot,C
+NafPartBot,NafPartBot,C
+nagios,nagios,C
+Nail,Nail,C
+Najdi,Najdi,C
+Najdi.si,Najdi.si,C
+NalezenCzBot,NalezenCzBot,
+Nambu,Nambu,C
+Name Intelligence,Name Intelligence,
+NameOfAgent,NameOfAgent,C
+namepros,namepros.com,C
+NAMEPROTECT,NAMEPROTECT,
+Nasa search,Nasa search,C
+Natchcvs,Natchcvs,
+NationalDirectory,NationalDirectory,C
+Natweb-bad-link-mailer,Natweb-bad-link-mailer,
+naver,naver/1.1,C
+NaverBot,NaverBot,C
+NavissoBot,NavissoBot,C
+Navroad,Navroad/1.1,
+NaWeBe,NaWeBe,C
+nbertaupete95,nbertaupete95,C
+NCBot,NC Bot,C
+NCSA,NCSA,C
+NCSA_Mosaic,NCSA_Mosaic,C
+ndl-japan-warp,ndl-japan-warp,C
+NearSite,NearSite/1.1,
+Nebullabot,Nebullabot,C
+NEC-MeshExplorer,NEC-MeshExplorer,
+Needle,Needle,C
+Neevabot,Neevabot,C
+Nekstbot,Nekstbot,C
+Nelian Pty Ltd - Spider,Nelian Pty Ltd - Spider,
+NeoScioCrawler,NeoScioCrawler/1.1,
+NerdByNature.Bot,NerdByNature.Bot,C
+NerdyBot,Nerdy Bot,
+Nerima-crawl-,Nerima-crawl-,
+Nessus,Nessus,C
+Nestreader,Nestreader,C
+Net Vampire,Net Vampire/1.1,
+Net::trackback,Net::trackback,
+NetAnts,NetAnts/1.1,
+NetCarta CyberPilot,NetCarta CyberPilot,
+Netcarta cyberpilot pro,Netcarta cyberpilot pro,
+Netcat Bot,Netcat Bot,C
+Netcraft,Netcraft,C
+Netcraft crawler,Netcraft crawler,
+netEstate,netEstate NE Crawler,C
+netEstate Crawler,netEstate Crawler,C
+Netexperts,Netexperts,
+neticle,neticle,C
+neticle.hu,neticle.hu,C
+Netid.com bot,Netid.com bot,
+netk6 crawler,netk6 crawler,
+Netluchs,Netluchs,C
+NetLyzer,NetLyzer,
+NetMechanic,NetMechanic/1.1,C
+NetMind-Minder,NetMind-Minder,
+NetMonitor,NetMonitor,
+NetNewsWire,NetNewsWire,C
+NetNose,NetNose,C
+Netpeak bot,Netpeak bot,
+Netprospector,Netprospector,C
+NetResearchServer,NetResearchServer,C
+NetScoop,NetScoop/1.0 libwww/5.0a/1.1,
+Netseer,Netseer,C
+NetShelter,NetShelter,C
+Netshift,Netshift,
+Netsongbot,Netsongbot,
+Netsparker,Netsparker,C
+NetSpider,NetSpider/1.1,C
+NetSprint,NetSprint,
+Netsrcherp,Netsrcherp,
+Nett.io bot,Nett.io bot,
+Netthrob-bot,Netthrob-bot,C
+nettle.sk,nettle.sk,C
+NetTrack,NetTrack,C
+NetTrack.info bot,NetTrack.info bot,
+Netvibes,Netvibes,C
+Networking4all,Networking4all,C
+netwu.com,netwu.com,C
+NetZIP,NetZIP/1.1,
+NetZip-Downloader,NetZip-Downloader/1.0.62 (Win32; /1.1,
+NetZippy,NetZippy+(http://www.innerprise.net/usp-/1.1,C
+NeumobBot,NeumobBot,
+Neustar,Neustar,C
+Neustar WPM,Neustar WPM,C
+NeutrinoAPI,NeutrinoAPI,
+New-Sogou-Spider,New-Sogou-Spider,
+newest.exe,newest.exe,
+Newlyso,Newlyso.com,C
+Newmedhunt,Newmedhunt,
+news bot ,news bot /2.1),C
+News_search_app,News_search_app,
+NewsBlur .*Finder,NewsBlur .*Finder,
+newsBot,newsBot,C
+Newsclip,Newsclip,C
+Newsgatherer,Newsgatherer,
+NewsGator,NewsGator,C
+NewsGatorOnline,NewsGatorOnline,C
+Newsgroupreporter,Newsgroupreporter,
+Newsgroupreporter_LinkCheck,Newsgroupreporter_LinkCheck,
+NewShareCounts.com,NewShareCounts.com,C
+Newslitbot,Newslitbot,C
+newsme,newsme,
+newspaper,newspaper,C
+newspicksbot,newspicksbot,C
+Newspipe,Newspipe,C
+NewsRack,NewsRack,C
+newsrdr,newsrdr,C
+NewsRPM,NewsRPM,C
+Newstrovebot,Newstrovebot,
+newswhip,newswhip.com,C
+NEWT,NEWT,C
+NewUseAgent,NewUseAgent,C
+nexcess.net,nexcess.net,C
+NextGenSearchBot,NextGenSearchBot,C
+Nextthing.org,Nextthing.org,
+nexusqr8,nexusqr8.com,C
+NFReader,NFReader,C
+NG,NG,
+NG-Search,NG-Search,C
+NHIBot,NHIBot,C
+NHSEWalker,NHSEWalker/3.0/1.1,
+Nibbler,Nibbler,
+nic.ru,nic.ru,C
+nicebot,nicebot,
+NICErsPRO,NICErsPRO/1.1,
+nick04.com,nick04.com,C
+NIF,NIF,C
+Nigma.ru,Nigma.ru,C
+nihilScio,nihilScio,C
+niki-bot,niki-bot,C
+Nikto,Nikto,C
+NimbleCrawler,NimbleCrawler,C
+Nimbostratus,Nimbostratus,C
+Nimbus-1,Nimbus-1,
+nineconnections,nineconnections,
+Ninetowns,Ninetowns,
+NING,NING,C
+Ninja,Ninja,C
+Nintindo Wii,Nintindo Wii,
+Nitro PDF Doaload,Nitro PDF Doaload,
+NiueBot,NiueBot,C
+Njuicebot,Njuicebot,
+NLCrawler,NLCrawler,
+Nlese,Nlese,
+nlnbot,nlnbot,C
+NLNZ_IAHarvester,NLNZ_IAHarvester,C
+nlpproject,nlpproject.info,C
+Nmap,Nmap,C
+noagendasocial,noagendasocial.com,C
+node,node,C
+node-superagent,node-superagent,C
+nodestackbot,nodestackbot,
+Nogate,Nogate,
+Nomad,Nomad-V2.x/1.1,C
+nominet,nominet,C
+nomore404.com robot,nomore404.com robot,
+noodlemagazine,noodlemagazine.com,C
+NooZilla,NooZilla,C
+Norbert the spider,Norbert the spider,
+northcutt,northcutt.com,C
+NortheasternSysNetBot,NortheasternSysNetBot,C
+Norton-Safeweb,Norton-Safeweb,C
+noscript.ne,noscript.ne,C
+Not a bot,Not a bot,C
+notebot,notebot,C
+Noteworthybot,Noteworthybot,
+Notifixious,Notifixious,C
+notifyninja,notifyninja,C
+NougaBot,NougaBot,C
+nowblogs.com,nowblogs.com,C
+NowBot,NowBot,C
+noxtrumbot,noxtrumbot,
+NPbot,NPbot/1.1,C
+Nrcan intranet crawler,Nrcan intranet crawler,
+NRK-bruker,NRK-bruker,
+nrsbot,nrsbot,
+NScrape,NScrape,C
+Nsdl_search_bot,Nsdl_search_bot,
+nsi.bg,nsi.bg,C
+nsrbot,nsrbot,C
+NsToolsBot,NsToolsBot,C
+NTENTbot,NTENTbot,C
+Nu_tch,Nu_tch,
+nubilosoft,nubilosoft.com,C
+Nuesbyte,Nuesbyte,
+Nuggetize.com bot,Nuggetize.com bot,
+nuhk,nuhk,C
+Nusearch Spider,Nusearch Spider,C
+Nutch,Nutch,C
+NutchCVS,NutchCVS,C
+Nuzzel,Nuzzel,C
+nworm,nworm,C
+Nwspider,Nwspider,
+Nymesis,Nymesis,C
+Nys-crawler,Nys-crawler,
+O3ART,O3ART,C
+ObjectsSearch,ObjectsSearch,
+oBot,oBot/2.3.1,C
+Obvius external linkcheck,Obvius external linkcheck,
+Ocarina bot,Ocarina bot,C
+Ocarinabot,Ocarinabot,C
+Occam,Occam/1.0/1.1,C
+Ocelli,Ocelli,C
+ocrsearch,ocrsearch.com,C
+Octopus,Octopus/1.1,C
+Octora_Beta,Octora_Beta,
+OdklBot,OdklBot,C
+Odp entries t_st,Odp entries t_st,C
+oebot,oebot,C
+oegp,oegp,C
+Offline,Offline,C
+Offline Explorer,Offline Explorer/1.1,C
+Offline Navigator,Offline Navigator/1.1,
+Offline.Explorer,Offline.Explorer/1.1,
+OGspider,OGspider/1.1,
+ohlogroup,ohlogroup,C
+oiqBot,oiqBot,C
+OK-Bot,OK-Bot,C
+OK-Search-Bot,OK-Search-Bot,C
+okhttp,okhttp,C
+oku-taka-lab-bot,oku-taka-lab-bot,
+OkuLink,OkuLink,C
+OLE Control,OLE Control v.1.0/1.1,
+Omea,Omea,C
+omgili,omgili,C
+omgilibot,omgilibot,C
+Omiexplorer_bot,Omiexplorer_bot,
+Omni CMS,Omni CMS,C
+Omnible,Omnible.com,C
+OmniExplorer,OmniExplorer,C
+OmniExplorer_Bot,OmniExplorer_Bot,C
+Omnifind,Omnifind,
+Omnipelagos,Omnipelagos,
+Omniweb,Omniweb,C
+OmnizensBot,OmnizensBot,C
+OmtrBot,OmtrBot,C
+OnalyticaBot,OnalyticaBot,C
+Onespot,Onespot-ScraperBot,C
+onetsp.com,onetsp.com,C
+OnetSzukaj,OnetSzukaj,C
+OnionDir,OnionDir,C
+Online Domain Tools,Online Domain Tools,C
+online link validator,online link validator,
+online-webceo-bot,online-webceo-bot,C
+onlinestreet,onlinestreet,C
+OnPageBot,OnPageBot,C
+OntoSpider,OntoSpider,C
+onzu-extract,onzu-extract,C
+oodlebot,oodlebot.com,C
+ooyyo.info,ooyyo.info,C
+oozbot,oozbot,C
+Open Text Site Crawler,Open Text Site Crawler,
+Open Web Analytics Bot,Open Web Analytics Bot,C
+open_graph_reader,open_graph_reader,C
+OpenAnything,OpenAnything,C
+Openbot,Openbot/1.1,C
+OpenCalaisSemanticProxy,OpenCalaisSemanticProxy,
+Opendi Bot,Opendi Bot,
+opendi.com,opendi.com,C
+openendless,openendless,C
+Openfind,Openfind/1.1,C
+Openfind data gathere,Openfind data gathere,
+Openfind data gatherer,Openfind data gatherer,
+OpenfosBot,OpenfosBot,
+OpenGraphCheck,OpenGraphCheck,C
+OpenHoseBot,OpenHoseBot,
+OpenindexSpider,OpenindexSpider,C
+OpenIntelligenceData,OpenIntelligenceData,
+Openisearch,Openisearch,C
+Openlink virtuoso rdf crawler,Openlink virtuoso rdf crawler,C
+OpenLinkProfiler,OpenLinkProfiler,C
+OpenSearchServer_Bot,OpenSearchServer_Bot,C
+Openstat,Openstat,C
+OpenTaggerBot,OpenTaggerBot,C
+OpenVAS,OpenVAS,C
+OpenWebSpider,OpenWebSpider,C
+Operabot,Operabot/2.1)/Nutch-2.1,C
+Opidig,Opidig,
+OppO,OppO,C
+Optidiscover,Optidiscover,
+OptimizationCrawler,OptimizationCrawler,C
+Optimizer,Optimizer,C
+Oracle secure enterprise searc,Oracle secure enterprise search,
+Oracle Ultra Search,Oracle Ultra Search/1.1,C
+OrangeBot,OrangeBot/2.0,C
+OrangeSpider,OrangeSpider,C
+oransns.com,oransns.com,C
+Orbiter,Orbiter,C
+Orca Browser,Orca Browser,C
+OrgbyBot,OrgbyBot,
+OrgProbe,OrgProbe,C
+orion-semantics,orion-semantics.com,C
+Orisbot,Orisbot,
+Ornl_crawler,Ornl_crawler,
+Ornl_mercury,Ornl_mercury,
+os15melhores,os15melhores.com,C
+OsinkaBot,OsinkaBot,C
+Osis-project.jp,Osis-project.jp,
+OsObot,OsObot,
+OSPScraper,OSPScraper,C
+OSS_Bot,OSS_Bot,C
+OstadYar,OstadYar,C
+OTMedia,OTMedia,C
+otway,www.otway.com/webreaper/1.1,C
+OU Campus,OU Campus,C
+ourfreedombook,ourfreedombook.com,C
+Ousia,Ousia,C
+outbrain,outbrain,C
+outclicks,outclicks.net,C
+OutclicksBot,OutclicksBot,C
+OutfoxBot,OutfoxBot,
+Outfoxmelonbot,Outfoxmelonbot,
+OvalEarthBot,OvalEarthBot,C
+ovationframing,ovationframing.com,C
+ovuwa.com,ovuwa.com,C
+Owler,Owler,C
+Owler-bot,Owler-bot,
+owlin.com,owlin.com,C
+ownCloud,ownCloud,C
+ownCloud Crawler,ownCloud Crawler,
+Ownsearch,Ownsearch,C
+Owsbot,Owsbot,C
+Ozelot,Ozelot,C
+OZER ORGANIK,OZER ORGANIK,C
+p07.zjf88,p07.zjf88.com,C
+P3p client,P3p client,
+p40Bot,p40Bot,C
+PackRat,PackRat,
+PAD-bot,PAD-bot/9.0,C
+padicat.cat,padicat.cat,C
+Page Analyzer,Page Analyzer,C
+page scorer,page scorer,
+Page Valet,Page Valet,
+page_verifier,page_verifier,
+PageAnalyzer,PageAnalyzer,C
+PageBitesHyperBot,PageBitesHyperBot,C
+Pagebull,Pagebull,
+Pagedown,Pagedown,
+Pagefetcher,Pagefetcher,
+PageGrabber,PageGrabber/1.1,
+PagePeeker,PagePeeker,C
+Pagerank monitor,Pagerank monitor,
+PageScorer,PageScorer,
+PagesInventory,PagesInventory Bot,
+Pagespeed,Pagespeed,C
+PagestackerBot,PagestackerBot,C
+pagething,pagething.com,C
+Pajaczek,Pajaczek,
+paloaltonetworks,paloaltonetworks,C
+Pamsnbot.htm,Pamsnbot.htm,
+Pandeo Bot,Pandeo Bot,
+panic.com,panic.com,C
+Panopta,Panopta,C
+panoptikum,panoptikum.io,C
+Panopy Bot,Panopy Bot,
+Panorax,Panorax,C
+panscient,panscient.com,C
+panscient.com,panscient.com,C
+Pansophica,Pansophica,
+Papa,Papa,C
+Papa Foto,Papa Foto/1.1,
+Paperblog,Paperblog,C
+PaperLiBot,PaperLiBot,C
+Parasite,Parasite,C
+ParchBot,ParchBot,
+pars-gsm.com,pars-gsm.com,C
+parsely,parsely.com,C
+parsijoo,parsijoo,C
+parsijoo-bot,parsijoo-bot,
+partagesgratuits,partagesgratuits.com,C
+partner_bot,partner_bot,C
+pas_link_scraper,pas_link_scraper,C
+passkart,passkart.com,C
+Pathtraq,Pathtraq,
+PatientPortalScraper,PatientPortalScraper,C
+patleahy,patleahy.com,C
+Patric,Patric,C
+Pattern,Pattern,C
+patternmedia,patternmedia.com,C
+Patwebbot,Patwebbot,
+pavuk,pavuk/1.1,
+Paxleframework,Paxleframework,
+PAXXISbot,PAXXISbot,C
+Pbbot,Pbbot,C
+pcBrowser,pcBrowser/1.1,C
+Pcore-HTTP,Pcore-HTTP,C
+Pd-crawler,Pd-crawler,
+pdfdomain,pdfdomain.com,C
+pdffillerbot,pdffillerbot,C
+PEAR_HTTP_Request_class,PEAR_HTTP_Request_class,
+Pearltrees,Pearltrees,C
+PECL::HTTP,PECL::HTTP,C
+PeekBot,PeekBot,C
+Peeplo Screenshot Bot,Peeplo Screenshot Bot,
+Peepowbot,Peepowbot,
+PEERbot,PEERbot,
+peerindex,peerindex,
+peertelligent,peertelligent,C
+Peew,Peew,C
+PennySEO,PennySEO,C
+Penthesila,Penthesila,
+penthesilea,penthesilea,C
+PeoplePal,PeoplePal,C
+PercolateCrawler,PercolateCrawler,C
+perfectmail,perfectmail.com,C
+Perform_crawl,Perform_crawl,
+Performance,Performance,C
+PerMan,PerMan/1.1,C
+Personal ultimate crawler,Personal ultimate crawler,
+Perviibot,Perviibot,C
+petalbot,petalbot,C
+Pete-Spider,Pete-Spider,
+pflink.ru,pflink.ru.204,C
+PGP-KA,PGP-KA/1.2/1.1,
+Phantom,Phantom.js,C
+PhantomJS,PhantomJS,C
+Phaserbot,Phaserbot,C
+PhearBot,PhearBot,C
+phelios,phelios,C
+PHOTO CHECK,PHOTO CHECK,
+Photon,Photon,C
+PHP version tracker,PHP version tracker,
+PHP_version_tracker,PHP_version_tracker,
+phpcrawl,phpcrawl,C
+PhpDig,PhpDig,C
+phpservermon,phpservermon,C
+phpzhanqun.com,phpzhanqun.com,C
+phumrawit,phumrawit.com,C
+Pi-Monster,Pi-Monster,C
+picmole,picmole,C
+Picosearch,Picosearch,
+Picoweb,Picoweb_Bot,C
+Picscout,Picscout,
+Picsearch,Picsearch,C
+PictureFinder,PictureFinder,C
+Pieno robot,Pieno robot,
+Piepmatz,Piepmatz Bot,C
+PiltdownMan,PiltdownMan,
+Pimonster,Pimonster,
+Pimptrain,Pimptrain,
+pinatag,pinatag.com,C
+PingBot,PingBot,C
+PINGOMETER,PINGOMETER,C
+Pingoscope,Pingoscope,
+PingSpot,PingSpot,C
+Pinterest,Pinterest,C
+Pioneer,Pioneer,C
+Pipbot,Pipbot,
+pipeLiner,pipeLiner,
+PiplBot,PiplBot,C
+pirate,pirate,C
+pirst,pirst,C
+Pita,Pita,C
+Pixfinder,Pixfinder,
+Pixray,Pixray,
+Pixray-Seeker,Pixray-Seeker,
+Piyushbot,Piyushbot,
+Pizilla,Pizilla,C
+plagger.org,plagger.org,C
+planet,planet,C
+plaNETWORK Bot Search,plaNETWORK Bot Search,
+PlantyNet,PlantyNet,
+Playapod,Playapod,C
+PlayerFM,PlayerFM,C
+PleaseCrawl,PleaseCrawl,
+Pleroma,Pleroma,C
+plids.com,plids.com,C
+pligg.com,pligg.com,C
+Ploetz,Ploetz,
+Plucker,Plucker,C
+Plug in SEO,Plug in SEO,C
+Plukkie,Plukkie,C
+Plumanalytics,Plumanalytics,C
+Plumtree,Plumtree,
+PlurkBot,PlurkBot,C
+PlyzerBot,PlyzerBot,C
+pmafind,pmafind,
+pmoz.info ODP link checker,pmoz.info ODP link checker,C
+pocketcasts,pocketcasts,C
+PocketParser,PocketParser,C
+Pockey,Pockey,C
+Pocohttp,Pocohttp,
+Podalong,Podalong,C
+podbean,podbean.com,C
+PodcastAddict,PodcastAddict,C
+Podcastly,Podcastly,C
+PodcastPartyBot,PodcastPartyBot,C
+Podcatr,Podcatr,C
+podchaser,podchaser.com,C
+poddirectory,poddirectory.com,C
+Podimo,Podimo,C
+podlovin,podlovin.com,C
+podparadise,podparadise.com,C
+Podsights,Podsights,C
+podtail,podtail,C
+PodtailBot,PodtailBot,C
+POE-Component-Client-HTTP,POE-Component-Client-HTTP,C
+Pogodak.ba,Pogodak.ba,C
+Pogodak.co.yu,Pogodak.co.yu,
+Poirot,Poirot,
+PoliFLW,PoliFLW,C
+Polseguera,Polseguera,C
+PolyBot,PolyBot,C
+Pompos,Pompos,C
+Poodle predictor,Poodle predictor,
+Poodle_predictor,Poodle_predictor,
+Pooodle_predictor,Pooodle_predictor,
+poopleBot,poopleBot,C
+Popdexter,Popdexter,C
+PopScreen Bot,PopScreen Bot,C
+PopScreenBot,PopScreenBot,C
+porcore,porcore.com,C
+Porkbun,Porkbun,
+pornhub,pornhub,C
+pornve.com,pornve.com,C
+Port Monitor check service,Port Monitor check service,C
+Port_Huron_Labs,Port_Huron_Labs,
+PortalJuice,PortalJuice,C
+portcitydaily,portcitydaily.com,C
+postano,postano,C
+PostJobFreeBot,PostJobFreeBot,C
+postplanner,postplanner.com/,C
+PostPost,PostPost,C
+postrank,postrank,C
+PotBot,PotBot,C
+poweredbyslick,poweredbyslick,C
+PowerMapper Crawler,PowerMapper Crawler,
+Powermarks,Powermarks,C
+pr-cy.ru,pr-cy.ru,C
+pr-cy.ru Bot,pr-cy.ru Bot,
+pragmaMx,pragmaMx,C
+Prepearbot,Prepearbot,C
+Prepper Bot,Prepper Bot,C
+Prerender,Prerender,C
+presspeople,presspeople.com,C
+pressrush,pressrush.com,C
+Pretty Klicks,Pretty Klicks Bot,C
+prezi.com,prezi.com,C
+PRFT-Bot,PRFT-Bot,C
+price.to,price.to,C
+pricebot,pricebot,C
+Priceonomics,Priceonomics,C
+Priceonomics Analysis Engine,Priceonomics Analysis Engine,
+pricestarz,pricestarz,C
+primal,primal.com,C
+Princetonbot,Princetonbot,C
+PritTorrent,PritTorrent,
+PrivacyAwareBot,PrivacyAwareBot/1.1,C
+Privacyfinder,Privacyfinder,
+PrivateSearch,PrivateSearch,C
+Prlog,Prlog,C
+probethenet,probethenet,C
+process,process,C
+ProcLink,ProcLink,C
+ProCogBot,ProCogBot/1.0,C
+ProCogSEOBot,ProCogSEOBot/1.0,C
+ProductoDownloadUrlBot,ProductoDownloadUrlBot,
+profound,profound.net,C
+Profound scrapyproject,Profound scrapyproject,
+Project 25499,Project 25499,C
+Project-Resonance,Project-Resonance,C
+ProjectShield,ProjectShield-UrlCheck,C
+Projectwf-java-test-crawler,Projectwf-java-test-crawler,
+prometheus,prometheus,C
+Promisebot,Promisebot,C
+PromonavigatorBot,PromonavigatorBot,C
+Promotion_Tools,Promotion_Tools,
+Proofer,Proofer,C
+PropBot,PropBot,C
+prophy-bot,prophy-bot,C
+ProPowerBot,ProPowerBot/2.14/1.1,
+prospectb2b,prospectb2b,
+Protopage,Protopage,C
+ProWebWalker,ProWebWalker/1.1,
+Prowl,Prowl,C
+Proxad,Proxad,
+Proxem websearch,Proxem websearch,
+proximic,proximic,C
+proximic.com,proximic.com,C
+Proxy crawler,Proxy crawler,
+proxybot,34.244.200.84,C
+proxyfly,proxyfly.org,C
+psbot,psbot/1.1,C
+psbot test for robots.txt,psbot test for robots.txt,
+psbot-page,psbot-page,C
+pseudohistoria,pseudohistoria,C
+Pss-bot,Pss-bot,
+psycheclone,psycheclone,C
+PTST,PTST,C
+Pu_iN,Pu_iN,C
+Pub-crawler,Pub-crawler,
+Pucl,Pucl,C
+Pulno,Pulno,C
+Pulsebot,Pulsebot,
+Pulsepoint,Pulsepoint,C
+Pulsso,Pulsso-bot,C
+Pump,Pump,C
+Purebot,Purebot,
+PurpleToolzBot,PurpleToolzBot,C
+pushbullet,pushbullet.com,C
+pushcrew,pushcrew.com,C
+pustekbot,pustekbot,C
+pustkibot,pustkibot,C
+PWBot,PWBot,C
+Pwebot,Pwebot,
+PxBroker,PxBroker,C
+pycurl,pycurl,C
+PyQuery,PyQuery,
+pyspider,pyspider,C
+pythonware,pythonware.com,C
+Pywikibot,Pywikibot,C
+QalleBot,QalleBot,C
+QBot,QBot,C
+Qeavis agent,Qeavis agent,
+Qfkbot,Qfkbot,
+qiitadon.com,qiitadon.com,C
+qiklinx,qiklinx.com,C
+qingdao bieshu chushou,qingdao bieshu chushou,
+Qirina,Qirina,C
+Qirina Hurdler,Qirina Hurdler,C
+qoshe,qoshe.com,C
+QQ_Bot,QQ_Bot,C
+Qseero,Qseero,C
+Qualidade,Qualidade,
+Qualidator,Qualidator,C
+Qualidator.com Bot,Qualidator.com Bot,C
+Qualityrobo,Qualityrobo Bot,C
+Quantcastbot,Quantcastbot,C
+QuepasaCreep,QuepasaCreep,C
+QueryN Metasearch,QueryN Metasearch/1.1,
+QueryN.Metasearch,QueryN.Metasearch/1.1,
+QuerySeekerSpider,QuerySeekerSpider,C
+Quest.durato,Quest.durato,
+Quester,Quester,C
+QuetextBot,QuetextBot,C
+Quick-Crawler,Quick-Crawler,
+quickobot,quickobot/quickobot-1,C
+QuickSproutBot,QuickSproutBot.com,C
+quid.com,quid.com,C
+Quintura-crw,Quintura-crw,
+QuiqScrapeBot,QuiqScrapeBot,C
+Qunarbot,Qunarbot,
+Quora,Quora,C
+QuoraBot,QuoraBot,
+qwant,qwant.com,C
+Qwantify,Qwantify,C
+Qweery_robot.txt_checkbot,Qweery_robot.txt_checkbot,
+QweeryBot,QweeryBot,C
+R2ibot,R2ibot,
+r4Bot,r4Bot,C
+R6 bot,R6 bot,
+R6_CommentReader,R6_CommentReader/1.1,C
+R6_feedfetcher,R6_feedfetcher,
+R6_votereader,R6_votereader,
+Rabot,Rabot,C
+rackmaven,rackmaven.com,C
+RADaR-Bot,RADaR-Bot/Nutch-1.3,C
+radarbot,radarbot,C
+Radian6,Radian6,C
+Radiation Retriever,Radiation Retriever 1.1/1.1,
+radio-locator,radio-locator.com,C
+Radius,Radius,C
+Rainmaker,Rainmaker,C
+Rakuten,Rakuten,C
+ramaonhealthcare,ramaonhealthcare.com,C
+RAMPyBot,RAMPyBot,
+Random,Random,C
+RankActive,RankActive,C
+RankActive Bot,RankActive Bot,
+RankFlex,RankFlex.com,C
+RankFlex.com
+ Webspider,RankFlex.com Webspider,
+Ranking,Ranking,C
+Ranking-Manager,Ranking-Manager,
+RankingBot,RankingBot,C
+RankingBot2,RankingBot2,C
+Rankivabot,Rankivabot,
+RankMathApi,RankMathApi,C
+RankSonicSiteAuditor,RankSonicSiteAuditor,C
+Rankur,Rankur,C
+RankurBot,RankurBot,C
+RankvalBot,RankvalBot,
+ranscoder,ranscoder,C
+rapidrex,rapidrex.com,C
+RasaBot,RasaBot,C
+rasp.com,rasp.com,C
+Rational sitecheck,Rational sitecheck,
+Rattib_Bot,Rattib_Bot,C
+ratup.com,ratup.com bot 1.8),C
+Ravelry,Ravelry.com,C
+RavenCrawler,RavenCrawler,C
+rawvoice,rawvoice.com,C
+razien.de,razien.de,C
+RBSE Spider,RBSE Spider,
+rcdtokyo,rcdtokyo.com,C
+rcetc.com,rcetc.com,C
+Rcstartbot,Rcstartbot,
+rdflib.net,rdflib.net,C
+Re-re Studio,Re-re Studio,C
+re-re.ru,re-re.ru,C
+reach-local-bot,reach-local-bot,C
+Readability,Readability,C
+reader.aol.com,reader.aol.com,C
+RealDownload,RealDownload/1.1,
+Reaper,Reaper,C
+Reasonalbot,Reasonalbot,C
+Rebel,Rebel,C
+RebelMouse,RebelMouse,C
+Rebi-shoveler,Rebi-shoveler,
+recettes,recettes.de,C
+recettes.de,recettes.de,C
+RechercheSexeBot,RechercheSexeBot,C
+rechtsunibot,rechtsunibot,C
+recipeaisle,recipeaisle.com,C
+recipedb_scraper,recipedb_scraper,C
+RecipeParser,RecipeParser,C
+Recorder,Recorder,C
+RecurPost,RecurPost.com,C
+red-sweater,red-sweater.com,C
+redback,redback,C
+REDbot,REDbot,C
+Redcarpet,Redcarpet,
+redditbot,redditbot,C
+RedesScrapy,RedesScrapy,C
+Redirect,Redirect,C
+ReederForMac,ReederForMac,C
+refer.ru,refer.ru,C
+Reflinks,Reflinks,C
+RegatorBot,RegatorBot,C
+ReGet,ReGet/1.1,C
+Regit,Regit,C
+REL_Link_Checker_Lite,REL_Link_Checker_Lite,
+RelateIQ Crawler,RelateIQ Crawler,
+Rely Bot,Rely Bot,C
+Rephonic,Rephonic,C
+replaz,replaz.com,C
+RepoMonkey,RepoMonkey/1.1,
+Report Garden,Report Garden Bot,C
+republer,republer.com,C
+Research robot,Research robot,
+research.nj.nec,research.nj.nec.com,C
+ResearchBot,ResearchBot,C
+researchscan,researchscan,C
+resolver,resolver,C
+ResponseCodeTest,ResponseCodeTest,
+RestSharp,RestSharp,C
+Resume Robot,Resume Robot/1.1,
+RetailMeNot,RetailMeNot,C
+ReteBot,ReteBot,C
+Reteimprese,Reteimprese,C
+RetrevoPageAnalyzer,RetrevoPageAnalyzer,C
+retriever,retriever,C
+reutersinstitute,reutersinstitute,C
+RevueBot,RevueBot,C
+RicochetBot,RicochetBot,C
+Riddler,Riddler,C
+Riddlerbot,Riddlerbot,
+rigor.com,rigor.com,C
+Riight,Riight,
+ripper,DarcyRipper,C
+Risenetbot,Risenetbot,
+Rival,Rival,C
+Rival IQ,Rival IQ,C
+Riverbot,Riverbot,C
+Riverglassscanner,Riverglassscanner,
+RiverOnlineBot,RiverOnlineBot,C
+RiversideRocks,RiversideRocks,C
+rivva.de,rivva.de,C
+rnked.com,rnked.com,C
+RO.bot.v1.bis,RO.bot.v1.bis,C
+ROBMS-BOT,ROBMS-BOT,C
+RoboCrawl,RoboCrawl,C
+Robopal,Robopal,
+Robosourcer,Robosourcer,
+Robot,Robot,C
+Robot du CRIM,Robot du CRIM,
+Robot_txtChecker,WebWatch/Robot_txtChecker,
+robot@monkia.com.tw,robot@monkia.com.tw,
+Robotek,Robotek,
+roboto,roboto,C
+Robots_Tester,Robots_Tester,
+RobotsChecker,RobotsChecker,C
+Robozilla,Robozilla,
+robschecker,robschecker,
+RocketCrawler,RocketCrawler,
+Roger,Roger,C
+Rogerbot,Roger Bot,C
+Roistat Bot,Roistat Bot,C
+RojnameBot,RojnameBot,C
+Rome client,Rome client,C
+Rondello,Rondello,
+ronsplace,ronsplace.eu,C
+Ronzoobot,Ronzoobot,
+rookee.bot,rookee.bot,C
+RookeeBot,RookeeBot,C
+root,root,C
+rootlink,rootlink,C
+ROR Sitemap Generator,ROR Sitemap Generator,
+roswellspringcatalog,roswellspringcatalog,
+Rotondo,Rotondo,
+Roverbot,Roverbot/1.1,
+rp3.ecc.u-tokyo.ac.jp,rp3.ecc.u-tokyo.ac.jp,C
+Rpt-httpclient,Rpt-httpclient,C
+RSiteAuditor,RSiteAuditor,C
+Rtgibot,Rtgibot,
+Ruby,Ruby,C
+RufusBot,RufusBot,C
+RukiCrawler,RukiCrawler,C
+Ruky-Roboter,Ruky-Roboter,
+rulla.com],rulla.com],C
+Runet-Research-Crawler,Runet-Research-Crawler,C
+Runnk online rss reader,Runnk online rss reader,
+Runnk rss aggregator,Runnk rss aggregator,
+RUSCABLE,RUSCABLE,C
+RussBot,RussBot,C
+Rustbot,Rustbot/,C
+rwth-aachen,rwth-aachen,C
+RX Bar,RX Bar,C
+RyowlEngine,RyowlEngine,C
+RyteBot,RyteBot,C
+RyzeCrawler,RyzeCrawler,
+S~stremor-crawler,S~stremor-crawler,
+S2bot,S2bot,
+s2Member,s2Member,C
+Safaribookmarkchecker,Safaribookmarkchecker,C
+SafeAds.xyz,SafeAds.xyz bot,C
+SafeDNS search bot,SafeDNS search bot,C
+SafeDNSBot,SafeDNSBot,C
+SafetyNet,SafetyNet Robot 0.1/1.1,C
+SafetyNet Robot,SafetyNet Robot,
+SAI Crawler,SAI Crawler,
+Saladspoon,Saladspoon,
+SalesIntelligent,SalesIntelligent,C
+salvaras,salvaras,C
+SandCrawler,SandCrawler,
+SANSARN,SANSARN,
+SanszBot,SanszBot,
+Sapienti,Sapienti,
+sapo.pt,sapo.pt,C
+Sapphireweb,Sapphireweb,
+SauceNAO,SauceNAO,C
+Sawmill,Sawmill,C
+SBA Research bot,SBA Research bot,
+SBIder,SBIder,C
+SBL-BOT,SBL-BOT,C
+sbot,sbot,C
+SBSearch,SBSearch,C
+sc_bot,sc_bot,C
+Scamadviser,ScamadviserExternalHit,C
+scan.lol,scan.lol,C
+scan.syndis,scan.syndis,C
+ScanAlert,ScanAlert,
+scanbot,scanbot,C
+scanner,scanner,C
+Scarlett,Scarlett,C
+SCFCrawler,SCFCrawler,
+schemaapp,schemaapp,C
+schibstedsokbot,schibstedsokbot,
+Schmozillav,Schmozillav,
+schuster,schuster,C
+Scich,Scich,
+sciencelogic,sciencelogic.com,C
+Scientificcommons.org,Scientificcommons.org,
+scifihifi,scifihifi.com,C
+scifipulse,scifipulse,C
+sciter,sciter,C
+Sclipocel,Sclipocel,C
+Scollspider,Scollspider,C
+Scoop,Scoop,C
+ScooperBot,ScooperBot,C
+Scooter,Scooter,C
+Scope (Mars+),Scope (Mars+),C
+ScopeContentAG,ScopeContentAG,C
+Scopia crawler,Scopia crawler,C
+scour,scour,C
+Scout,Scout,C
+ScoutJet,ScoutJet,C
+ScoutURLMonitor,ScoutURLMonitor,
+Scrapebox,Scrapebox,C
+scrapinghub,scrapinghub,C
+Scrapy,Scrapy,C
+scrapy-redis,scrapy-redis,C
+Scrawltest,Scrawltest,
+Screaming,Screaming,C
+screeenly-bot,screeenly-bot,C
+ScreenerBot,ScreenerBot Crawler Beta 2.0,C
+ScreenerBot Crawler,ScreenerBot Crawler,C
+ScreenShotService,ScreenShotService,
+Screw-Ball,Screw-Ball,
+Scribbr,Scribbr,C
+script injection,script injection,
+scripts.svobodnaia.ua,scripts.svobodnaia.ua,C
+Scrubby,Scrubby,C
+scrutiny,scrutiny,C
+Scspider,Scspider,C
+Scumbot,Scumbot,
+search bot,search bot,C
+Search publisher,Search publisher,
+Search x-bot,Search x-bot,
+Search-10,Search-10,
+Search-channel,Search-channel,
+Search-engine-studio,Search-engine-studio,
+Search-Engines-Scraper,Search-Engines-Scraper,C
+search-photo.info spider,search-photo.info spider,
+search.ch,search.ch,C
+search.com.ua_bot,search.com.ua_bot,C
+search.KumKie.com,search.KumKie.com,
+Search.updated.com,Search.updated.com,
+Search.usgs.gov,Search.usgs.gov,
+Search17Bot,Search17Bot,
+search37,search37.com,C
+SEARCHALOT,SEARCHALOT.COM,C
+Searcharoo.net,Searcharoo.net,
+Searchblox,Searchblox,C
+Searchbot,Searchbot,C
+Searchengine,Searchengine,C
+Searchestate,Searchestate,
+Searchhippo.com,Searchhippo.com,C
+Searchit-bot,Searchit-bot,
+Searchmarking,Searchmarking,
+Searchmarks,Searchmarks,
+Searchmee,Searchmee,
+Searchmee!,Searchmee!,
+SearchmetricsBot,SearchmetricsBot,C
+Searchmining,Searchmining,
+Searchnowbot,Searchnowbot,
+SearchNZ,SearchNZ,C
+searchpreview,searchpreview/1.1,
+SearchSight,SearchSight,C
+Searchspider,Searchspider,C
+Searchspider.com,Searchspider.com,
+Searqubot,Searqubot,
+Seb spider,Seb spider,
+SEBot-WA,SEBot-WA,C
+SecretBrowser,SecretBrowser,
+securesky,2securesky,C
+security analyser,security analyser,
+security scan,security scan,C
+securityJavaScript,securityJavaScript.com Bot,C
+SecurityResearchBot,SecurityResearchBot,
+seebot,seebot.org,C
+seebot.org,seebot.org,C
+seegnifybot,seegnifybot,
+SeeGoneBot,SeeGoneBot,C
+seek-crawler,seek-crawler,C
+Seekbot,Seekbot,C
+Seeker.lookseek.com,Seeker.lookseek.com,
+Seeqbot,Seeqbot,
+Seeqpod-vertical-crawler,Seeqpod-vertical-crawler,
+SeerBot,SeerBot,C
+sees,sees.co,C
+seewithkids,seewithkids,C
+seexie.com_bot,seexie.com_bot/4.1,C
+Selflinkchecker,Selflinkchecker,
+Semager,Semager,C
+semalt,semalt,C
+Semantic Health Web Crawler,Semantic Health Web Crawler,
+semantic-visions.com crawler,semantic-visions.com crawler,C
+semanticbot,semanticbot,C
+semanticdiscovery,semanticdiscovery,C
+semanticjuice,semanticjuice,C
+SemanticScholarBot,SemanticScholarBot,C
+Semantifire,Semantifire,
+semawur,semawur.com,C
+semiocast,semiocast.com,C
+semiocast.com,semiocast.com,C
+Semisearch,Semisearch,
+semrush,semrush,C
+SemrushBot,Semrush Bot,C
+Semtix.cz,Semtix.cz,C
+sendfox,sendfox,C
+Sendinblue,Sendinblue,C
+sendvid.com,sendvid.com,C
+Senrigan,Senrigan/xxxxxx/1.1,
+sensis,sensis,C
+Sensis Web Crawler,Sensis Web Crawler,C
+Sensis.com.au Web Crawler,Sensis.com.au Web Crawler,
+SentiBot,SentiBot,C
+Sentimentbot,Sentimentbot,C
+sentry.io,sentry.io,C
+SEO Booster,SEO Booster,C
+SEO Browser,SEO Browser,C
+SEO Macroscope,SEO Macroscope,C
+Seo Servis,Seo Servis,
+SEO Toolkit,SEO Toolkit,C
+seo-audit-check-bot,seo-audit-check-bot,C
+seo-nastroj,seo-nastroj,
+seo-nastroj.cz,seo-nastroj.cz,
+seo-one24.net,seo-one24.net,C
+seo.bigli,seo.bigli.ru,C
+seo.bigli.ru,seo.bigli.ru,C
+seo2311.info,seo2311.info,C
+Seobility,Seobility,C
+seoBOXX,seoBOXX,C
+SEObserver,SEObserver,C
+SEOBulls,SEOBulls,C
+SEOCentro,SEOCentro,
+SEOCentro bot,SEOCentro bot,
+seochat,seochat.com,C
+SeoCheck,SeoCheck,C
+SeoCheckBot,SeoCheckBot,
+seocompany,seocompany,C
+SEOcr,SEOcr,C
+SEODat,SEODat,
+SEOdiver,SEOdiver,C
+SeoEagle,SeoEagle,C
+seoEcho,seoEcho,C
+SEOENGBot,SEOENGBot,
+SEOENGWorldBot,SEOENGWorldBot/1.0,C
+SEOJobCenter,SEOJobCenter,C
+SEOkcP,SEOkcP,C
+SEOkicks,SEOkicks,C
+SEOkicks-Robot,SEOkicks-Robot,C
+SeoLik,SeoLik Analis,C
+Seolize,Seolize,C
+Seologies,Seologies,
+seolyt,seolyt,C
+SEOlyticsCrawler,SEOlyticsCrawler,
+SEOlyzer,SEOlyzer,C
+SEOMayo,SEOMayo,C
+seomc-bot,seomc-bot,C
+Seomoz,Seomoz,C
+seomsn.com,seomsn.com,C
+SEOprofiler,SEOprofiler,C
+SeopultContentAnalyzer,SeopultContentAnalyzer,C
+Seoradar,Seoradar,C
+SEOScalpel,SEOScalpel,C
+Seoscanners,Seoscanners,C
+SEOshop,SEOshop,C
+SeoSiteCheckup,SeoSiteCheckup,C
+SEOSpyder,SEOSpyder,C
+SeoStackBot,SeoStackBot,C
+SEOstats,SEOstats,C
+Seoterritory,Seoterritory.com,C
+seotoolset,seotoolset,C
+seovote,seovote.com,C
+seplinkbot,seplinkbot,C
+serendeputy-bot,serendeputy-bot,C
+serpstatbot,serpstatbot,C
+SERPtimizerBot,SERPtimizerBot,C
+Server Density,Server Density,C
+servermobile,servermobile,C
+servernfo,servernfo,
+servernfo.com,servernfo.com,
+ServiceUptime.robot,ServiceUptime.robot,C
+Servis,Servis,C
+setcronjob,setcronjob,C
+SetLinks,SetLinks,C
+Setoozbot,Setoozbot,
+sexsearcher,sexsearcher,
+Seznam,Seznam,C
+SeznamBot,SeznamBot,C
+sfFeedReader,sfFeedReader,C
+sg-Orbiter,sg-Orbiter,
+Sgrunt,Sgrunt,C
+Shablastbot,Shablastbot,C
+ShadowTrackr,ShadowTrackr.com,C
+Shadowwebanalyzer,Shadowwebanalyzer,
+ShagSeeker,ShagSeeker,
+shalfield,shalfield.com,C
+Shareaholicbot,Shareaholicbot,C
+Shareaza,Shareaza,C
+sharpr.com,sharpr.com,C
+shellshock,shellshock,C
+shelob,shelob,C
+Sherlock,Sherlock,C
+Shim,Shim,C
+Shim-Crawler,Shim-Crawler,C
+Shiori,Shiori,C
+Shodan,Shodan,C
+Shopello,Shopello,C
+Shopify,Shopify,C
+shopit,shopit.com,C
+Shoppimon,Shoppimon,
+ShoppimonAgent,ShoppimonAgent,
+shopping.com research,shopping.com research,
+Shopsalad,Shopsalad,
+shoptxt,shoptxt.ru,C
+ShopWiki,ShopWiki,C
+ShortLinkTranslate,ShortLinkTranslate,C
+ShortPixel,ShortPixel.com,C
+Showlinks,Showlinks,
+ShowyouBot,ShowyouBot,C
+shrinktheweb,shrinktheweb,C
+ShunixBot,ShunixBot,C
+shybunnie-engine,shybunnie-engine,
+sibibot,sibibot,C
+Siclab,Siclab,C
+sidearmsports,sidearmsports.com,C
+sideqik,sideqik.com,C
+SideWinder,SideWinder,C
+sightup,sightup.com,C
+Sigmabot,Sigmabot,C
+siigle.com,siigle.com,C
+SilverReader,SilverReader,
+Simple,Simple,C
+SimplePie,SimplePie,C
+Simply,Simply.com,C
+SimplyFast,SimplyFast,
+SimplyFast.info,SimplyFast.info,
+simsalabim,simsalabim,
+sindresorhus,sindresorhus,C
+Siphon,Siphon,
+SirdataBot,SirdataBot,C
+Sirketcebot,Sirketcebot,C
+sisabot,sisabot,C
+SiSch-BA-Bot,SiSch-BA-Bot,C
+sistrix,sistrix,C
+Site Crawler,Open Text Site Crawler V1.0/1.1,C
+Site Sucker,Site Sucker,
+Site Valet,Site Valet,
+Site-Scan,Site-Scan,C
+Site-Shot,Site-Shot,C
+site-visualizer,site-visualizer.com,C
+Site24x7,Site24x7,C
+SiteAnalyze,SiteAnalyze,C
+SiteAnalyzerBot,SiteAnalyzerBot,C
+SiteBar,SiteBar,C
+Sitebeam,Sitebeam,
+SiteBot,SiteBot,C
+Sitecheck,Sitecheck,C
+sitecheck.internetseer,sitecheck.internetseer,
+SiteCondor,SiteCondor,C
+Sitedomain-Bot,Sitedomain-Bot,C
+SiteExplorer,SiteExplorer,C
+Sitefinder,Sitefinder,
+Siteguardbot,Siteguardbot,
+SiteGuardian,SiteGuardian,
+Siteimprove,Siteimprove,C
+Siteimprove.com bot,Siteimprove.com bot,
+siteindexed.,siteindexed.com,C
+SiteIntel.net Bot,SiteIntel.net Bot,
+Siteliner,Siteliner,C
+sitelock,sitelock.com,C
+SiteLockSpider,SiteLockSpider,C
+Siteluxbot,Siteluxbot,
+Siteorbiter,Siteorbiter,
+SiteProbe,SiteProbe,
+sitequest,sitequest,C
+sites.reviews,sites.reviews,C
+SiteScoreBot,SiteScoreBot,C
+SiteSearch360,SiteSearch360,C
+Siteshooter,Siteshooter,
+SiteSnagger,SiteSnagger/1.1,C
+SiteSpeedBot,SiteSpeedBot,
+SiteSpider,SiteSpider,
+SiteSucker,SiteSucker,C
+Sitesweeper,Sitesweeper,
+sitetag.us,sitetag.us,C
+SiteTruth,SiteTruth,C
+SiteTruth.com,SiteTruth.com,C
+sitevigil,sitevigil.com,C
+SiteWinder,SiteWinder,C
+Sitexpert,Sitexpert,
+sitexy,sitexy,C
+SiteXY Webmaster tools,SiteXY Webmaster tools,
+SJUUPBot,SJUUPBot,C
+skaffe,skaffe.com,C
+SKB Kontur bot,SKB Kontur bot,
+SKCorpus,SKCorpus,C
+SketchEngine,SketchEngine,C
+Skimbot,Skimbot,C
+Skimwordsbot,Skimwordsbot,
+SKRBot,SKRBot,C
+Skreemrbot,Skreemrbot,C
+Skroutz,Skroutz,C
+skygrid,skygrid.com,C
+skylightswa,skylightswa.com.au,C
+SkypeUriPreview,SkypeUriPreview,C
+skyrock,skyrock.com,C
+Skywalker,Skywalker,C
+Slackbot,Slackbot,C
+Slackbot-LinkExpanding,Slackbot-LinkExpanding,C
+Sleipnir,Sleipnir,C
+slice.com,slice.com,C
+SlickBot,SlickBot,C
+slider,slider,C
+Slinky,Slinky,C
+Slow-crawler,Slow-crawler,
+SlowBot,SlowBot,C
+SlySearch,SlySearch/1.1,C
+SlySearch test robots.txt,SlySearch test robots.txt,
+SmabblerBot,SmabblerBot,C
+SmarshBot,SmarshBot,C
+Smart-crawler,Smart-crawler,
+smart.apnoti.com Robot,smart.apnoti.com Robot,
+SmartDownload,SmartDownload/1.1,C
+Smarte bot,Smarte bot,
+smarterworks,smarterworks,C
+SmartlingBot,SmartlingBot,C
+SmartLinksAddon,SmartLinksAddon,C
+Smartwit.com,Smartwit.com,
+SmeshBot,SmeshBot,C
+SMPU,SMPU,C
+SMRF,SMRF,C
+smrjbot,smrjbot,C
+SMTBot,SMTBot,C
+SMUrlExpander,SMUrlExpander,C
+Sn4keVisor,Sn4keVisor,
+sna-,sna-,C
+Snack Media,Snack Media,C
+snacktory,snacktory,C
+Snake,Snake,C
+snap.com beta,snap.com beta,
+Snap.com beta crawler,Snap.com beta crawler,
+Snapbot,Snapbot,C
+Snappreviewbot,Snappreviewbot,C
+Snappy,Snappy,C
+SNAPSHOT,SNAPSHOT,C
+snapspans.com,snapspans.com,C
+snarf.lisp,snarf.lisp,C
+Snarfer,Snarfer,C
+snbreact.org,snbreact.org,C
+Snipebot,Snipebot,
+snippet,web/snippet,C
+sniptracker,sniptracker,
+Snookit,Snookit,
+Snooper,Snooper/b97_01/1.1,C
+Snoopy,Snoopy,C
+snprtz,snprtz,C
+snyke,snyke.com,C
+socialbm_bot,socialbm_bot,
+socialcast,socialcast.com,C
+socialfabric,socialfabric,C
+sociallymap,sociallymap.com,C
+SocialOomphBot,SocialOomphBot,C
+SocialParkBot,SocialParkBot,C
+SocialRankIOBot,SocialRankIOBot,C
+SocialReport,SocialReport.com,C
+SocialShare,SocialShare,C
+Societyrobot,Societyrobot,C
+Sociovestix,Sociovestix,C
+socnet.supes,socnet.supes.com,C
+Socredactor,SocredactorBot,C
+Socscibot,Socscibot,C
+Soft411 directory,Soft411 directory,
+softcollection,softcollection,C
+softget,softget.net,C
+softhub,softhub.com,C
+sogou,sogou,C
+sogou spider,sogou spider,
+Sogou web spider,Sogou web spider,C
+sogouspider,sogouspider,
+Sohu agent,Sohu agent,
+sohu-search,sohu-search,
+Sokitomi crawl,Sokitomi crawl,
+Solbot,Solbot/1.0 LWP/5.07/1.1,
+soleo8801bot,soleo8801bot,C
+SOLOFIELD bot,SOLOFIELD bot,
+solofield.net,solofield.net,C
+SolomonoBot,SolomonoBot,C
+someoganization,someoganization,C
+SomePerlRobot,SomePerlRobot,
+Sondeur,Sondeur,
+sootle,sootle/1.1,
+Sopel,Sopel,C
+SortSite,SortSite,C
+sosfunny,sosfunny@gmail.com,C
+Sosospider,Sosospider,C
+Sottopop,Sottopop,C
+Soubrette,Soubrette,C
+soup.io,soup.io,C
+sourcingbot,sourcingbot.com,C
+southsidedaily,southsidedaily.com,C
+souwf.com,souwf.com,C
+sp_auditbot,sp_auditbot,C
+Space bison,Space bison,C
+Space fung,Space fung,
+Space Unfurl,Space Unfurl Bot,C
+SpaceBison,SpaceBison,
+Spacebug,Spacebug,
+Spammen,Spammen,
+spammer,spammer,C
+SpankBot,SpankBot/1.1,
+spanner,spanner/1.1,C
+Spatineo monitor controller,Spatineo monitor controller,C
+Spatineo serval controller,Spatineo serval controller,
+Spatineo serval getmapbot,Spatineo serval getmapbot,
+spaziodati,spaziodati,C
+spbot,SeoProfiler Bot,C
+special_archiver,special_archiver,C
+Speed-Meter,Speed-Meter,
+Speedy,Speedy,C
+Speedy Spider,Speedy Spider,C
+SpeedySpider,SpeedySpider,C
+SPEng,SPEng,C
+Sphere scout,Sphere scout,
+SphereUp,SphereUp,C
+Sphider,Sphider,C
+Spice M5460,Spice M5460,
+spider,spider.asp /1.1,C
+Spider Indexer,Spider Indexer,
+Spider_Monkey,Spider_Monkey,C
+Spider.terranautic.net,Spider.terranautic.net,
+Spiderengine,Spiderengine,C
+Spiderku,Spiderku,
+SpiderLing,SpiderLing,C
+Spiderman,Spiderman,C
+SpiderMan Mozilla,SpiderMan Mozilla,
+SpiDir.com,SpiDir.com,
+Spinn3r,Spinn3r,C
+Spinne,Spinne,C
+spivman.xss,spivman.xss,C
+splashaccess,splashaccess.com,C
+SplatSearch,SplatSearch,
+Spock Crawler,Spock Crawler,
+Spoke,Spoke,C
+SpokeSpider,SpokeSpider,
+spoofedhost.onlinescanner.com,spoofedhost.onlinescanner.com,
+Sportcrew-bot,Sportcrew-bot,
+SportsBlogsSeeker,SportsBlogsSeeker,C
+sportspyder,sportspyder.com,C
+Spotterbot,Spotterbot,C
+spray-can,spray-can,C
+spreadtrum,spreadtrum.com,C
+Sprinklr,Sprinklr,C
+sproose,sproose,C
+spuhex,spuhex.com,C
+spuhex.,spuhex.com,C
+SpuhexBot,SpuhexBot,C
+SpurlBot,SpurlBot,C
+SputnikBot,SputnikBot,C
+spycraw,spycraw.com,C
+spyder3,spyder3.microsys.com/1.1,
+spyder3.microsys.com,spyder3.microsys.com,
+SpyNet,SpyNet,
+spyonweb,spyonweb,C
+spyse_scaner_bot,spyse_scaner_bot,C
+Sq webscanner,Sq webscanner,
+sql injection,sql injection,
+sqlmap,sqlmap,C
+Sqlworm,Sqlworm,
+Squid-Prefetch,Squid-Prefetch,C
+SquidClamAV_Redirector,SquidClamAV_Redirector,
+SquigglebotBot,SquigglebotBot,
+Sqworm,Sqworm/2.9.85-BETA /1.1,C
+Sqworm i686-pc-linux,Sqworm i686-pc-linux,
+Srevbot,Srevbot,
+SSL Labs,SSL Labs,C
+SSL-Crawler,SSL-Crawler,C
+SSLBot,SSLBot,C
+SSM Agent,SSM Agent,
+StackRambler,StackRambler,C
+staff,staff,C
+Stardownloader,Stardownloader,
+start.bg,start.bg,C
+start.exe,start.exe,C
+startmebot,startmebot,C
+startpage,startpage,C
+Startsidenbot,Startsidenbot,C
+StashBot,StashBot,C
+Statastico,Statastico,C
+Statbot,Statbot,C
+StatCan,StatCan-R&D-Scraper,C
+statcrawler,statcrawler,
+statdom,statdom.ru,C
+Statedept-crawler,Statedept-crawler,
+StatistikAustria,StatistikAustria,C
+StatistikHessen,StatistikHessen,C
+StatOnlineRuBot,StatOnlineRuBot,C
+StatoolsBot,StatoolsBot,
+Statsbot,Statsbot/2.1),C
+StatusCake,StatusCake,C
+Steeler,Steeler,C
+Stegmann-bot,Stegmann-bot,
+Stephan Kopp bot,Stephan Kopp bot,
+Stero,Stero,C
+STINGbot,STINGbot,
+StitcherBot,StitcherBot,C
+storebot,storebot.net,C
+Storm-crawler,Storm-crawler,C
+StorygizeBot,StorygizeBot,C
+stq_bot,stq_bot,
+Stranicite,Stranicite.com,C
+strap,strap wrench bot,C
+Stratagems,Stratagems,C
+strategicboard,strategicboard,C
+Streetbot,Streetbot,C
+stresstest,stresstest,C
+Stripper,Stripper,C
+Stroke,Stroke,C
+Strokebot,Strokebot,
+struts-pwn,struts-pwn,C
+StudioFACA,StudioFACA,C
+StudioFACA Search,StudioFACA Search,C
+studylib bot,studylib bot,
+Stumbler,Stumbler,
+StumbleUpon,StumbleUpon,C
+subchell,subchell.com,C
+Subscribe.Ru,Subscribe.Ru,C
+subscribebyemail,subscribebyemail.com,C
+subscribeonandroid,subscribeonandroid,C
+Suchclip,Suchclip,
+suchen,suchen,C
+suchknecht,suchknecht,C
+Suck,Suck,C
+Sucker,Sucker,C
+Sucuri,Sucuri,C
+Sufog,Sufog,C
+suggybot,suggybot,
+SukcesRu,SukcesRu,C
+sukibot_heritrix,sukibot_heritrix/3.1.1,C
+Sumeetbot,Sumeetbot,
+Sumitbot,Sumitbot,
+summify,summify,C
+Summizebot,Summizebot,
+Summizefeedreader,Summizefeedreader,
+sunfx-benelux,sunfx-benelux.com,C
+Sunrise xp,Sunrise xp,C
+sunwukong,sunwukong,C
+Super Monitoring,Super Monitoring,C
+Superarama,Superarama,
+SuperBot,SuperBot/1.1,C
+superfeedr,superfeedr,C
+SuperHTTP,SuperHTTP/1.1,C
+Superlumin downloader,Superlumin downloader,
+Superpagesbot,Superpagesbot,C
+SuperPagesUrlVerifyBot,SuperPagesUrlVerifyBot,C
+support.article,support.article,C
+Supports gzip encoding,Supports gzip encoding,C
+Supra-Bot,Supra-Bot,C
+Supremesearch,Supremesearch.net,C
+Supybot,Supybot,C
+SurcentroBot,SurcentroBot,
+SurdotlyBot,SurdotlyBot/1.0,C
+sureseeker,sureseeker,C
+Surf,Surf,C
+surf.globe,surf.globe.com.ph,C
+Surfbot,Surfbot/1.1,C
+Surferbot,Surferbot,C
+Surphace,Surphace,
+Surphace Scout,Surphace Scout,
+Survey,Survey,C
+SurveyBot,SurveyBot,C
+suzuran,suzuran/1.1,C
+SVD_TXT,SVD_TXT,
+SVDSBot,SVDSBot,C
+svetabot,svetabot,C
+SViewBot,SViewBot,C
+SWEBot,SWEBot/1.0,C
+Sweepatic,Sweepatic,C
+sweetcouch,sweetcouch,C
+swello,swello.com,C
+swiftbot,swiftbot,C
+Swish-e,Swish-e,
+SwissSearch,SwissSearch,
+SwiteScraper,SwiteScraper,C
+Swjschecketbot,Swjschecketbot,C
+sxyprn,sxyprn.com,C
+SycamoreBot,SycamoreBot,C
+sygol,sygol,
+SygolBot,SygolBot,
+Symfony HttpClient,Symfony HttpClient,C
+Symfony Spider,Symfony Spider,
+Symfony2,Symfony2,C
+symphony,symphony,C
+Symptoma,Symptoma,C
+Synapticwalker,Synapticwalker,
+SynHttpClient-Built,SynHttpClient-Built,C
+SynoBot,SynoBot,C
+SynologyChatBot,SynologyChatBot,C
+Syntryx,Syntryx,C
+Syntryx ant scout chassis pher,Syntryx ant scout chassis pheromone,C
+Sysomos,Sysomos,C
+Sysscan,Sysscan,C
+System.Random,System.Random,
+Systemsearch-robot,Systemsearch-robot,
+Szukacz,Szukacz/1.4/1.1,
+szukaj,szukaj,C
+t_set_bot,t_set_bot,C
+T-h-u-n-d-e-r-s-t-o-n-e,T-h-u-n-d-e-r-s-t-o-n-e,C
+T0PHackTeam,T0PHackTeam,C
+t0psites,t0psites.com,C
+t3nBot,t3nBot,C
+t6labs,t6labs,
+T8Abot,T8Abot,C
+TA SEO Crawler,TA SEO Crawler,C
+taboola,taboola,C
+Tag-Visit,Tag-Visit.com,C
+taglaboratory,taglaboratory.org,C
+Tagoobot,Tagoobot,
+tags2dir,tags2dir.com,C
+tagSeoBot,tagSeoBot,
+Tailrank,Tailrank,
+Tailwind,Tailwind,C
+tAkeOut,tAkeOut/1.1,
+talk-me,talk-me.ru,C
+Talkro web-shot,Talkro web-shot,
+TalkTalk,TalkTalk,C
+Tamu_crawler,Tamu_crawler,C
+TangibleeBot,TangibleeBot,C
+taptubot,taptubot,
+Tapuzbot,Tapuzbot,
+Tarantula,Tarantula,C
+Targetblaster.com,Targetblaster.com,
+TargetSeek,TargetSeek,C
+Targetyournews.com bot,Targetyournews.com bot,
+Taringa,Taringa,C
+tarmot,tarmot.com,C
+TarmotBot,TarmotBot,C
+Tausdatabot,Tausdatabot,
+Taxinomiabot,Taxinomiabot,
+tbd.com,tbd.com,C
+tbot-nutch,tbot-nutch/Nutch-1.10,C
+TBPingLinkLookup,TBPingLinkLookup,C
+tchelebi,tchelebi,C
+tdmsic.org,tdmsic.org,C
+Teamsoft wininet component,Teamsoft wininet component,C
+TeamSpeak bot,TeamSpeak bot,
+techbook,techbook,C
+techiaith,techiaith,C
+TechkumarJobsBot,TechkumarJobsBot,C
+techleadz,techleadz.io,C
+Technoratibot,Technoratibot,
+Tecomi bot,Tecomi bot,
+Tecvidya,TecvidyaBot,C
+TeeRaidBot,TeeRaidBot,C
+Teezirbot,Teezirbot,
+TelderiBot,TelderiBot,C
+TelegramBot,TelegramBot,C
+Teleport,Teleport/1.1,C
+TeleportPro,TeleportPro/1.1,
+Teleskop,Teleskop,C
+Telesoft,Telesoft/1.1,
+Telesphoreo,Telesphoreo,C
+Telesphorep,Telesphorep,
+telnet0,telnet0,
+temnos.com,temnos.com,C
+temptingevents,temptingevents.com,C
+tenderbot,tenderbot,C
+Teoma,Teoma,C
+Teradex Mapper,Teradex Mapper,
+Teragram_crawler,Teragram_crawler,
+TerrawizBot,TerrawizBot,C
+test,test,C
+Test Certificate Info,Test Certificate Info,C
+Testbot,Testbot,C
+TestCrawler,TestCrawler,C
+Testing of bot,Testing of bot,
+Testomatobot,Testomatobot,C
+Tetrahedron,Tetrahedron,C
+Textbot,Textbot,C
+Textmetrics,Textmetrics,C
+textsale,textsale,C
+Thatrobotsite.com,Thatrobotsite.com,
+The dyslexalizer,The dyslexalizer,
+The Intraformant,The Intraformant/1.1,
+The.Intraformant,The.Intraformant/1.1,
+thecorrespondent,thecorrespondent.com,C
+TheFreeDictionary,TheFreeDictionary.com,C
+theinternetrules,theinternetrules,
+TheJavaSea,TheJavaSea.Com,C
+TheNomad,TheNomad/1.1,
+theoldreader,theoldreader,C
+theoldreader.com,theoldreader.com,C
+Theophrastus,Theophrastus,C
+thesecretinnercircle,thesecretinnercircle,C
+TheSuBot,TheSuBot/0.1,C
+thetradedesk,thetradedesk,C
+Theusefulbot,Theusefulbot,
+thief,thief,C
+thieves,thieves,C
+ThingFetcher,ThingFetcher,
+Thinglink ImageBot,Thinglink ImageBot,C
+Thinkery,Thinkery,C
+thinklab,thinklab.com,C
+thinkorswim,thinkorswim,C
+THIS PC WAS TAGGED BY DR.VINCE,THIS PC WAS TAGGED BY DR.VINCE,
+ThisIsOurYear_Linkchecker,ThisIsOurYear_Linkchecker,
+Thither.Direct,Thither.Direct,C
+thomann-linklenin,thomann-linklenin,C
+Thumbbot,Thumbbot,
+Thumbnail.CZ robot,Thumbnail.CZ robot,C
+thumboweb,thumboweb,C
+Thumbshots,Thumbshots,C
+ThumbShots-Bot,ThumbShots-Bot,C
+thumbshots-de-Bot,thumbshots-de-Bot,C
+Thumbshots.ru,Thumbshots.ru,
+ThumbSniper,ThumbSniper,C
+tigerbot,tigerbot,C
+TightTwatBot,TightTwatBot/1.1,
+Tiingo,Tiingo,C
+timboBot,timboBot,C
+TimeTreeBot,TimeTreeBot,C
+timewe.net,timewe.net,C
+TinEye,Tin Eye,C
+Tiny,Tiny,C
+TipTop,TipTop,C
+Titan,Titan/1.1,C
+titosgoa,titosgoa.com,C
+TkBot,TkBot/1.0,C
+Tkensaku,Tkensaku,C
+tldstat,tldstat.com,C
+tldstat.com crawler,tldstat.com crawler,
+tm.dloadstation,tm.dloadstation.com,C
+To-dress_ru_bot_,To-dress_ru_bot_,
+To-night-bot,To-night-bot,
+Toata,Toata,
+Toata dragostea mea pentru dia,Toata dragostea mea pentru diavola,
+tobbot,tobbot.com,C
+toCrawl,toCrawl/UrlDispatcher/1.1,
+toCrawlUrlDispatcher,toCrawlUrlDispatcher,
+TodoExpertosBot,TodoExpertosBot,C
+tomnomnom,tomnomnom,C
+TomTom places company search,TomTom places company search,
+Tools4noobs.com Spider,Tools4noobs.com Spider,
+Toolserver,Toolserver,C
+toot.lmorchard,toot.lmorchard.com,C
+topbloglog,topbloglog.com,C
+Topicalizer,Topicalizer,
+topicblogs,topicblogs,
+Topicbot,Topicbot,
+Toplistbot,Toplistbot,C
+Topserver php,Topserver php,
+topster,topster,C
+topster_de-crawler,topster_de-crawler,
+Topyx-crawler,Topyx-crawler,
+toquo.es,toquo.es,C
+torcheck,torcheck,C
+Toread-Crawler,Toread-Crawler,
+touche,touche,C
+Tourlentascanner,Tourlentascanner,
+ToutiaoSpider,ToutiaoSpider,C
+TouTrix crawler,TouTrix crawler,
+Toweya,Toweya.com,C
+Toweyabot,Toweyabot,
+Tpsystem,Tpsystem,
+Traackr,Traackr,C
+Traazi,Traazi,
+tracemyfile,tracemyfile.com,C
+trackit,trackit.newsusa.com,C
+TradexorPublisher,TradexorPublisher,C
+trafilatura,trafilatura,C
+Trainerlink,Trainerlink,C
+Transgenikbot,Transgenikbot,
+Travel-search,Travel-search,
+Travelbot,Travelbot,
+Travellazerbot,Travellazerbot,
+TraxrBot,TraxrBot,C
+Treato-Bot,Treato-Bot,C
+Treezy,Treezy,
+Trendiction.com,Trendiction.com,C
+Trendiction.de,Trendiction.de,C
+trendictionbot,trendictionbot,C
+TrendsmapResolver,TrendsmapResolver,C
+trendspottr,trendspottr,C
+Trex,Trex,C
+Triberr,Triberr,C
+TridentSpider,TridentSpider,C
+TripleLiftBot,TripleLiftBot,C
+trivial,trivial,C
+troovziBot,troovziBot,
+trovator,trovator.com,C
+trovitBot,trovitBot,C
+trud.com,trud.com,C
+True_Robot,True_Robot/1.1,
+trueAnthem,trueAnthem,C
+TrueBot,TrueBot/1.0),C
+TrueProxy,TrueProxy,C
+Trustpilot,Trustpilot,C
+truwoGPS,truwoGPS,C
+Tscholarsbot,Tscholarsbot,
+tsearch.eu,tsearch.eu,C
+Tsm translation-search-machine,Tsm translation-search-machine,
+Tswebbot,Tswebbot,
+TTD-Content,TTD-Content,C
+Tubenew,Tubenew,C
+tulipchain,tulipchain,C
+Tumiabot,Tumiabot,C
+TuneFinder,TuneFinder,C
+turingos,turingos/1.1,C
+turnit,turnit,C
+Turnitin,Turnitin,C
+TurnitinBot,TurnitinBot/1.1,C
+TutorGigBot,TutorGigBot,
+Tutorial Crawler,Tutorial Crawler,
+tuum.com,tuum.com.br,C
+tweetedtimes,tweetedtimes,C
+Tweetedtimes bot,Tweetedtimes bot,C
+TweetmemeBot,TweetmemeBot,C
+Tweetminster,Tweetminster,
+tweezler,tweezler.com,C
+twenga,twenga,C
+TwengaBot,TwengaBot,C
+Twice,Twice,
+Twiceler,Twiceler,C
+Twikle,Twikle,
+Twingly,Twingly,C
+Twingly Recon,Twingly Recon,C
+Twinuffbot,Twinuffbot,
+Twisted pagegetter,Twisted pagegetter,
+twitterbot,twitterbot,C
+Twitturls,Twitturls,
+Twitturly,Twitturly,
+twlbowt,twlbowt,C
+TWMBot,TWMBot,C
+txtBot,txtBot,C
+TygoBot,TygoBot,
+Tygoprowler,Tygoprowler,C
+Typhoeus,Typhoeus,C
+TZUnfurlBot,TZUnfurlBot,C
+U.s. government printing offic,U.s. government printing office,
+u12Bot,u12Bot/5.0,C
+U2Bot,U2Bot,C
+UASlinkChecker,UASlinkChecker,
+Uberbot,Uberbot,
+ubermetrics,ubermetrics,C
+ubermetrics-technologies,ubermetrics-technologies,C
+Ucb-nutch,Ucb-nutch,
+uclassify,uclassify,C
+uclassify.com,uclassify.com,C
+UCSD-Crawler,UCSD-Crawler/1.1,
+UCWEB,UCWEB,C
+UdmSearch,UdmSearch,C
+Ufam-crawler-,Ufam-crawler-,
+ufoonline,ufoonline,C
+uipbot,uipbot,C
+ukrd.com,ukrd.com,C
+Ultraseek,Ultraseek,C
+uMBot,uMBot,C
+umbrella,umbrella bot,C
+UMichBot,UMichBot,C
+UnChaos,UnChaos,C
+unchaos_crawler,unchaos_crawler,
+Unicorn,Unicorn,C
+Unidentified,Unidentified,C
+uniplace-bot,uniplace-bot,C
+UnisterBot,UnisterBot/1.1,
+Unitek UniEngine,Unitek UniEngine,
+unity3d,unity3d.com,C
+UniversalFeedParser,UniversalFeedParser,C
+Universalsearch,Universalsearch,
+unix.jcom,unix.jcom,C
+Unpaywall,Unpaywall,C
+UnsplashBot,UnsplashBot,C
+UnusedCSS_bot,UnusedCSS_bot,C
+UnwindFetchor,UnwindFetchor/1.0/1.1,C
+Uoftdb_experiment,Uoftdb_experiment,
+updated,updated,C
+upday.com,upday.com,C
+Updownerbot,Updownerbot,
+Upflow,Upflow,C
+Uploadcare,Uploadcare.com,C
+UptimeDog,UptimeDog,
+UptimeRobot,UptimeRobot,C
+uptracs.com,uptracs.com,C
+URIports.com,URIports.com,C
+urishari.com,urishari.com,C
+URL Control,URL Control/1.1,C
+Url_gather,Url_gather,
+URL_Spider_Pro,URL_Spider_Pro,C
+Url-checker,Url-checker,C
+URLAppendBot,URLAppendBot,C
+Urlblaze,Urlblaze,
+URLChecker,URLChecker,C
+urlck,urlck/1.2.3/1.1,C
+UrlDispatcher,UrlDispatcher,
+urlfan-bot,urlfan-bot,
+Urlfilebot,Urlfilebot,C
+Urlfilebot (Urlbot),Urlfilebot (Urlbot),
+Urlid.Ru,Urlid.Ru,C
+URLitor,URLitor,C
+URLitor.com,URLitor.com,C
+urlresolver,urlresolver,C
+UrlShorter,UrlShorter,C
+URLSpiderPro,URLSpiderPro/1.1,
+URLSS,URLSS,
+Urlstat,Urlstat,C
+UrlTrends,UrlTrends,C
+urlwatch,urlwatch,C
+URLy,URLy,C
+URLy Warning,URLy Warning/1.1,C
+URLy.Warning,URLy.Warning/1.1,
+Usaf afkn k2spider,Usaf afkn k2spider,
+Usasearch,Usasearch,
+usecurio,usecurio.com,C
+useragentstring,useragentstring,C
+Uss-cosmix,Uss-cosmix,
+Usyd-nlp-spider,Usyd-nlp-spider,C
+UT-Dorkbot,UT-Dorkbot,C
+UtaNetBot,UtaNetBot,C
+UTSE,UTSE,C
+UXCrawlerBot,UXCrawlerBot,C
+Vacobot,Vacobot,
+Vacuum,Vacuum,C
+VadixBot,VadixBot,
+Vagabondo,Vagabondo,C
+Valet,Valet,C
+Validation Bot,Validation Bot,C
+validator,validator,C
+Valkyrie,Valkyrie/1.0 libwww-perl/0.40/1.1,C
+Vampire,Vampire,C
+vanheusden,vanheusden.com,C
+varnyu,varnyu.com,C
+vautronserver,vautronserver.de,C
+VB Project,VB Project,C
+vBSEO,vBSEO/1.1,C
+vBSEO_,vBSEO_,
+vc_scraper,vc_scraper,C
+VCI,VCI/1.1,C
+VCI WebViewer VCI WebViewer Wi,VCI WebViewer VCI WebViewer Win32,
+vdo.ai,vdo.ai,C
+vebidoobot,vebidoobot,C
+VeBot,VeBot,C
+Vedma,Vedma,
+VegeBot,VegeBot,
+Vegi bot,Vegi bot,C
+VelaBot,VelaBot,C
+Veoozbot,Veoozbot,C
+Verbstarbot,Verbstarbot,
+VeriCiteCrawler,VeriCiteCrawler,
+Verifactrola,Verifactrola,
+Verification-BOT,Verification-BOT,C
+Verity-url-gateway,Verity-url-gateway,
+Vermut,Vermut,
+versandwaren,versandwaren,C
+versellie,versellie.com,C
+versus crawler,versus crawler,
+Versus.integis.ch,Versus.integis.ch,C
+Very Good Recipes,Very Good Recipes,C
+veryhip,veryhip,C
+Verzamelgids,Verzamelgids,C
+veu.cat,veu.cat,C
+vialibri,vialibri.net,C
+Viasarchivinginformation.html,Viasarchivinginformation.html,C
+ViDA-NYU,ache,C
+Videographer,Videographer,C
+VideoSurf_bot,VideoSurf_bot,
+VidibleScraper,VidibleScraper,
+view-page-source,view-page-source,C
+vigil-app,vigil-app,C
+VigLink,VigLink,C
+Vigoos,Vigoos.com,C
+vikspi,vikspi,
+Vipro,Vipro,C
+virtual-strategy,virtual-strategy.com,C
+Virus_detector,Virus_detector,
+Virus-detector,Virus-detector,
+Virusdie,Virusdie,C
+Virusdie crawler,Virusdie crawler,C
+Visbot,Visbot,C
+Vishal for clia,Vishal for clia,
+Visibility.gr,Visibility.gr,C
+visionutils,visionutils,C
+visual-seo,visual-seo.com,C
+Visweb,Visweb,
+Vital search,Vital search,
+vitalbox,(vitalbox1@hotmail.com)/1.1,C
+VitoriaBot,VitoriaBot,C
+vkShare,vkShare,C
+Vlad,Vlad,C
+Vlsearch,Vlsearch,
+Vmbot,Vmbot,
+Vocusbot,Vocusbot,
+VoidEYE,VoidEYE/1.1,
+Voil,Voil,C
+VoilaBot,VoilaBot,C
+voltron,voltron,C
+VooVuuBot,VooVuuBot,C
+Vorboss Web Crawler,Vorboss Web Crawler,
+Vortex,Vortex,C
+voyager,voyager,C
+Vpsnavbot,Vpsnavbot,C
+VSAgent,VSAgent,C
+VSB-TUO,VSB-TUO,
+VSE,VSE,C
+Vspider,Vspider,C
+vtt-annonces,vtt-annonces.com,C
+vulnbusters,vulnbusters.com,C
+vurbl.com,vurbl.com,C
+vURL Online,vURL Online,C
+vv_scraper,vv_scraper,C
+VYU2,VYU2,C
+w3af,w3af,C
+W3C html2txt,W3C html2txt8,C
+W3c_unicorn,W3c_unicorn,C
+W3c-webcon,W3c-webcon,
+W3CRobot,W3CRobot,
+w3dt.net httphr,w3dt.net httphr,
+W3search,W3search,C
+W3Y3,W3Y3,C
+Wacbot,Wacbot,
+WakeletLinkExpander,WakeletLinkExpander,C
+Wallpapers/3.0,Wallpapers/3.0,
+WallpapersHD,WallpapersHD,C
+Wanadoo,Wanadoo,C
+wangling,wangling,C
+Wappalyzer,Wappalyzer,C
+wapx.amob,wapx.amob.com,C
+WASALive-Bot,WASALive-Bot,
+Wastrix,Wastrix,
+WatchMouse,WatchMouse,C
+Water conserve portal,Water conserve portal,
+Water conserve spider,Water conserve spider,
+Watzbot,Watzbot,
+Wauuu,Wauuu,
+Wavefire,Wavefire,
+WaybackMedic,WaybackMedic,C
+Waypath,Waypath,
+Wazzup,Wazzup,C
+Wbdbot,Wbdbot,
+WBSearchBot,WBSearchBot/1.1,C
+WbSrch,WbSrch,C
+Web Auto,Web Auto,
+Web ceo online robot,Web ceo online robot,
+Web Collage,Web Collage,
+Web crawler,Web crawler,C
+Web downloader,Web downloader,C
+Web Enhancer,Web Enhancer,
+Web Fetch,Web Fetch,
+Web Fuck,Web Fuck,
+Web Image Collector,Web Image Collector/1.1,
+Web link validator,Web link validator,C
+Web magnet,Web magnet,
+Web Pix,Web Pix,
+Web Sauger,Web Sauger,
+Web site downloader,Web site downloader,
+Web Sucker,Web Sucker/1.1,
+Web-agent,Web-agent,
+web-capture,web-capture,C
+web-capture.net,web-capture.net,
+Web-Monitoring,Web-Monitoring,C
+Web-sniffer,Web-sniffer,C
+Web-sniffer.me,Web-sniffer.me/1.0.0,
+Web.Image.Collector,Web.Image.Collector/1.1,
+Webalta,Webalta,C
+WebAlta Crawler,WebAlta Crawler,C
+Webaltbot,Webaltbot,
+webarchiv-knav,webarchiv-knav,C
+WebarooBot,WebarooBot,C
+webartex,webartex.ru,C
+WebArtexBot,WebArtexBot,C
+Webauskunft,Webauskunft,
+Webauskunft.org,Webauskunft.org,
+WebAuto,WebAuto/1.1,C
+WebBandit,WebBandit/1.1,
+Webbot,Webbot,C
+Webbul-bot,Webbul-bot,
+WebC-I.com,WebC-I.com,C
+WebCapture,WebCapture 2.0/1.1,C
+webceo.com,webceo.com,C
+Webcheck,Webcheck,C
+Webclipping,Webclipping,
+Webclipping.com,Webclipping.com,C
+webcollage,webcollage,C
+webconfs,webconfs.com,C
+WebCookies,WebCookies,C
+WebCopier,WebCopier/1.1,C
+WebCopy,WebCopy//1.1,C
+WebCorp,WebCorp,C
+webcrawl.net,webcrawl.net,C
+WebCrawler,WebCrawler,C
+WebDataCentreBot,WebDataCentreBot,
+WebDataStats,WebDataStats,C
+WEBDAV,WEBDAV,C
+webdepozit,webdepozit.sk,C
+WebDoc,WebDoc,C
+Webdownloader for x,Webdownloader for x,
+Webdup,Webdup,
+webeaver,webeaver.com,C
+WebEMailExtrac,WebEMailExtrac,
+WebEnhancer,WebEnhancer/1.1,
+WebFerret,WebFerret/1.1,
+WebFetch,WebFetch/1.1,C
+WebFetcher,WebFetcher/0.8/1.1,C
+WebFindBot,WebFindBot,C
+WebFuck,WebFuck,C
+webgains,webgains-bot,C
+WebGather,WebGather,
+Webglimpse,Webglimpse,C
+WebGo,WebGo,C
+WebGo IS,WebGo IS/1.1,
+Webgobbler,Webgobbler,
+WebGraph,WebGraph,C
+WebImageCollector,WebImageCollector,
+WebImages,WebImages,
+Webinator-search2,Webinator-search2,
+Webinator-wbi,Webinator-wbi,
+webinatorbot,webinatorbot,
+WebIndex,WebIndex,
+WebIndexer,WebIndexer,C
+webis,webis,C
+webkit2png,webkit2png,C
+weblayers,weblayers/0.0/1.1,
+WebLeacher,WebLeacher/1.1,
+Weblexbot,Weblexbot,
+WebLinker,WebLinker/0.0 libwww-perl/0.1/1.1,
+WeblisteBot,WeblisteBot,C
+Weblyzard,Weblyzard,
+webmastercoffee,webmastercoffee,C
+WebmasterWorld Extractor,WebmasterWorld Extractor/1.1,
+WebmasterWorldForumBot,WebmasterWorldForumBot/1.1,
+Webmeup-crawler,Webmeup-crawler,C
+Webminer,Webminer,
+webMirror,webMirror,C
+WebMoose,WebMoose/0.0.0000/1.1,
+Webnavigator,Webnavigator,
+WebNL,WebNL,
+webnumbrFetcher,webnumbrFetcher,C
+Webot,Webot,C
+WebPictures,WebPictures,C
+WebPix,WebPix,
+webPluck,webPluck,
+WebRankSpider,WebRankSpider,
+WebReaper,WebReaper/1.1,C
+Webripper,Webripper,C
+Webryt,Webryt,C
+WebSauger,WebSauger/1.1,C
+Webscan,Webscan,C
+Webscraper,Webscraper,C
+webscreenie,webscreenie,C
+WebSearch,WebSearch,C
+WebSearch.COM.AU,WebSearch.COM.AU,
+Websearchbench,Websearchbench,C
+Webshag,Webshag,
+Webshot,Webshot,C
+WebSite,WebSite,C
+Website eXtractor,Website eXtractor/1.1,
+Website Quester,Website Quester/1.1,
+Website.Quester,Website.Quester/1.1,
+WebsiteExtractor,WebsiteExtractor,
+websitepulse,websitepulse,C
+websitepulse checker,websitepulse checker,C
+WebsiteQuester,WebsiteQuester,
+Websnapr,Websnapr,C
+Webspear,Webspear,
+Websphinx,Websphinx,C
+WebSpider,WebSpider,C
+Websquash,Websquash,C
+Webster,Webster,C
+Webster Pro,Webster Pro/1.1,C
+Webster.Pro,Webster.Pro/1.1,
+WebStripper,WebStripper/1.1,C
+WebSucker,WebSucker,
+WebTarantula.com Crawler,WebTarantula.com Crawler,
+webtexttool,webtexttool,C
+Webthumb,Webthumb,C
+WebThumbnail,WebThumbnail,C
+Webtrafficexpress,Webtrafficexpress,
+Webtrends link analyzer,Webtrends link analyzer,C
+WebVac,WebVac/1.1,C
+WebViewer,WebViewer,
+WebVulnCrawl,WebVulnCrawl,
+WebVulnScan,WebVulnScan,
+webwalk,webwalk/1.1,
+WebWalker,WebWalker/1.1,
+Webwasher,Webwasher,C
+WebWatch,WebWatch/1.1,C
+WebWhacker,WebWhacker/1.1,
+Webxm,Webxm,
+webypress,webypress.fr,C
+WebZIP,WebZIP/1.1,C
+WeCrawlForThePeace,WeCrawlForThePeace,C
+Weddings.info,Weddings.info,
+WeedguideBot,WeedguideBot,C
+weibo,weibo.com,C
+WeLikeLinks,WeLikeLinks,
+WellKnownBot,WellKnownBot,C
+Wells_Search_II,Wells_Search_II,
+Wenbin,Wenbin,
+Wep search,Wep search,
+WEP_Search,WEP_Search,
+WEPA,WEPA,C
+Werelatebot,Werelatebot,
+WeSEE,WeSEE,C
+WeSEE_Bot,WeSEE_Bot,
+Weto,Weto,C
+WeViKa,WeViKa,
+WeViKaBot,WeViKaBot,
+wf_crawler,wf_crawler,C
+wf84,wf84,C
+Wget,Wget/1.1,C
+WGETbot,WGETbot,C
+Whack,Whack,
+Whacker,Whacker,
+WhatchaBot,WhatchaBot,
+whatcms,whatcms.com,C
+whatonemillionbuys,whatonemillionbuys,C
+WhatsApp,WhatsApp,C
+WhatsMyIP,WhatsMyIP,
+WhatsMyIP.org,WhatsMyIP.org,C
+Whatsnew Bot,Whatsnew Bot,C
+WhatWeb,WhatWeb,C
+wheresitup,wheresitup,C
+Whibse,Whibse,C
+Whirlpool web engine,Whirlpool web engine,
+whirlpool.net.au,whirlpool.net.au,C
+WhiteBot,WhiteBot,C
+WhizBang,WhizBang,C
+Who.is Bot,Who.is Bot,C
+whoapi,whoapi.com,C
+Whoismindbot,Whoismindbot,C
+Whoiswebsitebot,Whoiswebsitebot,C
+WhoRunsCoinHive,WhoRunsCoinHive.com,C
+WhoWhere Robot,WhoWhere Robot/1.1,
+Whynder,Whynder,
+Whynder Magnet,Whynder Magnet,
+WhyNoPadlock.com,WhyNoPadlock.com,C
+wibbitz,wibbitz.com,C
+WibulBot,WibulBot,C
+wideo.co,wideo.co,C
+Widow,Widow/1.1,C
+WijuBot,WijuBot,C
+Wijvan,Wijvan/1.0,C
+Wikiabot,Wikiabot,
+WikiBot,WikiBot,C
+WikiDo,WikiDo,C
+Wikio,Wikio,
+wikiocity,wikiocity.com,C
+wikiwix-bot,wikiwix-bot,
+Wikiwix-bot-,Wikiwix-bot-,C
+Wild Ferret Web Hopper,Wild Ferret Web Hopper,
+Willow Internet Crawler,Willow Internet Crawler,C
+WillyBot,WillyBot,
+Winhttp,Winhttp,C
+WinHTTP Example,WinHTTP Example,C
+WinHttpRequest Bot-Trap-Test,WinHttpRequest Bot-Trap-Test,
+WinHTTrack,WinHTTrack,
+WiniFighter,WiniFighter,C
+WinistaBot,WinistaBot,C
+winpodder,winpodder.com,C
+WinWebBot,WinWebBot,
+Wire,Wire,C
+wired-digital-newsbot,wired-digital-newsbot/1.5/1.1,
+wise-guys,wise-guys.nl,C
+WISEbot,WISEbot,C
+WiseGuys Robot,WiseGuys Robot,
+wiseman,wiseman,C
+WISENutbot,WISENutbot,C
+WiseWire,WiseWire,
+Wish-la,Wish-la,
+Wish-project,Wish-project,
+wisponbot,wisponbot,
+withknown,withknown.com,C
+wkhtmlto,wkhtmlto,C
+WMaker,WMaker,C
+WMCAI_robot,WMCAI_robot,
+Wmcai-robot,Wmcai-robot,
+Wminer,Wminer,
+Wmsbot,Wmsbot,
+wmtips,wmtips,C
+wmtips.com,wmtips.com,C
+WomlpeFactory,WomlpeFactory,C
+Wonder,Wonder,C
+wonderbot,wonderbot/JS 1.0,C
+woobot,woobot,C
+WooRank,WooRank,C
+WordChampBot,WordChampBot,C
+WordCountBot,WordCountBot,C
+WordPress.com bots,WordPress.com bots,
+Wordupbot,Wordupbot9,C
+WordupSearchbot,WordupSearchbot,C
+woriobot,woriobot,C
+Workdaybot,Workdaybot,C
+World web heritage,World web heritage,
+WorldBrewBot,WorldBrewBot,
+Worldshop,Worldshop,
+WormlyBot,WormlyBot,C
+Worqmada,Worqmada,
+WoTBoT,WoTBoT,C
+Wotbox,Wotbox,C
+WotWbot,WotWbot,C
+WOW32,WOW32,C
+WP Engine,WP Engine,C
+WP Links Bot,WP Links Bot,C
+WPEBot,WPEBot,C
+wpitchoune,wpitchoune,C
+wpmudev,wpmudev,C
+Wprecon,Wprecon,
+WPScan,WPScan,C
+WPSec,WPSec,C
+WPSiteImporterBot,WPSiteImporterBot,C
+wpspydr,wpspydr.com,C
+wptimecapsule,wptimecapsule,C
+wpwilson10,wpwilson10,C
+Wrenbot,Wrenbot,C
+wsAnalyzer,wsAnalyzer/1.0,C
+WSB-BOT,WSB-BOT,C
+wscheck,wscheck,C
+wscheck.com,wscheck.com,C
+WSP/1.0 Bot,WSP/1.0 Bot,C
+Wtop,WtopUserAgent,C
+Wume_crawler,Wume_crawler,C
+WURFL ImageEngine,WURFL ImageEngine,
+Www collector,Www collector,
+WWW-Collector-E,WWW-Collector-E,
+WWW-Mechanize,WWW-Mechanize,C
+WWW::Mechanize,WWW::Mechanize,
+www.adressendeutschland.de,www.adressendeutschland.de,
+www.iir.com,www.iir.com,C
+www.osaicbt.com,www.osaicbt.com,
+www.vinn.com.au,www.vinn.com.au,C
+WWWeasel,WWWeasel,C
+WWWOFFLE,WWWOFFLE/1.1,
+Wwwrobot,Wwwrobot,
+wwwster,wwwster,C
+WWWWanderer,WWWWanderer v3.0/1.1,
+Wwwxref,Wwwxref,
+wydaily,wydaily,C
+wydden,wydden.com,C
+Wysigot,Wysigot,C
+X-clawler,X-clawler,
+X-Litmus,X-Litmus-Link-Check,C
+X-Middleton,X-Middleton,C
+X09Mozilla,X09Mozilla,
+x100Bot,x100Bot/1.1.4,C
+X22Mozilla,X22Mozilla,
+x28-job-bot,x28-job-bot,C
+Xaldon,Xaldon,C
+Xaldon WebSpider,Xaldon WebSpider/1.1,C
+Xaldon_WebSpider,Xaldon_WebSpider/1.1,
+XaxisSemanticsClassifier,XaxisSemanticsClassifier,C
+XenForo,XenForo,C
+Xenu,Xenu,C
+Xenu Link Sleuth,Xenu Link Sleuth,C
+Xenu`s,Xenu`s,
+Xenu`s Link Sleuth,Xenu`s Link Sleuth,
+Xenu_Link_Sleuth,Xenu_Link_Sleuth,
+Xerka metabot,Xerka metabot,
+Xerka webbot,Xerka webbot,
+XGET,XGET/0.7/1.1,C
+xhamster,xhamster,C
+XilopixBot,XilopixBot,C
+Xing Bot,Xing Bot,C
+XING-contenttabreceiver,XING-contenttabreceiver,C
+xing.com,xing.com,C
+xintellibot,xintellibot,C
+xirq,xirq,C
+XmarksFetch,XmarksFetch,C
+XML Sitemaps Generator,XML Sitemaps Generator,C
+XmlSitemapGenerator,XmlSitemapGenerator,C
+xoBase,xoBase,C
+Xombot,Xombot,
+XoviBot,XoviBot,C
+XpowerpointBot,XpowerpointBot,C
+xpymep,xpymep,C
+Xpymep1.exe,Xpymep1.exe,C
+Xqrobot,Xqrobot,C
+xray,xray,C
+XunBot,XunBot,C
+xUSAx,xUSAx,C
+XYZBot,XYZBot,
+Y!j,Y!j,C
+Y!TunnelPro,Y!TunnelPro,C
+Yaanb,Yaanb,C
+yaanibot,yaanibot,C
+yacy,yacy,C
+Yacy.net,Yacy.net,C
+yacybot,yacybot,C
+YadowsCrawler,YadowsCrawler,
+YahooSeeker,YahooSeeker,C
+YakazBot,YakazBot,C
+YamanaLab-bot,YamanaLab-bot,
+YandeG,YandeG,C
+Yandex,Yandexbot,C
+Yanga,Yanga,
+Yanga WorldSearch Bo,Yanga WorldSearch Bo,
+Yanga worldsearch bot,Yanga worldsearch bot,
+Yapl.RU_Bot,Yapl.RU_Bot,C
+Yarienavoir.net,Yarienavoir.net,
+yAronet,yAronet.com,C
+Yasaklibot,Yasaklibot/1.1,C
+Yatkebot,Yatkebot,C
+Yats crawler,Yats crawler,C
+Ybot,Ybot,C
+Yealink,Yealink,C
+Yebolbot,Yebolbot,
+Yektanet,Yektanet,C
+yellowbp,yellowbp.com,C
+Yellowjacket,Yellowjacket,
+YellowLabTools,YellowLabTools,
+Yelpbot,Yelpbot,C
+yelpspider,yelpspider,
+yes,yes/1.1,C
+YesupBot,YesupBot/1.1,C
+Yeti,Yeti/1.1,C
+YextBot,YextBot,C
+Yieldbot,Yieldbot,C
+YioopBot,YioopBot,C
+YisouSpider,YisouSpider,C
+ynapse,ynapse,C
+Yo-yo,Yo-yo,
+YodaoBot,YodaoBot,C
+Yoleo,Yoleo,
+Yoleo Consumer,Yoleo Consumer,
+Yolinkbot,Yolinkbot,
+yomins.com,yomins.com,C
+YOOBI.de bot,YOOBI.de bot,
+yoogliFetchAgent,yoogliFetchAgent,C
+Yoono,Yoono,C
+Yooo,Yooo,C
+yoozBot,yoozBot-2.2,C
+yotpo,yotpo.com,C
+YottaaMonitor,YottaaMonitor,
+YottaBot,YottaBot,
+Yottacars_bot,Yottacars_bot,
+YottaShopping_Bot,YottaShopping_Bot,C
+YOUBot,YOUBot,C
+YoudaoBot,YoudaoBot,C
+your-search-bot,your-search-bot,C
+youreputation,youreputation.com,C
+yourls,yourls,C
+youseemii,youseemii,C
+YowedoBot,YowedoBot,
+YRSpider,YRSpider,
+ysbsq.com,ysbsq.com,C
+YunSecurityBot,YunSecurityBot,C
+yunusbot,yunusbot,C
+YurichevBot,YurichevBot,C
+YYSpider,YYSpider,C
+Z-Add Link Checker,Z-Add Link Checker,
+ZaclysBot,ZaclysBot,C
+Zade,Zade,C
+Zagrebin,Zagrebin,C
+Zao,Zao,C
+Zatka,Zatka,
+Zauba,Zauba,
+Zealbot,Zealbot,C
+ZeBot,ZeBot,C
+Zedzo.validate,Zedzo.validate,C
+zeef.com,zeef.com,C
+ZeerchBot,ZeerchBot,C
+ZeewhoisBot,ZeewhoisBot,C
+ZelistBot,ZelistBot,C
+Zeller,Zeller,C
+Zemanta,Zemanta,C
+zenback,zenback,C
+zencancan,zencancan,C
+Zermelo,Zermelo,C
+Zeus,Zeus/1.1,C
+Zeus Link Scout,Zeus Link Scout,
+Zeus_,Zeus_,C
+zgrab,zgrab,C
+Zhaofeng,Zhaofeng_Li,C
+Zibber-v,Zibber-v,C
+Ziepod,Ziepod,C
+ZiloreBot,ZiloreBot,C
+Zimeno,Zimeno,
+Zing-bottabo,Zing-bottabo,
+ZIPCodeBuyBot,ZIPCodeBuyBot,
+ZipCommander,ZipCommander,C
+zipfworks,zipfworks,C
+Zippia Bot,Zippia Bot,C
+ZipppBot,ZipppBot,C
+ZippyshareSearch,ZippyshareSearch,C
+zitebot,zitebot,
+ZmEu,ZmEu,C
+ZnajdzFoto,ZnajdzFoto,
+ZoekPro/,ZoekPro/,C
+Zombiebot,Zombiebot,C
+zonefiles.,zonefiles.,C
+Zongbot,Zongbot,
+zoo-dom.com,zoo-dom.com.ua,C
+Zookabot,Zookabot,
+ZoomBot,ZoomBot,C
+ZoomInfo bot,ZoomInfo bot,
+ZoominfoBot,ZoominfoBot,C
+ZoomInformation,ZoomInformation,C
+Zoomspider,Zoomspider,
+zootycoon,zootycoon.com,C
+Zootzle,Zootzle,C
+zorkk,zorkk.com,C
+Zotag search,Zotag search,
+ZSEBOT,ZSEBOT,C
+Zuhause(ARexx),Zuhause(ARexx),
+Zuibot,Zuibot,
+ZumBot,ZumBot,C
+ZuperlistBot,ZuperlistBot,C
+ZyBorg,ZyBorg/1.1,C
+Zyte,Zyte,C
+zzamsjc,zzamsjc.com,C

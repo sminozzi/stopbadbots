@@ -1,0 +1,295 @@
+=== Stop Bad Bots ===
+This file contains changelog entries, so we can keep the size of the standard WordPress readme.txt file reasonable.
+
+
+== Changelog ==
+11.29/30  2025-05-27 - Intehraton with Fail2ban.
+11.27/28  2025-05-06 - Improvements error detection.
+11.26  2025-04-30 - Improvements error detection.
+11.25  2025-04-01 - Improvements error detection.
+11.24  2025-03-03 - Improvements error detection.
+11.22/23  2025-03-01 - Improvements error detection.
+11.21  2025-02-11 - Improvements error detection.
+11.19/20  2025-02-04 - Improvements error detection.
+11.18  2025-01-30 - Improvements bot detection.
+11.13/17  2025-01-08 - Small Improvements.
+11.12  2025-01-04 - Small Improvements.
+11.10/11  2024-12-29 - Added Auto Diagnose with IA.
+11.09  2024-12-27 - small improvements.
+11.06/08  2024-12-24 - small improvements.
+11.04/05  2024-12-22 - Added chat with IA to help on deactivation
+11.03  2024-12-21 - Fixed warning about textdomain
+11.01/02 -2024-12-18-Added Chat with IA for help about issues.
+10.61 -2024-12-06-Improved provider control.
+10.60 -2024-11-28-Improved Messages from premature header sent.
+10.59 -2024-10-11-Imroved errors warnings.
+10.58 -2024-09-30-Fixed small issue with warning (line 626...).
+10.57 -2024-09-25-Translation files improved.
+10.56 -2024-09-10-Fixed small bug on bots table order by.
+10.55 -2024-09-06-Translation files improved.
+10.51 -2024-09-05-Translation files improved.
+10.49/50 -2024-08-12-Small Dashboard Improvements.
+10.46/48 -2024-08-01-Small Improvements.
+10.44/45 -2024-07-31 Small Improvements.
+10.41/43 -2024-07-29 Improved Speed.
+10.40 -2024-07-04 Cached Search engine ips.
+10.39 -2024-07-02 Tables Management Fixed.
+10.38 -2024-06-27 Small Improvements.
+10.37 -2024-06-23 Small Improvements.
+10.35/36 -2024-06-22 Installed new framework.
+10.34 -2024-06-19 Fixed database error on update.
+10.33 -2024-06-19 Small Improvements.
+10.30/31 -2024-06-17 Small Improvements.
+10.28/29 -2024-06-06 Small Improvements.
+10.24 -2024-05-20 Small Improvements on readme page.
+10.22/23 -2024-05-18 Small Improvements.
+10.21 -2024-05-17 Fixed Issue on database error table.
+10.20 -2024-05-16 Small Improvements.
+10.17/19 -2024-05-15 Fixed issue with mysql STRICT_DEFAULT_VALUES configuration.
+10.16 -2024-05-03 Small Improvements to make install easier.
+10.15 -2024-04-17 Small Improvements
+10.14 -2024-04-05 Small security Improvements
+10.13 -2024-04-03 Fixed error on line 5291 functions.php
+10.12 -2024-04-03 Small Improvements
+10.11 -2024-03-21 Fixed small bug at charts
+10.09/10 -2024-03-20 Fixed Fill Tables at Install.
+10.07/10.08 -2024-03-18 Small Improvements.
+10.05/06 -2024-03-07 Fixed Warning.
+10.04 -2024-03-03 Fixed Warning.
+10.03 -2024-03-02 Small Improvements
+10.01/02 -2024-03-01 Included more analytics and customized Cron
+9.24 - 2024-02-24 Improved Security
+9.22/23 - 2024-02-18 Small Improvements to get Server name and Method.
+9.18/21 - 2024-02-10 Small Improvements to detect search engines.
+9.17 - 2023-12-02 Small Improvements.
+9.16 - 2023-11-16-Improved Chrome fingerprint.
+9.15 - 2023-11-05-Improved Feedback.
+9.14 - 2023-10-26-Improved Visitors Log and charts.
+9.13 - 2023-10-23-Improved Feedback.
+9.12 - 2023-10-16-Improved catch Javascript errors.
+9.11 - 2023-10-15-Improved catch Javascript errors.
+9.10 - 2023-10-08-Improved Install
+9.09 - 2023-08-23-Improved Install
+9.08 - 2023-08-23-Improved Install
+9.07 - 2023-08-22-Improved Install
+9.04/06 - 2023-08-17-Improved errors control
+9.03 - 2023-08-17-Improved Install
+9.02 - 2023-08-02-Small Improvements
+9.01 - 2023-07-26-Removed Warning
+9.00 - 2023-07-24-Improved install time.
+8.05/8.07 - 2023-07-24-Improved install time.
+8.03/04 - 2023-07-20-Improved Help and usability.
+8.01/02 - 2023-07-15-Improved integration with our anti-hacker plugin.
+8.00 - 2023-07-05-Added visits log page and small improvements
+7.33 - 2023-06-01-Smal Improvements and avoid javascript error at console
+7.32 - 2023-05-04-Improved Security by avoid admin input HTML/Javascript in tables
+7.30/31 - 2023-03-31-Smal Improvements
+7.28 and 29 - 2023-03-15-Smal Improvements
+7.27 - 2023-03-15-Improved block of tablets
+7.26 - 2023-03-07-Improved Help
+7.25 - 2022-11-30-Improved Security
+7.24 - 2022-11-14-Improved Security
+7.23 - 2022-10-12-Add Germany Language and fixed error in functions.php
+7.22 - 2022-08-11-Improved Filter to block bad host
+7.21 - 2022-06-30-Added check to avoid try to create existent tables.
+7.20 - 2022-06-23-Fixed conflict with another plugin.
+7.19 - 2022-06-21-Try to avoid error when hosting not define $_SERVER['SERVER_ADDR'].
+7.17-18 - 2022-06-17-Fixed Error in functions Line 5771.
+7.15/7.16 - 2022-06-16-Improved Dashboard and Help.
+7.14 - 2022-06-11-Wrapped PHP function gethostbyaddr() to avoid hosting restrictions issues.
+7.13 - 2022-04-29-Minor Improvements.
+7.12 - 2022-04-24-Small Bug at Dashboard
+7.11 - 2022-04-22- Multilingual ready. Translated in Italian and Portuguese.
+7.10 - 2022-04-18-Improved Dashboard.
+7.09 - 2022-04-17-Improved Dashboard.
+7.07/7.08 - 2022-04-07-Minor Bug Fixed at charts.
+7.06 - 2022-04-05-Minor Bug Fixed.
+7.05 - 2022-04-05-Improved Security.
+7.04 - 2022-04-04-Improved Security.
+7.02/7.03 - 2022-03-21 Improved Security.
+7.01 - 2022-03-18 Improved Security.
+7.00 - 2022-03-17 Improved Security.
+6.930 - 2022-03-14 Improved Security.
+6.91/92 - 2022-03-11 Help Improvements.
+6.90 - 2022-03-10 small bug on query fixed
+6.89 - 2022-03-10 Improved Security
+6.88 - 2022-03-09 Improved Security
+6.87 - 2022-03-09 Improved Security
+6.86 - 2022-03-09 Improved Security
+6.85 - 2022-03-08 Improved Security
+6.84 - 2022-03-07 Improved Security
+6.83 - 2022-03-07 Fixed small bug at query
+6.82 - 2022-01-23 Fixed small bug at query
+6.81 - 2022-01-23 Added Debug Tag with debug info at dashboard
+6.80 - 2022-01-22 removed warning message (deny)
+6.79 - 2022-01-22 Minor Improvements with Fingerprint (Clean deny 1 x hour)
+6.78 - 2022-01-20 Minor Improvements
+6.77 - 2022-01-04 Minor Improvements
+6.76 - 2021-12-29 Minor Improvements
+6.75 - 2021-12-29 Minor Improvements
+6.74 - 2021-12-29 Minor Improvements
+6.73 - 2021-12-29 Minor Improvements
+6.72 - 2021-12-05 improved Help system
+6.71 - 2021-11-08 improved Help system
+6.70 - 2021-11-08 improved security
+6.69 - 2021-10-19 improved Help
+6.68 - 2021-10-19 improved Help
+6.67 - 2021-10-13 improved security
+6.66 - 2021-09-29 Fixed Smal Bug in Menu
+6.65 - 2021-09-27 Minor Improvements.
+6.64 - 2021-09-27 Minor Improvements.
+6.63 - 2021-08-24 Improved security.
+6.62 - 2021-08-23 Improved security, updated bootstrap and other minor improvements.
+6.61 - 2021-08-17 Improved security in Tables pages.
+6.60 - 2021-08-02 Security Improvements.
+6.59 - 2021-08-02 Minor Improvements to avoid error 500 on some hosting.
+6.58 - 2021-07-13 Added 3 options to block engine management.
+6.57 - 2021-07-06 Improved fake browser filter.
+6.56 - 2021-06-28 Fixed problem with WordPress missing function wp_get_current_user() 
+6.55 - 2021-06-28 Added Block by country (China, Cuba, North Korea), Improved bots filter and compatibility with jatpack.
+6.54 - 2021-06-27 Improved block of fake browser.
+6.53 - 2021-06-24 Minor Bug Fixed. 
+6.52 - 2021-06-24 Minor Bug Fixed. 
+6.51 - 2021-06-24 Minor Bug Fixed. 
+6.50 - 2021-06-24 Added block for fake browser.
+6.40 - 2021-06-11 Force WordPress to load plugin.php if not loaded.
+6.39 - 2021-06-11 Minor Improvements and new extension (reCAPTCHA for All).
+6.38 - 2021-05-31 Improved HTTP Tools and minor other things.
+6.37 - 2021-05-12 Removed warning from central.
+6.36 - 2021-05-10 Removed CORS header to avoid PHP warning.
+6.35 - 2021-05-03 Problem to upload last version.
+6.34 - 2021-05-03 Minor Improvements.
+6.33 - 2021-05-02 Fixed Minor Bug Error in Functions Line 311
+6.32 - 2021-04-27 Added Central to manage many sites.
+6.31 - 2021-04-09 Improved charts and Removed Version check.
+6.30 - 2021-04-09 Improved Whitelist.
+6.29 - 2021-04-06 Improved email Notifications.
+6.28 - 2021-04-06 Improved Notifications.
+6.27 - 2021-03-29 Improved HTTP Tools.
+6.26 - 2021-03-04 Improvements Update of HTTP tools.
+6.25 - 2021-03-04 Improvements at HTTP tools.
+6.24 - 2021-03-04 Minor Improvements
+6.23 - 2021-01-12 Increased Max Execution side to 60, if is minor than 60
+6.22 - 2020-12-29 Optimized query.
+6.21 - 2020-12-21 Optimized query and added visitors log time control.
+6.20 - 2020-12-10 Improved Hacker Block and add more http tools.
+6.19 - 2020-11-17 Fixed Improved activation time.
+6.18 - 2020-11-11 Fixed Issue with auto update.
+6.17 - 2020-11-11 Fixed Issue to Upload to WP Servers.
+6.16 - 2020-11-11 Minor improvements.
+6.15 - 2020-11-04 Added more BadIps and Bad referrer and other improvements.
+6.14 - 2020-10-27 Added Report of Visits Log with whitelist Button
+6.13 - 2020-10-14 Minor Improvements.
+6.12 - 2020-10-12 Improved dismiss banners button.
+6.11 - 2020-08-23 Improved Cron Jobs to keep databases small.
+6.10 - 2020-07-21 Fix Uninstall to remove all tables.
+6.09 - 2020-07-10 Fix the CloudFlare wrong IP.
+6.08 - 2020-04-09 Fix small bug in functions PHP with customized prefix.
+6.07 - 2020-04-01 Small Improvements
+6.06 - 2020-02-14 Create table fingerprint if not exists
+6.05 - 2020-02-10 Improved queries
+6.04 - 2020-02-09 Fixed small bug in Cron Jobs
+6.03 - 2020-02-08 Small Improvements
+6.02 - 2020-01-11 Reinforce the Status code 403 to blocked bots.
+6.01 - 2020-01-10 Small Improvements
+6.00 - 2020-01-02 Adde Whitelist, Block HTTP tools, Limit Boat Visits, Automatic Plugin Upgrade Option,
+                  Improved Dashboard.
+5.59 - 2019-12-22 Improved Memory Management.
+5.58 - 2019-12-10 Fixed missed graph file on Dashboard.
+5.57 - 2019-12-10 Improved Dashboard.
+5.56 - 2019-11-20 Added protection against spam for WP Forms Plugin.
+5.55 - 2019-11-11 Added protection against spam for Contact Form 7 Plugin and Comments Form.
+5.54 - 2019-11-01 Added protection against spammers.
+5.53 - 2019-10-22 False Google Bot check included.
+5.52 - 2019-09-10 Improved Help.
+5.51 - 2019-09-02 Added User Enumeration and PingBack Request Block.
+5.50 - 2019-08-06 Problem to upload previous version.
+5.49 - 2019-08-06 Improved speed.
+5.48 - 2019-07-11 Improved Compatibility with anothers plugins.
+5.47 - 2019-07-04 Prevent zlib warning when debug is active.
+5.46 - 2019-07-04 Problem to Upload previous version to WordPress.
+5.45 - 2019-07-04 Prevent zlib warning when debug is active.
+5.44 - 2019-06-28 Improved Bad Ip Block System
+5.43 - 2019-04-17 Improved Site Health information.
+5.42 - 2019-04-02 Added block tool to Empty User Agents, Test Mode Status, improved low memory messages and link to setting in plugins page.
+5.41 - 2019-03-23 Improved Low Memory Messages.
+5.40 - 2019-03-20 Saved some scripts only with Linux end of line and removed windows end of line.
+5.39 - 2019-03-13 Improved Low Memory Fix System.
+5.38 - 2019-03-05 Load quickly pluggable.php.
+5.37 - 2019-03-05 Improved Multisite with super_admin control.
+5.36 - 2019-03-01 Improved Dashboard.
+5.35 - 2019-02-27 Added Tol to Fix the low memory issue of the site with one click.
+5.34 - 2019-02-18 Included Table Bad Referer/referral.
+5.33 - 2019-02-13 Table Optimizations 3.
+5.32 - 2019-02-12 Table Optimizations 2.
+5.31 - 2019-02-12 Table Optimizations.
+5.30 - 2019-02-12 Added more 605 bad ips.
+5.29 - 2019-02-12 Added more 1050 bots.
+5.28 - 2019-01-17 Begin to show 403 Forbidden page to blocked bots.
+5.27 - 2019-01-03 Improved Firewall Notifications.
+5.26 - 2019-01-02 Improved Firewall Notifications.
+5.25 - 2019-01-01 Improved Dashboard Notifications.
+5.24 - 2019-01-01 Improved Dashboard Notifications.
+5.23 - 2018-12-26 Added Firewall to Pro Version.
+5.22 - 2018-12-16 Improved Performance.
+5.21 - 2018-12-04 Improved Performance.
+5.20 - 2018-11-30 Improved Performance.
+5.19 - 2018-11-26 Improvement (dashboard-Layout).
+5.18 - 2018-11-22 Improvement (dashboard-Layout).
+5.17 - 2018-11-01 Improvement (dashboard-Layout).
+5.16 - 2018-10-29 Improvement (dashboard-Layout).
+5.15 - 2018-10-28 Stats improvement (graph).
+5.14 - 2018-10-28 Included new dashboard.
+5.13 - 2018-10-25 Minor bug fixed.
+5.12 - 2018-10-25 Minor bug fixed.
+5.11 - 2018-10-24 Improved Stats.
+5.10 - 2018-10-22 Engine Improvements.
+5.09 - 2018-10-11 Start Up Guide Improvements.
+5.08 - 2018-10-07 Help Improvements.
+5.05 to 5.07 - 2018-10-04 Help Improvements.
+5.01 to 5.04 2018-09-21- Small improvements.
+5.00 2018-09-14- Included IPs Table.
+4.80 2018-09-04- Improved Help and design.
+4.79 2018-08-08- Improved Help.
+4.78 2018-05-07- Improved low memory checkup and warning.
+4.77 2018-03-21- Don't empty bots table when updated or restarted.
+4.76 2018-03-20- Improved bot filter.
+4.75 2018-03-13- Minor bug fixed in functions.php.
+4.74 2018-03-13- Improved Security.
+4.73 2018-01-05- Improved Security.
+4.72 2018-01-05- Improved Security.
+4.71 2017-12-23- Improved Help.
+4.7 2017-12-13 -  Removed Debug Notice.
+4.6 2017-12-10 -  Fixed Minor Bug when update Version to save disabled bots status.
+4.5 2017-12-09 -  Fixed Minor Bug in activate /deactivate bots.
+4.4 2017-12-09 -  Improved Security.
+4.3 2017-12-07 -  Improved Help.
+4.2 2017-12-06 -  Improved Security.
+4.1 2017-12-06 -  Internal development.
+4.0 2017-11-02 -  Created Premium Version with weekly database updates.
+3.9 2017-10-31 -  Improved speed, removed inactive bots from table.
+3.8 2017-08-15 -  Help and Feedback improved.
+3.7 2017-06-06 -  Improved Memory optimization.
+3.6 2017-06-05 -  Improved Start Up Guide and tested with Wordpress 4.8
+3.5 2017-06-01 -  Add Memory Diagnose Tab.
+3.4 2017-05-30 -  Improved memory usage and replaced around 300 inactive bots with new actives.
+3.3 2017-05-05 -  Help text Improvements.
+3.2 2017-05-04 -  Help Improvements.
+3.1 2017-05-03 -  Force system to upload new bots
+3.0 2017-05-02 -  Add more than 1500 new bots bots
+2.7 2017-04-12 -  Feedback System Improvements
+2.6 2017-04-04 -  Plugin Management Dashboard Improvements
+2.5 2017-04-03 -  Night - We got some problem to upload version 2.4 to server, then, we decide created a new one.
+2.4 2017-04-03 -  Afternoon - Improved Management Panel and Security.
+2.3 2017-04-03 -  Morning -  Start Up Guide Updated and security improvements.
+2.2 2017-03-11 -  Improvements at Help System and Navigation.
+2.1 2017-01-24 -  Improvements at bots table and Included help file (english).
+2.0 2017-01-15 -  Included Bad bot's table online automatic update and My bad bots table merged with Bot's table.
+1.7 2017-01-05 -  Help and get ip improvements.
+1.6 2016-12-05 -  Tested with Wordpress 4.7
+1.5 2016-08-16 -  Removed Warning Message when WordPress Debug is true
+1.4 2016-08-05 -  Add Screen Options at bots table and readme.txt message was tested with WordPress 4.6. 
+1.3 2016-07-28 -  Add column Num Blocked at Bad Bots Table. (How many times each bot was blocked)
+1.2 2016-07-01 -  Improved email notification system.
+1.1 2016-05-27 -  Add more than 700 new bad bots and included search featured at bad bots table.
+1.0 2016-05-13 -  Initial Release

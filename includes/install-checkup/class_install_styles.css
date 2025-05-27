@@ -1,0 +1,39 @@
+.bill_install_wrap {
+    border-radius: 10px; /* Borda arredondada */
+    width: 90%; /* 90% do tamanho da tela */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
+    padding: 20px; /* Adicionando preenchimento */
+    margin: 0 auto; /* Centralizando na tela */
+    border: 1px solid gray;
+    background: white;
+    margin-top: 20px;
+}
+.bill_install_button-container {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 30px;
+    border-top: 1px solid #ccc; /* Borda cinza no topo */
+    padding-top: 20px; /* Adiciona espaço entre a borda e o conteúdo */
+}
+.bill_install_button-container a.button:not(:last-child) {
+    margin-right: 10px; /* Adiciona margem à direita apenas nos botões "Prev" e "Next" */
+}
+#bill-install-logo {
+        margin-top: 15px;
+        margin-bottom: 5px;
+}
+#bill-wrap-install-modal {
+  padding: 20px;
+  margin: 2em;
+  margin-right: 2em;
+
+  background: #eee;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 0 10px #173859;
+  -moz-box-shadow: 0 0 10px #173859;
+  box-shadow: 0 0 10px #173859;
+  width: 450px;
+
+}

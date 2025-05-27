@@ -1,0 +1,12 @@
+.bill_TB_window, .thickbox-loading{
+
+    max-width: 550px !important;
+ }
+
+#TB_title {
+
+   display: block !important;
+   /* margin-top: 30px !important; */
+
+
+ }

@@ -1,0 +1,247 @@
+/* Estilo para o container do chat box */
+#chat-box {
+    max-width: 700px;
+    /* Largura máxima */
+    margin: 20px auto;
+    /* Centraliza o chat */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    /* Sombra */
+    overflow: auto;
+    /* Permite o scroll interno */
+    border: 1px solid #ddd;
+    background-color: #fff;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+
+    resize: both;
+    /* Permite redimensionar em ambas as direções */
+}
+
+
+/* Estilo para o cabeçalho */
+#chat-header {
+    background-color: #007bff;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #bdbbbb;
+    color: white
+}
+
+#chat-header h2 {
+    margin: 0;
+    font-size: 18px;
+    color: white;
+}
+
+/* Estilo para as mensagens do chat */
+#chat-messages {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    background: #f9f9f9;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    white-space: pre-line;
+    /* Permite quebras de linha com <br> */
+}
+
+#chat-messages div {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+#chat-messages strong {
+    font-weight: bold;
+}
+
+/* Estilo para a mensagem de erro */
+#error-message {
+    color: red;
+    background-color: #ffecec;
+    border: 1px solid #ff5c5c;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    display: none;
+}
+
+/* Estilo para o formulário */
+
+
+#action-instruction {
+    font-size: 14px;
+    color: #555;
+    font-style: italic;
+}
+
+
+
+#chat-form {
+    display: flex;
+    flex-direction: column;
+    /* Organiza os itens em coluna */
+    gap: 10px;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+}
+
+#input-group {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    /* Garante que o grupo de input e botão ocupem toda a largura */
+}
+
+#chat-input {
+    flex: 1;
+    /* Permite que o campo de entrada ocupe o espaço restante */
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#chat-form button {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#auto-checkup,
+#auto-checkup2 {
+    display: flex;
+    align-items: center;
+    /* Alinha a imagem e o texto verticalmente */
+    justify-content: center;
+    /* Alinha o conteúdo no centro do botão */
+}
+
+#auto-checkup img {
+    margin-right: 8px;
+    /* Espaço entre a imagem e o texto */
+}
+
+.auto-checkup-container {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+}
+
+#auto-checkup-button {
+    margin-top: 10px;
+    align-self: center;
+    max-width: 300px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#chat-form button:hover {
+    background-color: #0056b3;
+}
+
+/* Estilização para botão desabilitado */
+#chat-form button:disabled {
+    background-color: #ccc;
+    /* Cor de fundo cinza */
+    color: #666;
+    /* Cor do texto mais escura */
+    cursor: not-allowed;
+    /* Cursor indicando que não está interativo */
+    opacity: 0.6;
+    /* Opacidade para um efeito visual de desabilitado */
+}
+
+/* Spinner */
+.spinner999 {
+    position: relative;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #f65c09;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    display: none;
+}
+
+.spinner999::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 50%;
+    background-color: #c2bdbd;
+    z-index: -1;
+}
+
+/* Animação de rotação */
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Mensagens de usuário */
+.user-message {
+    background-color: #d1f7d6;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    max-width: 80%;
+    align-self: flex-end;
+    color: #000;
+}
+
+.user-message.pending {
+    opacity: 0.6;
+    background-color: #f0f0f0;
+    color: #aaa;
+}
+
+.user-message.error {
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;
+    color: #721c24;
+}
+
+/* Mensagens do servidor */
+.server-message {
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    max-width: 80%;
+    align-self: flex-start;
+}
+
+#gif-container {
+    padding: 10px;
+}
