@@ -38,7 +38,7 @@ Stop Bad Bots Protection, Block SPAM bots, Crawlers and spiders and botnets. Sav
 >Português: Bloqueia Bots, SPAM bots, Crawlers e spiders sem DNS Cloud ou API (EndPoint) redirecionamento de tráfego e sem deixar seu site lento. Sem penalidades do Google. Traduzido em Português.
 
 
-**If you're in a hurry and don't want to spend much time configuring the plugin, consider installing our <a href="https://wordpress.org/plugins/antibots">Beginner-Friendly Anti BOts Plugin</a> instead.** 
+
 
 **Introducing our new comprehensive visits log page with Ajax-powered traffic monitoring. Analyze and dive deep into the visits your website receives, including hack attempts. And yes, you will know when Googlebot visits you (googlebot, big, Twitter, Facebook and other bots). Take full control by effortlessly adding visitors to the blacklist or whitelist with a single click when needed.**
 
@@ -107,11 +107,11 @@ Easily integrated with our anti hacker plugin to add an extra layer of protectio
 
 == Check Page Load Time (speed test website) ==
 This plugin allows you to monitor the average load time for each page (page speed test) on your site, generate a chart showcasing the load times for the past 7 days, and identify the 20 slowest-loading pages.
-<a href="https://wordpress.org/plugins/wptools/">wpTools free plugin</a> 
+<a href="https://wptoolsplugin.com/">wpTools free plugin</a> 
 
 == reCAPTCHA V3 (and Turnstile Cloudflare) for all pages of your site ==
 If you want protect ALL pages of yoursite with invisible reCAPTCHA or Turnstile Cloudflare, try this new free plugin:
-<a href="https://wordpress.org/plugins/recaptcha-for-all/">reCAPTCHA For All free plugin</a> 
+<a href="https://recaptchaforall.com/">reCAPTCHA For All free plugin</a> 
 Block spammers, hackers, crawlers, spiders and malicious traffic.
 
 == Block visitors from China, Cuba and North Korea ==
@@ -131,7 +131,7 @@ This plugin let you ban users by IP, user agent and referrer url.
 
 == Anti Hacker Protection ==
 If you want protect ALL pages of yoursite against hackers and their bots, try this free plugin: 
-<a href="https://wordpress.org/plugins/antihacker/">Anti Hacker free plugin</a> 
+<a href="https://antihackerplugin.com/">Anti Hacker free plugin</a> 
 We recommend and facilitate the installation of this free plugin, with just one click, on our plugin dashboard, visible immediately after installing Stop Bad Bots.
 
 * Prevent unauthorized access to your account by protect your login page also against bots and brute force.
@@ -183,26 +183,20 @@ and look for Analytics SPAM referral
 
 Free plugins from the same author:
 <ul>
-<li><a href="https://wordpress.org/plugins/wp-memory/" target="_self">WordPress Memory Management </a></li>
-<li><a href="https://wordpress.org/plugins/antihacker/">Anti Hacker and Security</a> </li>
-<li><a href="https://wordpress.org/plugins/wptools/">WordPress Tools</a>  </li>
+<li><a href="https://wpmemory.com/" target="_self">WordPress Memory Management </a></li>
+<li><a href="https://antihackerPlugin.com/">Anti Hacker and Security</a> </li>
+<li><a href="https://wptoolsplugin.com">WPtools plugin</a>  </li>
 </ul> 
 
 
 
 == Installation ==
-1) Install via wordpress.org
+1) Download and install
 2) Activate the plugin through the 'Plugins' menu in WordPress
 or
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
 
 == Frequently Asked Questions ==
-** How to Install? **
-1) Install via wordpress.org
-2) Activate the plugin through the 'Plugins' menu in WordPress
-or
-Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
-
 ** Where is the Startup Guide?  **
 http://stopbadbots.com/guide/
 
